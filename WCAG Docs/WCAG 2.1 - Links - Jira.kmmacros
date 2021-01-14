@@ -31,7 +31,7 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>1.1.1-md</string>
+						<string>1.1.1-jira</string>
 					</dict>
 				</array>
 			</dict>
@@ -66,7 +66,7 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>1.2.1-md</string>
+						<string>1.2.1-jira</string>
 					</dict>
 				</array>
 			</dict>
@@ -101,7 +101,7 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>1.2.2-md</string>
+						<string>1.2.2-jira</string>
 					</dict>
 				</array>
 			</dict>
@@ -136,7 +136,7 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>1.2.3-md</string>
+						<string>1.2.3-jira</string>
 					</dict>
 				</array>
 			</dict>
@@ -171,7 +171,7 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>1.3.1-md</string>
+						<string>1.3.1-jira</string>
 					</dict>
 				</array>
 			</dict>
@@ -206,7 +206,7 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>1.3.2-md</string>
+						<string>1.3.2-jira</string>
 					</dict>
 				</array>
 			</dict>
@@ -241,7 +241,7 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>1.3.3-md</string>
+						<string>1.3.3-jira</string>
 					</dict>
 				</array>
 			</dict>
@@ -276,7 +276,7 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>1.4.1-md</string>
+						<string>1.4.1-jira</string>
 					</dict>
 				</array>
 			</dict>
@@ -311,7 +311,7 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>1.4.2-md</string>
+						<string>1.4.2-jira</string>
 					</dict>
 				</array>
 			</dict>
@@ -346,7 +346,7 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>2.1.1-md</string>
+						<string>2.1.1-jira</string>
 					</dict>
 				</array>
 			</dict>
@@ -381,7 +381,7 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>2.1.2-md</string>
+						<string>2.1.2-jira</string>
 					</dict>
 				</array>
 			</dict>
@@ -416,7 +416,7 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>2.1.4-md</string>
+						<string>2.1.4-jira</string>
 					</dict>
 				</array>
 			</dict>
@@ -451,7 +451,7 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>2.2.1-md</string>
+						<string>2.2.1-jira</string>
 					</dict>
 				</array>
 			</dict>
@@ -486,7 +486,7 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>2.2.2-md</string>
+						<string>2.2.2-jira</string>
 					</dict>
 				</array>
 			</dict>
@@ -521,7 +521,7 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>2.3.1-md</string>
+						<string>2.3.1-jira</string>
 					</dict>
 				</array>
 			</dict>
@@ -556,7 +556,7 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>2.4.1-md</string>
+						<string>2.4.1-jira</string>
 					</dict>
 				</array>
 			</dict>
@@ -591,7 +591,7 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>2.4.2-md</string>
+						<string>2.4.2-jira</string>
 					</dict>
 				</array>
 			</dict>
@@ -626,7 +626,7 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>2.4.3-md</string>
+						<string>2.4.3-jira</string>
 					</dict>
 				</array>
 			</dict>
@@ -661,7 +661,7 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>2.4.4-md</string>
+						<string>2.4.4-jira</string>
 					</dict>
 				</array>
 			</dict>
@@ -696,7 +696,7 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>2.5.1-md</string>
+						<string>2.5.1-jira</string>
 					</dict>
 				</array>
 			</dict>
@@ -731,7 +731,7 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>2.5.2-md</string>
+						<string>2.5.2-jira</string>
 					</dict>
 				</array>
 			</dict>
@@ -766,7 +766,7 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>2.5.3-md</string>
+						<string>2.5.3-jira</string>
 					</dict>
 				</array>
 			</dict>
@@ -801,7 +801,7 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>2.5.4-md</string>
+						<string>2.5.4-jira</string>
 					</dict>
 				</array>
 			</dict>
@@ -836,7 +836,7 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>3.1.1-md</string>
+						<string>3.1.1-jira</string>
 					</dict>
 				</array>
 			</dict>
@@ -871,7 +871,7 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>3.2.1-md</string>
+						<string>3.2.1-jira</string>
 					</dict>
 				</array>
 			</dict>
@@ -906,7 +906,7 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>3.2.2-md</string>
+						<string>3.2.2-jira</string>
 					</dict>
 				</array>
 			</dict>
@@ -941,7 +941,7 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>3.3.1-md</string>
+						<string>3.3.1-jira</string>
 					</dict>
 				</array>
 			</dict>
@@ -976,7 +976,7 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>3.3.2-md</string>
+						<string>3.3.2-jira</string>
 					</dict>
 				</array>
 			</dict>
@@ -1011,7 +1011,7 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>4.1.1-md</string>
+						<string>4.1.1-jira</string>
 					</dict>
 				</array>
 			</dict>
@@ -1046,7 +1046,7 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>4.1.2-md</string>
+						<string>4.1.2-jira</string>
 					</dict>
 				</array>
 			</dict>
@@ -1081,7 +1081,7 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>1.2.4-md</string>
+						<string>1.2.4-jira</string>
 					</dict>
 				</array>
 			</dict>
@@ -1116,7 +1116,7 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>1.2.5-md</string>
+						<string>1.2.5-jira</string>
 					</dict>
 				</array>
 			</dict>
@@ -1151,7 +1151,7 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>1.3.4-md</string>
+						<string>1.3.4-jira</string>
 					</dict>
 				</array>
 			</dict>
@@ -1186,7 +1186,7 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>1.3.5-md</string>
+						<string>1.3.5-jira</string>
 					</dict>
 				</array>
 			</dict>
@@ -1221,7 +1221,7 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>1.4.3-md</string>
+						<string>1.4.3-jira</string>
 					</dict>
 				</array>
 			</dict>
@@ -1256,7 +1256,7 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>1.4.4-md</string>
+						<string>1.4.4-jira</string>
 					</dict>
 				</array>
 			</dict>
@@ -1291,7 +1291,7 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>1.4.5-md</string>
+						<string>1.4.5-jira</string>
 					</dict>
 				</array>
 			</dict>
@@ -1326,7 +1326,7 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>1.4.10-md</string>
+						<string>1.4.10-jira</string>
 					</dict>
 				</array>
 			</dict>
@@ -1361,7 +1361,7 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>1.4.11-md</string>
+						<string>1.4.11-jira</string>
 					</dict>
 				</array>
 			</dict>
@@ -1396,7 +1396,7 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>1.4.12-md</string>
+						<string>1.4.12-jira</string>
 					</dict>
 				</array>
 			</dict>
@@ -1431,7 +1431,7 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>1.4.13-md</string>
+						<string>1.4.13-jira</string>
 					</dict>
 				</array>
 			</dict>
@@ -1466,7 +1466,7 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>2.4.5-md</string>
+						<string>2.4.5-jira</string>
 					</dict>
 				</array>
 			</dict>
@@ -1501,7 +1501,7 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>2.4.6-md</string>
+						<string>2.4.6-jira</string>
 					</dict>
 				</array>
 			</dict>
@@ -1536,7 +1536,7 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>2.4.7-md</string>
+						<string>2.4.7-jira</string>
 					</dict>
 				</array>
 			</dict>
@@ -1571,7 +1571,7 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>3.1.2-md</string>
+						<string>3.1.2-jira</string>
 					</dict>
 				</array>
 			</dict>
@@ -1606,7 +1606,7 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>3.2.3-md</string>
+						<string>3.2.3-jira</string>
 					</dict>
 				</array>
 			</dict>
@@ -1641,7 +1641,7 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>3.2.4-md</string>
+						<string>3.2.4-jira</string>
 					</dict>
 				</array>
 			</dict>
@@ -1676,7 +1676,7 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>3.3.3-md</string>
+						<string>3.3.3-jira</string>
 					</dict>
 				</array>
 			</dict>
@@ -1711,7 +1711,7 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>3.3.4-md</string>
+						<string>3.3.4-jira</string>
 					</dict>
 				</array>
 			</dict>
@@ -1746,7 +1746,7 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>4.1.3-md</string>
+						<string>4.1.3-jira</string>
 					</dict>
 				</array>
 			</dict>
@@ -1781,7 +1781,7 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>1.2.6-md</string>
+						<string>1.2.6-jira</string>
 					</dict>
 				</array>
 			</dict>
@@ -1816,7 +1816,7 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>1.2.7-md</string>
+						<string>1.2.7-jira</string>
 					</dict>
 				</array>
 			</dict>
@@ -1851,7 +1851,7 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>1.2.8-md</string>
+						<string>1.2.8-jira</string>
 					</dict>
 				</array>
 			</dict>
@@ -1886,7 +1886,7 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>1.2.9-md</string>
+						<string>1.2.9-jira</string>
 					</dict>
 				</array>
 			</dict>
@@ -1921,7 +1921,7 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>1.3.6-md</string>
+						<string>1.3.6-jira</string>
 					</dict>
 				</array>
 			</dict>
@@ -1956,7 +1956,7 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>1.4.6-md</string>
+						<string>1.4.6-jira</string>
 					</dict>
 				</array>
 			</dict>
@@ -1991,7 +1991,7 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>1.4.7-md</string>
+						<string>1.4.7-jira</string>
 					</dict>
 				</array>
 			</dict>
@@ -2026,7 +2026,7 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>1.4.8-md</string>
+						<string>1.4.8-jira</string>
 					</dict>
 				</array>
 			</dict>
@@ -2061,7 +2061,7 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>1.4.9-md</string>
+						<string>1.4.9-jira</string>
 					</dict>
 				</array>
 			</dict>
@@ -2096,7 +2096,7 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>2.1.3-md</string>
+						<string>2.1.3-jira</string>
 					</dict>
 				</array>
 			</dict>
@@ -2131,7 +2131,7 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>2.2.3-md</string>
+						<string>2.2.3-jira</string>
 					</dict>
 				</array>
 			</dict>
@@ -2166,7 +2166,7 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>2.2.4-md</string>
+						<string>2.2.4-jira</string>
 					</dict>
 				</array>
 			</dict>
@@ -2201,7 +2201,7 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>2.2.5-md</string>
+						<string>2.2.5-jira</string>
 					</dict>
 				</array>
 			</dict>
@@ -2236,7 +2236,7 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>2.2.6-md</string>
+						<string>2.2.6-jira</string>
 					</dict>
 				</array>
 			</dict>
@@ -2271,7 +2271,7 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>2.3.2-md</string>
+						<string>2.3.2-jira</string>
 					</dict>
 				</array>
 			</dict>
@@ -2306,7 +2306,7 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>2.3.3-md</string>
+						<string>2.3.3-jira</string>
 					</dict>
 				</array>
 			</dict>
@@ -2341,7 +2341,7 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>2.4.8-md</string>
+						<string>2.4.8-jira</string>
 					</dict>
 				</array>
 			</dict>
@@ -2376,7 +2376,7 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>2.4.9-md</string>
+						<string>2.4.9-jira</string>
 					</dict>
 				</array>
 			</dict>
@@ -2411,7 +2411,7 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>2.4.10-md</string>
+						<string>2.4.10-jira</string>
 					</dict>
 				</array>
 			</dict>
@@ -2446,7 +2446,7 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>2.5.5-md</string>
+						<string>2.5.5-jira</string>
 					</dict>
 				</array>
 			</dict>
@@ -2481,7 +2481,7 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>2.5.6-md</string>
+						<string>2.5.6-jira</string>
 					</dict>
 				</array>
 			</dict>
@@ -2516,7 +2516,7 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>3.1.3-md</string>
+						<string>3.1.3-jira</string>
 					</dict>
 				</array>
 			</dict>
@@ -2551,7 +2551,7 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>3.1.4-md</string>
+						<string>3.1.4-jira</string>
 					</dict>
 				</array>
 			</dict>
@@ -2586,7 +2586,7 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>3.1.5-md</string>
+						<string>3.1.5-jira</string>
 					</dict>
 				</array>
 			</dict>
@@ -2621,7 +2621,7 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>3.1.6-md</string>
+						<string>3.1.6-jira</string>
 					</dict>
 				</array>
 			</dict>
@@ -2656,7 +2656,7 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>3.2.5-md</string>
+						<string>3.2.5-jira</string>
 					</dict>
 				</array>
 			</dict>
@@ -2691,7 +2691,7 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>3.3.5-md</string>
+						<string>3.3.5-jira</string>
 					</dict>
 				</array>
 			</dict>
@@ -2726,7 +2726,7 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>3.3.6-md</string>
+						<string>3.3.6-jira</string>
 					</dict>
 				</array>
 			</dict>
