@@ -18,7 +18,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[1.1.1 Non-text Content](https://www.w3.org/TR/WCAG21/#non-text-content)</string>
+						<string>[SC 1.1.1 Non-text Content](https://www.w3.org/TR/WCAG21/#non-text-content)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -53,7 +53,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[1.2.1 Audio-only and Video-only (Prerecorded)](https://www.w3.org/TR/WCAG21/#audio-only-and-video-only-prerecorded)</string>
+						<string>[SC 1.2.1 Audio-only and Video-only (Prerecorded)](https://www.w3.org/TR/WCAG21/#audio-only-and-video-only-prerecorded)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -88,7 +88,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[1.2.2 Captions (Prerecorded)](https://www.w3.org/TR/WCAG21/#captions-prerecorded)</string>
+						<string>[SC 1.2.2 Captions (Prerecorded)](https://www.w3.org/TR/WCAG21/#captions-prerecorded)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -123,7 +123,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[1.2.3 Audio Description or Media Alternative (Prerecorded)](https://www.w3.org/TR/WCAG21/#audio-description-or-media-alternative-prerecorded)</string>
+						<string>[SC 1.2.3 Audio Description or Media Alternative (Prerecorded)](https://www.w3.org/TR/WCAG21/#audio-description-or-media-alternative-prerecorded)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -158,7 +158,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[1.3.1 Info and Relationships](https://www.w3.org/TR/WCAG21/#info-and-relationships)</string>
+						<string>[SC 1.3.1 Info and Relationships](https://www.w3.org/TR/WCAG21/#info-and-relationships)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -193,7 +193,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[1.3.2 Meaningful Sequence](https://www.w3.org/TR/WCAG21/#meaningful-sequence)</string>
+						<string>[SC 1.3.2 Meaningful Sequence](https://www.w3.org/TR/WCAG21/#meaningful-sequence)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -228,7 +228,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[1.3.3 Sensory Characteristics](https://www.w3.org/TR/WCAG21/#sensory-characteristics)</string>
+						<string>[SC 1.3.3 Sensory Characteristics](https://www.w3.org/TR/WCAG21/#sensory-characteristics)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -263,7 +263,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[1.4.1 Use of Color](https://www.w3.org/TR/WCAG21/#use-of-color)</string>
+						<string>[SC 1.4.1 Use of Color](https://www.w3.org/TR/WCAG21/#use-of-color)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -298,7 +298,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[1.4.2 Audio Control](https://www.w3.org/TR/WCAG21/#audio-control)</string>
+						<string>[SC 1.4.2 Audio Control](https://www.w3.org/TR/WCAG21/#audio-control)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -333,7 +333,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[2.1.1 Keyboard](https://www.w3.org/TR/WCAG21/#keyboard)</string>
+						<string>[SC 2.1.1 Keyboard](https://www.w3.org/TR/WCAG21/#keyboard)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -368,7 +368,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[2.1.2 No Keyboard Trap](https://www.w3.org/TR/WCAG21/#no-keyboard-trap)</string>
+						<string>[SC 2.1.2 No Keyboard Trap](https://www.w3.org/TR/WCAG21/#no-keyboard-trap)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -403,7 +403,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[2.1.4 Character Key Shortcuts](https://www.w3.org/TR/WCAG21/#character-key-shortcuts)</string>
+						<string>[SC 2.1.4 Character Key Shortcuts](https://www.w3.org/TR/WCAG21/#character-key-shortcuts)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -438,7 +438,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[2.2.1 Timing Adjustable](https://www.w3.org/TR/WCAG21/#timing-adjustable)</string>
+						<string>[SC 2.2.1 Timing Adjustable](https://www.w3.org/TR/WCAG21/#timing-adjustable)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -473,7 +473,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[2.2.2 Pause, Stop, Hide](https://www.w3.org/TR/WCAG21/#pause-stop-hide)</string>
+						<string>[SC 2.2.2 Pause, Stop, Hide](https://www.w3.org/TR/WCAG21/#pause-stop-hide)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -508,7 +508,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[2.3.1 Three Flashes or Below Threshold](https://www.w3.org/TR/WCAG21/#three-flashes-or-below-threshold)</string>
+						<string>[SC 2.3.1 Three Flashes or Below Threshold](https://www.w3.org/TR/WCAG21/#three-flashes-or-below-threshold)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -543,7 +543,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[2.4.1 Bypass Blocks](https://www.w3.org/TR/WCAG21/#bypass-blocks)</string>
+						<string>[SC 2.4.1 Bypass Blocks](https://www.w3.org/TR/WCAG21/#bypass-blocks)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -578,7 +578,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[2.4.2 Page Titled](https://www.w3.org/TR/WCAG21/#page-titled)</string>
+						<string>[SC 2.4.2 Page Titled](https://www.w3.org/TR/WCAG21/#page-titled)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -613,7 +613,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[2.4.3 Focus Order](https://www.w3.org/TR/WCAG21/#focus-order)</string>
+						<string>[SC 2.4.3 Focus Order](https://www.w3.org/TR/WCAG21/#focus-order)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -648,7 +648,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[2.4.4 Link Purpose (In Context)](https://www.w3.org/TR/WCAG21/#link-purpose-in-context)</string>
+						<string>[SC 2.4.4 Link Purpose (In Context)](https://www.w3.org/TR/WCAG21/#link-purpose-in-context)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -683,7 +683,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[2.5.1 Pointer Gestures](https://www.w3.org/TR/WCAG21/#pointer-gestures)</string>
+						<string>[SC 2.5.1 Pointer Gestures](https://www.w3.org/TR/WCAG21/#pointer-gestures)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -718,7 +718,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[2.5.2 Pointer Cancellation](https://www.w3.org/TR/WCAG21/#pointer-cancellation)</string>
+						<string>[SC 2.5.2 Pointer Cancellation](https://www.w3.org/TR/WCAG21/#pointer-cancellation)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -753,7 +753,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[2.5.3 Label in Name](https://www.w3.org/TR/WCAG21/#label-in-name)</string>
+						<string>[SC 2.5.3 Label in Name](https://www.w3.org/TR/WCAG21/#label-in-name)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -788,7 +788,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[2.5.4 Motion Actuation](https://www.w3.org/TR/WCAG21/#motion-actuation)</string>
+						<string>[SC 2.5.4 Motion Actuation](https://www.w3.org/TR/WCAG21/#motion-actuation)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -823,7 +823,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[3.1.1 Language of Page](https://www.w3.org/TR/WCAG21/#language-of-page)</string>
+						<string>[SC 3.1.1 Language of Page](https://www.w3.org/TR/WCAG21/#language-of-page)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -858,7 +858,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[3.2.1 On Focus](https://www.w3.org/TR/WCAG21/#on-focus)</string>
+						<string>[SC 3.2.1 On Focus](https://www.w3.org/TR/WCAG21/#on-focus)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -893,7 +893,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[3.2.2 On Input](https://www.w3.org/TR/WCAG21/#on-input)</string>
+						<string>[SC 3.2.2 On Input](https://www.w3.org/TR/WCAG21/#on-input)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -928,7 +928,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[3.3.1 Error Identification](https://www.w3.org/TR/WCAG21/#error-identification)</string>
+						<string>[SC 3.3.1 Error Identification](https://www.w3.org/TR/WCAG21/#error-identification)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -963,7 +963,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[3.3.2 Labels or Instructions](https://www.w3.org/TR/WCAG21/#labels-or-instructions)</string>
+						<string>[SC 3.3.2 Labels or Instructions](https://www.w3.org/TR/WCAG21/#labels-or-instructions)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -998,7 +998,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[4.1.1 Parsing](https://www.w3.org/TR/WCAG21/#parsing)</string>
+						<string>[SC 4.1.1 Parsing](https://www.w3.org/TR/WCAG21/#parsing)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1033,7 +1033,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[4.1.2 Name, Role, Value](https://www.w3.org/TR/WCAG21/#name-role-value)</string>
+						<string>[SC 4.1.2 Name, Role, Value](https://www.w3.org/TR/WCAG21/#name-role-value)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1068,7 +1068,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[1.2.4 Captions (Live)](https://www.w3.org/TR/WCAG21/#captions-live)</string>
+						<string>[SC 1.2.4 Captions (Live)](https://www.w3.org/TR/WCAG21/#captions-live)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1103,7 +1103,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[1.2.5 Audio Description (Prerecorded)](https://www.w3.org/TR/WCAG21/#audio-description-prerecorded)</string>
+						<string>[SC 1.2.5 Audio Description (Prerecorded)](https://www.w3.org/TR/WCAG21/#audio-description-prerecorded)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1138,7 +1138,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[1.3.4 Orientation](https://www.w3.org/TR/WCAG21/#orientation)</string>
+						<string>[SC 1.3.4 Orientation](https://www.w3.org/TR/WCAG21/#orientation)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1173,7 +1173,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[1.3.5 Identify Input Purpose](https://www.w3.org/TR/WCAG21/#identify-input-purpose)</string>
+						<string>[SC 1.3.5 Identify Input Purpose](https://www.w3.org/TR/WCAG21/#identify-input-purpose)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1208,7 +1208,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[1.4.3 Contrast (Minimum)](https://www.w3.org/TR/WCAG21/#contrast-minimum)</string>
+						<string>[SC 1.4.3 Contrast (Minimum)](https://www.w3.org/TR/WCAG21/#contrast-minimum)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1243,7 +1243,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[1.4.4 Resize Text](https://www.w3.org/TR/WCAG21/#resize-text)</string>
+						<string>[SC 1.4.4 Resize Text](https://www.w3.org/TR/WCAG21/#resize-text)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1278,7 +1278,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[1.4.5 Images of Text](https://www.w3.org/TR/WCAG21/#images-of-text)</string>
+						<string>[SC 1.4.5 Images of Text](https://www.w3.org/TR/WCAG21/#images-of-text)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1313,7 +1313,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[1.4.10 Reflow](https://www.w3.org/TR/WCAG21/#reflow)</string>
+						<string>[SC 1.4.10 Reflow](https://www.w3.org/TR/WCAG21/#reflow)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1348,7 +1348,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[1.4.11 Non-text Contrast](https://www.w3.org/TR/WCAG21/#non-text-contrast)</string>
+						<string>[SC 1.4.11 Non-text Contrast](https://www.w3.org/TR/WCAG21/#non-text-contrast)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1383,7 +1383,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[1.4.12 Text Spacing](https://www.w3.org/TR/WCAG21/#text-spacing)</string>
+						<string>[SC 1.4.12 Text Spacing](https://www.w3.org/TR/WCAG21/#text-spacing)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1418,7 +1418,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[1.4.13 Content on Hover or Focus](https://www.w3.org/TR/WCAG21/#content-on-hover-or-focus)</string>
+						<string>[SC 1.4.13 Content on Hover or Focus](https://www.w3.org/TR/WCAG21/#content-on-hover-or-focus)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1453,7 +1453,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[2.4.5 Multiple Ways](https://www.w3.org/TR/WCAG21/#multiple-ways)</string>
+						<string>[SC 2.4.5 Multiple Ways](https://www.w3.org/TR/WCAG21/#multiple-ways)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1488,7 +1488,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[2.4.6 Headings and Labels](https://www.w3.org/TR/WCAG21/#headings-and-labels)</string>
+						<string>[SC 2.4.6 Headings and Labels](https://www.w3.org/TR/WCAG21/#headings-and-labels)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1523,7 +1523,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[2.4.7 Focus Visible](https://www.w3.org/TR/WCAG21/#focus-visible)</string>
+						<string>[SC 2.4.7 Focus Visible](https://www.w3.org/TR/WCAG21/#focus-visible)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1558,7 +1558,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[3.1.2 Language of Parts](https://www.w3.org/TR/WCAG21/#language-of-parts)</string>
+						<string>[SC 3.1.2 Language of Parts](https://www.w3.org/TR/WCAG21/#language-of-parts)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1593,7 +1593,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[3.2.3 Consistent Navigation](https://www.w3.org/TR/WCAG21/#consistent-navigation)</string>
+						<string>[SC 3.2.3 Consistent Navigation](https://www.w3.org/TR/WCAG21/#consistent-navigation)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1628,7 +1628,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[3.2.4 Consistent Identification](https://www.w3.org/TR/WCAG21/#consistent-identification)</string>
+						<string>[SC 3.2.4 Consistent Identification](https://www.w3.org/TR/WCAG21/#consistent-identification)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1663,7 +1663,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[3.3.3 Error Suggestion](https://www.w3.org/TR/WCAG21/#error-suggestion)</string>
+						<string>[SC 3.3.3 Error Suggestion](https://www.w3.org/TR/WCAG21/#error-suggestion)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1698,7 +1698,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[3.3.4 Error Prevention (Legal, Financial, Data)](https://www.w3.org/TR/WCAG21/#error-prevention-legal-financial-data)</string>
+						<string>[SC 3.3.4 Error Prevention (Legal, Financial, Data)](https://www.w3.org/TR/WCAG21/#error-prevention-legal-financial-data)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1733,7 +1733,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[4.1.3 Status Messages](https://www.w3.org/TR/WCAG21/#status-messages)</string>
+						<string>[SC 4.1.3 Status Messages](https://www.w3.org/TR/WCAG21/#status-messages)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1768,7 +1768,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[1.2.6 Sign Language (Prerecorded)](https://www.w3.org/TR/WCAG21/#sign-language-prerecorded)</string>
+						<string>[SC 1.2.6 Sign Language (Prerecorded)](https://www.w3.org/TR/WCAG21/#sign-language-prerecorded)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1803,7 +1803,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[1.2.7 Extended Audio Description (Prerecorded)](https://www.w3.org/TR/WCAG21/#extended-audio-description-prerecorded)</string>
+						<string>[SC 1.2.7 Extended Audio Description (Prerecorded)](https://www.w3.org/TR/WCAG21/#extended-audio-description-prerecorded)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1838,7 +1838,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[1.2.8 Media Alternative (Prerecorded)](https://www.w3.org/TR/WCAG21/#media-alternative-prerecorded)</string>
+						<string>[SC 1.2.8 Media Alternative (Prerecorded)](https://www.w3.org/TR/WCAG21/#media-alternative-prerecorded)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1873,7 +1873,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[1.2.9 Audio-only (Live)](https://www.w3.org/TR/WCAG21/#audio-only-live)</string>
+						<string>[SC 1.2.9 Audio-only (Live)](https://www.w3.org/TR/WCAG21/#audio-only-live)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1908,7 +1908,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[1.3.6 Identify Purpose](https://www.w3.org/TR/WCAG21/#identify-purpose)</string>
+						<string>[SC 1.3.6 Identify Purpose](https://www.w3.org/TR/WCAG21/#identify-purpose)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1943,7 +1943,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[1.4.6 Contrast (Enhanced)](https://www.w3.org/TR/WCAG21/#contrast-enhanced)</string>
+						<string>[SC 1.4.6 Contrast (Enhanced)](https://www.w3.org/TR/WCAG21/#contrast-enhanced)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1978,7 +1978,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[1.4.7 Low or No Background Audio](https://www.w3.org/TR/WCAG21/#low-or-no-background-audio)</string>
+						<string>[SC 1.4.7 Low or No Background Audio](https://www.w3.org/TR/WCAG21/#low-or-no-background-audio)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -2013,7 +2013,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[1.4.8 Visual Presentation](https://www.w3.org/TR/WCAG21/#visual-presentation)</string>
+						<string>[SC 1.4.8 Visual Presentation](https://www.w3.org/TR/WCAG21/#visual-presentation)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -2048,7 +2048,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[1.4.9 Images of Text (No Exception)](https://www.w3.org/TR/WCAG21/#images-of-text-no-exception)</string>
+						<string>[SC 1.4.9 Images of Text (No Exception)](https://www.w3.org/TR/WCAG21/#images-of-text-no-exception)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -2083,7 +2083,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[2.1.3 Keyboard (No Exception)](https://www.w3.org/TR/WCAG21/#keyboard-no-exception)</string>
+						<string>[SC 2.1.3 Keyboard (No Exception)](https://www.w3.org/TR/WCAG21/#keyboard-no-exception)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -2118,7 +2118,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[2.2.3 No Timing](https://www.w3.org/TR/WCAG21/#no-timing)</string>
+						<string>[SC 2.2.3 No Timing](https://www.w3.org/TR/WCAG21/#no-timing)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -2153,7 +2153,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[2.2.4 Interruptions](https://www.w3.org/TR/WCAG21/#interruptions)</string>
+						<string>[SC 2.2.4 Interruptions](https://www.w3.org/TR/WCAG21/#interruptions)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -2188,7 +2188,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[2.2.5 Re-authenticating](https://www.w3.org/TR/WCAG21/#re-authenticating)</string>
+						<string>[SC 2.2.5 Re-authenticating](https://www.w3.org/TR/WCAG21/#re-authenticating)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -2223,7 +2223,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[2.2.6 Timeouts](https://www.w3.org/TR/WCAG21/#timeouts)</string>
+						<string>[SC 2.2.6 Timeouts](https://www.w3.org/TR/WCAG21/#timeouts)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -2258,7 +2258,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[2.3.2 Three Flashes](https://www.w3.org/TR/WCAG21/#three-flashes)</string>
+						<string>[SC 2.3.2 Three Flashes](https://www.w3.org/TR/WCAG21/#three-flashes)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -2293,7 +2293,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[2.3.3 Animation from Interactions](https://www.w3.org/TR/WCAG21/#animation-from-interactions)</string>
+						<string>[SC 2.3.3 Animation from Interactions](https://www.w3.org/TR/WCAG21/#animation-from-interactions)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -2328,7 +2328,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[2.4.8 Location](https://www.w3.org/TR/WCAG21/#location)</string>
+						<string>[SC 2.4.8 Location](https://www.w3.org/TR/WCAG21/#location)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -2363,7 +2363,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[2.4.9 Link Purpose (Link Only)](https://www.w3.org/TR/WCAG21/#link-purpose-link-only)</string>
+						<string>[SC 2.4.9 Link Purpose (Link Only)](https://www.w3.org/TR/WCAG21/#link-purpose-link-only)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -2398,7 +2398,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[2.4.10 Section Headings](https://www.w3.org/TR/WCAG21/#section-headings)</string>
+						<string>[SC 2.4.10 Section Headings](https://www.w3.org/TR/WCAG21/#section-headings)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -2433,7 +2433,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[2.5.5 Target Size](https://www.w3.org/TR/WCAG21/#target-size)</string>
+						<string>[SC 2.5.5 Target Size](https://www.w3.org/TR/WCAG21/#target-size)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -2468,7 +2468,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[2.5.6 Concurrent Input Mechanisms](https://www.w3.org/TR/WCAG21/#concurrent-input-mechanisms)</string>
+						<string>[SC 2.5.6 Concurrent Input Mechanisms](https://www.w3.org/TR/WCAG21/#concurrent-input-mechanisms)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -2503,7 +2503,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[3.1.3 Unusual Words](https://www.w3.org/TR/WCAG21/#unusual-words)</string>
+						<string>[SC 3.1.3 Unusual Words](https://www.w3.org/TR/WCAG21/#unusual-words)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -2538,7 +2538,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[3.1.4 Abbreviations](https://www.w3.org/TR/WCAG21/#abbreviations)</string>
+						<string>[SC 3.1.4 Abbreviations](https://www.w3.org/TR/WCAG21/#abbreviations)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -2573,7 +2573,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[3.1.5 Reading Level](https://www.w3.org/TR/WCAG21/#reading-level)</string>
+						<string>[SC 3.1.5 Reading Level](https://www.w3.org/TR/WCAG21/#reading-level)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -2608,7 +2608,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[3.1.6 Pronunciation](https://www.w3.org/TR/WCAG21/#pronunciation)</string>
+						<string>[SC 3.1.6 Pronunciation](https://www.w3.org/TR/WCAG21/#pronunciation)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -2643,7 +2643,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[3.2.5 Change on Request](https://www.w3.org/TR/WCAG21/#change-on-request)</string>
+						<string>[SC 3.2.5 Change on Request](https://www.w3.org/TR/WCAG21/#change-on-request)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -2678,7 +2678,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[3.3.5 Help](https://www.w3.org/TR/WCAG21/#help)</string>
+						<string>[SC 3.3.5 Help](https://www.w3.org/TR/WCAG21/#help)</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -2713,7 +2713,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[3.3.6 Error Prevention (All)](https://www.w3.org/TR/WCAG21/#error-prevention-all)</string>
+						<string>[SC 3.3.6 Error Prevention (All)](https://www.w3.org/TR/WCAG21/#error-prevention-all)</string>
 					</dict>
 				</array>
 				<key>Name</key>
