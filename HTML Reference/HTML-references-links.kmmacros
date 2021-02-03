@@ -22,7 +22,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>a (Markdown)</string>
+    <string>a (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -31,7 +31,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>a-l</string>
+      <string>!a-l</string>
      </dict>
     </array>
    </dict>
@@ -57,7 +57,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>abbr (Markdown)</string>
+    <string>abbr (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -66,7 +66,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>abbr-l</string>
+      <string>!abbr-l</string>
      </dict>
     </array>
    </dict>
@@ -92,7 +92,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>address (Markdown)</string>
+    <string>address (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -101,7 +101,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>address-l</string>
+      <string>!address-l</string>
      </dict>
     </array>
    </dict>
@@ -127,7 +127,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>area (Markdown)</string>
+    <string>area (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -136,7 +136,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>area-l</string>
+      <string>!area-l</string>
      </dict>
     </array>
    </dict>
@@ -162,7 +162,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>article (Markdown)</string>
+    <string>article (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -171,7 +171,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>article-l</string>
+      <string>!article-l</string>
      </dict>
     </array>
    </dict>
@@ -197,7 +197,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>aside (Markdown)</string>
+    <string>aside (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -206,7 +206,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>aside-l</string>
+      <string>!aside-l</string>
      </dict>
     </array>
    </dict>
@@ -232,7 +232,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>audio (Markdown)</string>
+    <string>audio (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -241,7 +241,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>audio-l</string>
+      <string>!audio-l</string>
      </dict>
     </array>
    </dict>
@@ -267,7 +267,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>b (Markdown)</string>
+    <string>b (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -276,7 +276,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>b-l</string>
+      <string>!b-l</string>
      </dict>
     </array>
    </dict>
@@ -302,7 +302,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>base (Markdown)</string>
+    <string>base (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -311,7 +311,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>base-l</string>
+      <string>!base-l</string>
      </dict>
     </array>
    </dict>
@@ -337,7 +337,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>bdi (Markdown)</string>
+    <string>bdi (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -346,7 +346,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>bdi-l</string>
+      <string>!bdi-l</string>
      </dict>
     </array>
    </dict>
@@ -372,7 +372,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>bdo (Markdown)</string>
+    <string>bdo (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -381,7 +381,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>bdo-l</string>
+      <string>!bdo-l</string>
      </dict>
     </array>
    </dict>
@@ -407,7 +407,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>blockquote (Markdown)</string>
+    <string>blockquote (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -416,7 +416,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>blockquote-l</string>
+      <string>!blockquote-l</string>
      </dict>
     </array>
    </dict>
@@ -442,7 +442,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>body (Markdown)</string>
+    <string>body (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -451,7 +451,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>body-l</string>
+      <string>!body-l</string>
      </dict>
     </array>
    </dict>
@@ -477,7 +477,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>br (Markdown)</string>
+    <string>br (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -486,7 +486,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>br-l</string>
+      <string>!br-l</string>
      </dict>
     </array>
    </dict>
@@ -512,7 +512,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>button (Markdown)</string>
+    <string>button (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -521,7 +521,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>button-l</string>
+      <string>!button-l</string>
      </dict>
     </array>
    </dict>
@@ -547,7 +547,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>canvas (Markdown)</string>
+    <string>canvas (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -556,7 +556,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>canvas-l</string>
+      <string>!canvas-l</string>
      </dict>
     </array>
    </dict>
@@ -582,7 +582,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>caption (Markdown)</string>
+    <string>caption (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -591,7 +591,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>caption-l</string>
+      <string>!caption-l</string>
      </dict>
     </array>
    </dict>
@@ -617,7 +617,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>cite (Markdown)</string>
+    <string>cite (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -626,7 +626,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>cite-l</string>
+      <string>!cite-l</string>
      </dict>
     </array>
    </dict>
@@ -652,7 +652,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>code (Markdown)</string>
+    <string>code (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -661,7 +661,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>code-l</string>
+      <string>!code-l</string>
      </dict>
     </array>
    </dict>
@@ -687,7 +687,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>col (Markdown)</string>
+    <string>col (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -696,7 +696,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>col-l</string>
+      <string>!col-l</string>
      </dict>
     </array>
    </dict>
@@ -722,7 +722,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>colgroup (Markdown)</string>
+    <string>colgroup (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -731,7 +731,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>colgroup-l</string>
+      <string>!colgroup-l</string>
      </dict>
     </array>
    </dict>
@@ -757,7 +757,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>data (Markdown)</string>
+    <string>data (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -766,7 +766,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>data-l</string>
+      <string>!data-l</string>
      </dict>
     </array>
    </dict>
@@ -792,7 +792,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>datalist (Markdown)</string>
+    <string>datalist (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -801,7 +801,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>datalist-l</string>
+      <string>!datalist-l</string>
      </dict>
     </array>
    </dict>
@@ -827,7 +827,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>dd (Markdown)</string>
+    <string>dd (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -836,7 +836,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>dd-l</string>
+      <string>!dd-l</string>
      </dict>
     </array>
    </dict>
@@ -862,7 +862,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>del (Markdown)</string>
+    <string>del (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -871,7 +871,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>del-l</string>
+      <string>!del-l</string>
      </dict>
     </array>
    </dict>
@@ -897,7 +897,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>details (Markdown)</string>
+    <string>details (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -906,7 +906,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>details-l</string>
+      <string>!details-l</string>
      </dict>
     </array>
    </dict>
@@ -932,7 +932,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>dfn (Markdown)</string>
+    <string>dfn (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -941,7 +941,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>dfn-l</string>
+      <string>!dfn-l</string>
      </dict>
     </array>
    </dict>
@@ -967,7 +967,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>dialog (Markdown)</string>
+    <string>dialog (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -976,7 +976,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>dialog-l</string>
+      <string>!dialog-l</string>
      </dict>
     </array>
    </dict>
@@ -1002,7 +1002,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>div (Markdown)</string>
+    <string>div (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -1011,7 +1011,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>div-l</string>
+      <string>!div-l</string>
      </dict>
     </array>
    </dict>
@@ -1037,7 +1037,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>dl (Markdown)</string>
+    <string>dl (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -1046,7 +1046,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>dl-l</string>
+      <string>!dl-l</string>
      </dict>
     </array>
    </dict>
@@ -1072,7 +1072,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>dt (Markdown)</string>
+    <string>dt (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -1081,7 +1081,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>dt-l</string>
+      <string>!dt-l</string>
      </dict>
     </array>
    </dict>
@@ -1107,7 +1107,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>em (Markdown)</string>
+    <string>em (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -1116,7 +1116,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>em-l</string>
+      <string>!em-l</string>
      </dict>
     </array>
    </dict>
@@ -1142,7 +1142,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>embed (Markdown)</string>
+    <string>embed (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -1151,7 +1151,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>embed-l</string>
+      <string>!embed-l</string>
      </dict>
     </array>
    </dict>
@@ -1177,7 +1177,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>fieldset (Markdown)</string>
+    <string>fieldset (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -1186,7 +1186,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>fieldset-l</string>
+      <string>!fieldset-l</string>
      </dict>
     </array>
    </dict>
@@ -1212,7 +1212,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>figcaption (Markdown)</string>
+    <string>figcaption (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -1221,7 +1221,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>figcaption-l</string>
+      <string>!figcaption-l</string>
      </dict>
     </array>
    </dict>
@@ -1247,7 +1247,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>figure (Markdown)</string>
+    <string>figure (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -1256,7 +1256,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>figure-l</string>
+      <string>!figure-l</string>
      </dict>
     </array>
    </dict>
@@ -1282,7 +1282,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>footer (Markdown)</string>
+    <string>footer (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -1291,7 +1291,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>footer-l</string>
+      <string>!footer-l</string>
      </dict>
     </array>
    </dict>
@@ -1317,7 +1317,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>form (Markdown)</string>
+    <string>form (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -1326,7 +1326,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>form-l</string>
+      <string>!form-l</string>
      </dict>
     </array>
    </dict>
@@ -1352,7 +1352,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>head (Markdown)</string>
+    <string>head (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -1361,7 +1361,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>head-l</string>
+      <string>!head-l</string>
      </dict>
     </array>
    </dict>
@@ -1387,7 +1387,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>header (Markdown)</string>
+    <string>header (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -1396,7 +1396,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>header-l</string>
+      <string>!header-l</string>
      </dict>
     </array>
    </dict>
@@ -1422,7 +1422,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>hgroup (Markdown)</string>
+    <string>hgroup (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -1431,7 +1431,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>hgroup-l</string>
+      <string>!hgroup-l</string>
      </dict>
     </array>
    </dict>
@@ -1457,7 +1457,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>hr (Markdown)</string>
+    <string>hr (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -1466,7 +1466,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>hr-l</string>
+      <string>!hr-l</string>
      </dict>
     </array>
    </dict>
@@ -1492,7 +1492,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>html (Markdown)</string>
+    <string>html (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -1501,7 +1501,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>html-l</string>
+      <string>!html-l</string>
      </dict>
     </array>
    </dict>
@@ -1527,7 +1527,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>i (Markdown)</string>
+    <string>i (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -1536,7 +1536,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>i-l</string>
+      <string>!i-l</string>
      </dict>
     </array>
    </dict>
@@ -1562,7 +1562,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>iframe (Markdown)</string>
+    <string>iframe (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -1571,7 +1571,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>iframe-l</string>
+      <string>!iframe-l</string>
      </dict>
     </array>
    </dict>
@@ -1597,7 +1597,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>img (Markdown)</string>
+    <string>img (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -1606,7 +1606,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>img-l</string>
+      <string>!img-l</string>
      </dict>
     </array>
    </dict>
@@ -1632,7 +1632,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>input (Markdown)</string>
+    <string>input (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -1641,7 +1641,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>input-l</string>
+      <string>!input-l</string>
      </dict>
     </array>
    </dict>
@@ -1667,7 +1667,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>ins (Markdown)</string>
+    <string>ins (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -1676,7 +1676,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>ins-l</string>
+      <string>!ins-l</string>
      </dict>
     </array>
    </dict>
@@ -1702,7 +1702,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>kbd (Markdown)</string>
+    <string>kbd (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -1711,7 +1711,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>kbd-l</string>
+      <string>!kbd-l</string>
      </dict>
     </array>
    </dict>
@@ -1737,7 +1737,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>label (Markdown)</string>
+    <string>label (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -1746,7 +1746,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>label-l</string>
+      <string>!label-l</string>
      </dict>
     </array>
    </dict>
@@ -1772,7 +1772,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>legend (Markdown)</string>
+    <string>legend (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -1781,7 +1781,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>legend-l</string>
+      <string>!legend-l</string>
      </dict>
     </array>
    </dict>
@@ -1807,7 +1807,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>li (Markdown)</string>
+    <string>li (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -1816,7 +1816,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>li-l</string>
+      <string>!li-l</string>
      </dict>
     </array>
    </dict>
@@ -1842,7 +1842,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>link (Markdown)</string>
+    <string>link (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -1851,7 +1851,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>link-l</string>
+      <string>!link-l</string>
      </dict>
     </array>
    </dict>
@@ -1877,7 +1877,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>main (Markdown)</string>
+    <string>main (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -1886,7 +1886,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>main-l</string>
+      <string>!main-l</string>
      </dict>
     </array>
    </dict>
@@ -1912,7 +1912,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>map (Markdown)</string>
+    <string>map (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -1921,7 +1921,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>map-l</string>
+      <string>!map-l</string>
      </dict>
     </array>
    </dict>
@@ -1947,7 +1947,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>mark (Markdown)</string>
+    <string>mark (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -1956,7 +1956,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>mark-l</string>
+      <string>!mark-l</string>
      </dict>
     </array>
    </dict>
@@ -1982,7 +1982,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>menu (Markdown)</string>
+    <string>menu (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -1991,7 +1991,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>menu-l</string>
+      <string>!menu-l</string>
      </dict>
     </array>
    </dict>
@@ -2017,7 +2017,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>meta (Markdown)</string>
+    <string>meta (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -2026,7 +2026,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>meta-l</string>
+      <string>!meta-l</string>
      </dict>
     </array>
    </dict>
@@ -2052,7 +2052,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>meter (Markdown)</string>
+    <string>meter (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -2061,7 +2061,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>meter-l</string>
+      <string>!meter-l</string>
      </dict>
     </array>
    </dict>
@@ -2087,7 +2087,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>nav (Markdown)</string>
+    <string>nav (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -2096,7 +2096,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>nav-l</string>
+      <string>!nav-l</string>
      </dict>
     </array>
    </dict>
@@ -2122,7 +2122,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>noscript (Markdown)</string>
+    <string>noscript (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -2131,7 +2131,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>noscript-l</string>
+      <string>!noscript-l</string>
      </dict>
     </array>
    </dict>
@@ -2157,7 +2157,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>object (Markdown)</string>
+    <string>object (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -2166,7 +2166,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>object-l</string>
+      <string>!object-l</string>
      </dict>
     </array>
    </dict>
@@ -2192,7 +2192,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>ol (Markdown)</string>
+    <string>ol (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -2201,7 +2201,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>ol-l</string>
+      <string>!ol-l</string>
      </dict>
     </array>
    </dict>
@@ -2227,7 +2227,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>optgroup (Markdown)</string>
+    <string>optgroup (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -2236,7 +2236,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>optgroup-l</string>
+      <string>!optgroup-l</string>
      </dict>
     </array>
    </dict>
@@ -2262,7 +2262,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>option (Markdown)</string>
+    <string>option (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -2271,7 +2271,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>option-l</string>
+      <string>!option-l</string>
      </dict>
     </array>
    </dict>
@@ -2297,7 +2297,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>output (Markdown)</string>
+    <string>output (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -2306,7 +2306,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>output-l</string>
+      <string>!output-l</string>
      </dict>
     </array>
    </dict>
@@ -2332,7 +2332,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>p (Markdown)</string>
+    <string>p (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -2341,7 +2341,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>p-l</string>
+      <string>!p-l</string>
      </dict>
     </array>
    </dict>
@@ -2367,7 +2367,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>param (Markdown)</string>
+    <string>param (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -2376,7 +2376,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>param-l</string>
+      <string>!param-l</string>
      </dict>
     </array>
    </dict>
@@ -2402,7 +2402,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>picture (Markdown)</string>
+    <string>picture (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -2411,7 +2411,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>picture-l</string>
+      <string>!picture-l</string>
      </dict>
     </array>
    </dict>
@@ -2437,7 +2437,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>pre (Markdown)</string>
+    <string>pre (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -2446,7 +2446,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>pre-l</string>
+      <string>!pre-l</string>
      </dict>
     </array>
    </dict>
@@ -2472,7 +2472,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>progress (Markdown)</string>
+    <string>progress (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -2481,7 +2481,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>progress-l</string>
+      <string>!progress-l</string>
      </dict>
     </array>
    </dict>
@@ -2507,7 +2507,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>q (Markdown)</string>
+    <string>q (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -2516,7 +2516,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>q-l</string>
+      <string>!q-l</string>
      </dict>
     </array>
    </dict>
@@ -2542,7 +2542,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>rp (Markdown)</string>
+    <string>rp (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -2551,7 +2551,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>rp-l</string>
+      <string>!rp-l</string>
      </dict>
     </array>
    </dict>
@@ -2577,7 +2577,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>rt (Markdown)</string>
+    <string>rt (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -2586,7 +2586,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>rt-l</string>
+      <string>!rt-l</string>
      </dict>
     </array>
    </dict>
@@ -2612,7 +2612,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>ruby (Markdown)</string>
+    <string>ruby (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -2621,7 +2621,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>ruby-l</string>
+      <string>!ruby-l</string>
      </dict>
     </array>
    </dict>
@@ -2647,7 +2647,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>s (Markdown)</string>
+    <string>s (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -2656,7 +2656,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>s-l</string>
+      <string>!s-l</string>
      </dict>
     </array>
    </dict>
@@ -2682,7 +2682,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>samp (Markdown)</string>
+    <string>samp (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -2691,7 +2691,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>samp-l</string>
+      <string>!samp-l</string>
      </dict>
     </array>
    </dict>
@@ -2717,7 +2717,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>script (Markdown)</string>
+    <string>script (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -2726,7 +2726,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>script-l</string>
+      <string>!script-l</string>
      </dict>
     </array>
    </dict>
@@ -2752,7 +2752,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>section (Markdown)</string>
+    <string>section (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -2761,7 +2761,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>section-l</string>
+      <string>!section-l</string>
      </dict>
     </array>
    </dict>
@@ -2787,7 +2787,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>select (Markdown)</string>
+    <string>select (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -2796,7 +2796,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>select-l</string>
+      <string>!select-l</string>
      </dict>
     </array>
    </dict>
@@ -2822,7 +2822,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>slot (Markdown)</string>
+    <string>slot (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -2831,7 +2831,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>slot-l</string>
+      <string>!slot-l</string>
      </dict>
     </array>
    </dict>
@@ -2857,7 +2857,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>small (Markdown)</string>
+    <string>small (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -2866,7 +2866,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>small-l</string>
+      <string>!small-l</string>
      </dict>
     </array>
    </dict>
@@ -2892,7 +2892,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>source (Markdown)</string>
+    <string>source (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -2901,7 +2901,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>source-l</string>
+      <string>!source-l</string>
      </dict>
     </array>
    </dict>
@@ -2927,7 +2927,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>span (Markdown)</string>
+    <string>span (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -2936,7 +2936,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>span-l</string>
+      <string>!span-l</string>
      </dict>
     </array>
    </dict>
@@ -2962,7 +2962,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>strong (Markdown)</string>
+    <string>strong (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -2971,7 +2971,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>strong-l</string>
+      <string>!strong-l</string>
      </dict>
     </array>
    </dict>
@@ -2997,7 +2997,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>style (Markdown)</string>
+    <string>style (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -3006,7 +3006,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>style-l</string>
+      <string>!style-l</string>
      </dict>
     </array>
    </dict>
@@ -3032,7 +3032,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>summary (Markdown)</string>
+    <string>summary (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -3041,7 +3041,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>summary-l</string>
+      <string>!summary-l</string>
      </dict>
     </array>
    </dict>
@@ -3067,7 +3067,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>table (Markdown)</string>
+    <string>table (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -3076,7 +3076,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>table-l</string>
+      <string>!table-l</string>
      </dict>
     </array>
    </dict>
@@ -3102,7 +3102,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>tbody (Markdown)</string>
+    <string>tbody (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -3111,7 +3111,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>tbody-l</string>
+      <string>!tbody-l</string>
      </dict>
     </array>
    </dict>
@@ -3137,7 +3137,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>td (Markdown)</string>
+    <string>td (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -3146,7 +3146,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>td-l</string>
+      <string>!td-l</string>
      </dict>
     </array>
    </dict>
@@ -3172,7 +3172,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>template (Markdown)</string>
+    <string>template (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -3181,7 +3181,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>template-l</string>
+      <string>!template-l</string>
      </dict>
     </array>
    </dict>
@@ -3207,7 +3207,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>textarea (Markdown)</string>
+    <string>textarea (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -3216,7 +3216,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>textarea-l</string>
+      <string>!textarea-l</string>
      </dict>
     </array>
    </dict>
@@ -3242,7 +3242,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>tfoot (Markdown)</string>
+    <string>tfoot (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -3251,7 +3251,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>tfoot-l</string>
+      <string>!tfoot-l</string>
      </dict>
     </array>
    </dict>
@@ -3277,7 +3277,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>th (Markdown)</string>
+    <string>th (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -3286,7 +3286,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>th-l</string>
+      <string>!th-l</string>
      </dict>
     </array>
    </dict>
@@ -3312,7 +3312,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>thead (Markdown)</string>
+    <string>thead (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -3321,7 +3321,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>thead-l</string>
+      <string>!thead-l</string>
      </dict>
     </array>
    </dict>
@@ -3347,7 +3347,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>time (Markdown)</string>
+    <string>time (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -3356,7 +3356,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>time-l</string>
+      <string>!time-l</string>
      </dict>
     </array>
    </dict>
@@ -3382,7 +3382,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>title (Markdown)</string>
+    <string>title (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -3391,7 +3391,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>title-l</string>
+      <string>!title-l</string>
      </dict>
     </array>
    </dict>
@@ -3417,7 +3417,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>tr (Markdown)</string>
+    <string>tr (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -3426,7 +3426,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>tr-l</string>
+      <string>!tr-l</string>
      </dict>
     </array>
    </dict>
@@ -3452,7 +3452,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>track (Markdown)</string>
+    <string>track (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -3461,7 +3461,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>track-l</string>
+      <string>!track-l</string>
      </dict>
     </array>
    </dict>
@@ -3487,7 +3487,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>u (Markdown)</string>
+    <string>u (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -3496,7 +3496,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>u-l</string>
+      <string>!u-l</string>
      </dict>
     </array>
    </dict>
@@ -3522,7 +3522,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>ul (Markdown)</string>
+    <string>ul (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -3531,7 +3531,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>ul-l</string>
+      <string>!ul-l</string>
      </dict>
     </array>
    </dict>
@@ -3557,7 +3557,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>var (Markdown)</string>
+    <string>var (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -3566,7 +3566,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>var-l</string>
+      <string>!var-l</string>
      </dict>
     </array>
    </dict>
@@ -3592,7 +3592,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>video (Markdown)</string>
+    <string>video (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -3601,7 +3601,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>video-l</string>
+      <string>!video-l</string>
      </dict>
     </array>
    </dict>
@@ -3627,7 +3627,7 @@
      </dict>
     </array>
     <key>Name</key>
-    <string>wbr (Markdown)</string>
+    <string>wbr (Link)</string>
     <key>Triggers</key>
     <array>
      <dict>
@@ -3636,7 +3636,7 @@
       <key>SimulateDeletes</key>
       <true/>
       <key>TypedString</key>
-      <string>wbr-l</string>
+      <string>!wbr-l</string>
      </dict>
     </array>
    </dict>
