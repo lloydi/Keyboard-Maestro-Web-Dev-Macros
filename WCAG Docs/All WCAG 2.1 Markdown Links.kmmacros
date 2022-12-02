@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>CreationDate</key>
+		<real>655737394.42713904</real>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>ActionUID</key>
+						<integer>224486</integer>
+						<key>Allowed</key>
+						<string>IncludeDisabled</string>
+						<key>MacroActionType</key>
+						<string>TriggerByName</string>
+						<key>Macros</key>
+						<array>
+							<string>5B995E29-ED42-49E9-85E9-7B3477B6AEAC</string>
+						</array>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+					</dict>
+				</array>
+				<key>CreationDate</key>
+				<real>655737403.12452102</real>
+				<key>ModificationDate</key>
+				<real>691677580.27551901</real>
+				<key>Name</key>
+				<string>All WCAG 2.1 Markdown Links</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>MacroTriggerType</key>
+						<string>StatusMenu</string>
+					</dict>
+				</array>
+				<key>UID</key>
+				<string>10D4D9D8-C830-4EB0-8EAE-AE06D45F98DA</string>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>WCAG 2.1 Links Helpers</string>
+		<key>ToggleMacroUID</key>
+		<string>0E05943E-1086-4AE1-B918-5C569F61B468</string>
+		<key>UID</key>
+		<string>15D3BCF7-E624-45F5-9970-E04BD4067514</string>
+	</dict>
+</array>
+</plist>
