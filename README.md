@@ -1,4 +1,4 @@
-# Keyboard Maestro Web Dev Macros
+# Text Expansions - Keyboard Maestro
 
 A collection of Keyboard Maestro text expansion macros.
 
