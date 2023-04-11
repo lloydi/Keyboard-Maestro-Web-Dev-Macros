@@ -1,0 +1,44 @@
+NORMATIVE
+
+https://www.w3.org/TR/WCAG22/#focus-appearance
+https://www.w3.org/TR/WCAG22/#focus-not-obscured-minimum
+https://www.w3.org/TR/WCAG22/#focus-not-obscured-enhanced
+https://www.w3.org/TR/WCAG22/#dragging-movements
+https://www.w3.org/TR/WCAG22/#target-size-minimum
+https://www.w3.org/TR/WCAG22/#consistent-help
+https://www.w3.org/TR/WCAG22/#redundant-entry
+https://www.w3.org/TR/WCAG22/#accessible-authentication
+https://www.w3.org/TR/WCAG22/#accessible-authentication-enhanced
+
+
+SC 2.4.11 Focus Appearance (Level AA)
+SC 2.4.12 Focus Not Obscured (Minimum) (Level AA)
+SC 2.4.13 Focus Not Obscured (Enhanced) (Level AAA)
+SC 2.5.7 Dragging Movements (Level AA)
+SC 2.5.8 Target Size (Minimum) (Level AA)
+SC 3.2.6 Consistent Help (Level A)
+SC 3.3.7 Redundant Entry (Level A)
+SC 3.3.8 Accessible Authentication (Level AA)
+SC 3.3.9 Accessible Authentication (Enhanced) (Level AAA)
+
+2.4.11
+2.4.12
+2.4.13
+2.5.7
+2.5.8
+3.2.6
+3.3.7
+3.3.8
+3.3.9
+
+UNDERSTANDING
+
+https://www.w3.org/WAI/WCAG22/Understanding/focus-appearance.html
+https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-minimum.html
+https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-enhanced.html
+https://www.w3.org/WAI/WCAG22/Understanding/dragging-movements.html
+https://www.w3.org/WAI/WCAG22/Understanding/target-size-minimum.html
+https://www.w3.org/WAI/WCAG22/Understanding/consistent-help.html
+https://www.w3.org/WAI/WCAG22/Understanding/redundant-entry.html
+https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication.html
+https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication-enhanced.html
