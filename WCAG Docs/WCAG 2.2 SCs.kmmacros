@@ -16,1868 +16,11 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>https://www.w3.org/TR/WCAG22/#consistent-help</string>
-					</dict>
-				</array>
-				<key>Name</key>
-				<string>SC 3.2.6 Consistent Help [A] (URL)</string>
-				<key>Triggers</key>
-				<array>
-					<dict>
-						<key>MacroTriggerType</key>
-						<string>TypedString</string>
-						<key>SimulateDeletes</key>
-						<true/>
-						<key>TypedString</key>
-						<string>3.2.6-l</string>
-					</dict>
-				</array>
-			</dict>
-		</array>
-		<key>Name</key>
-		<string>WCAG 2.2 SCs (URL)</string>
-	</dict>
-	<dict>
-		<key>Activate</key>
-		<string>Normal</string>
-		<key>Macros</key>
-		<array>
-			<dict>
-				<key>Actions</key>
-				<array>
-					<dict>
-						<key>Action</key>
-						<string>ByPasting</string>
-						<key>MacroActionType</key>
-						<string>InsertText</string>
-						<key>Text</key>
-						<string>https://www.w3.org/TR/WCAG22/#target-size-minimum</string>
-					</dict>
-				</array>
-				<key>Name</key>
-				<string>SC 2.5.8 Target Size (Minimum) [AA] (URL)</string>
-				<key>Triggers</key>
-				<array>
-					<dict>
-						<key>MacroTriggerType</key>
-						<string>TypedString</string>
-						<key>SimulateDeletes</key>
-						<true/>
-						<key>TypedString</key>
-						<string>2.5.8-l</string>
-					</dict>
-				</array>
-			</dict>
-		</array>
-		<key>Name</key>
-		<string>WCAG 2.2 SCs (URL)</string>
-	</dict>
-	<dict>
-		<key>Activate</key>
-		<string>Normal</string>
-		<key>Macros</key>
-		<array>
-			<dict>
-				<key>Actions</key>
-				<array>
-					<dict>
-						<key>Action</key>
-						<string>ByPasting</string>
-						<key>MacroActionType</key>
-						<string>InsertText</string>
-						<key>Text</key>
-						<string>https://www.w3.org/TR/WCAG22/#focus-not-obscured-enhanced</string>
-					</dict>
-				</array>
-				<key>Name</key>
-				<string>SC 2.4.13 Focus Not Obscured (Enhanced) [AAA] (URL)</string>
-				<key>Triggers</key>
-				<array>
-					<dict>
-						<key>MacroTriggerType</key>
-						<string>TypedString</string>
-						<key>SimulateDeletes</key>
-						<true/>
-						<key>TypedString</key>
-						<string>2.4.13-l</string>
-					</dict>
-				</array>
-			</dict>
-		</array>
-		<key>Name</key>
-		<string>WCAG 2.2 SCs (URL)</string>
-	</dict>
-	<dict>
-		<key>Activate</key>
-		<string>Normal</string>
-		<key>Macros</key>
-		<array>
-			<dict>
-				<key>Actions</key>
-				<array>
-					<dict>
-						<key>IsDefaultApplication</key>
-						<true/>
-						<key>MacroActionType</key>
-						<string>OpenURL</string>
-						<key>TimeOutAbortsMacro</key>
-						<true/>
-						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG22/#redundant-entry</string>
-					</dict>
-				</array>
-				<key>Name</key>
-				<string>SC 3.3.7 Redundant Entry [A]</string>
-				<key>Triggers</key>
-				<array>
-					<dict>
-						<key>MacroTriggerType</key>
-						<string>TypedString</string>
-						<key>SimulateDeletes</key>
-						<true/>
-						<key>TypedString</key>
-						<string>3.3.7--</string>
-					</dict>
-				</array>
-			</dict>
-		</array>
-		<key>Name</key>
-		<string>WCAG 2.2 SCs (Open in browser)</string>
-	</dict>
-	<dict>
-		<key>Activate</key>
-		<string>Normal</string>
-		<key>Macros</key>
-		<array>
-			<dict>
-				<key>Actions</key>
-				<array>
-					<dict>
-						<key>IsDefaultApplication</key>
-						<true/>
-						<key>MacroActionType</key>
-						<string>OpenURL</string>
-						<key>TimeOutAbortsMacro</key>
-						<true/>
-						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG22/#consistent-help</string>
-					</dict>
-				</array>
-				<key>Name</key>
-				<string>SC 3.2.6 Consistent Help [A]</string>
-				<key>Triggers</key>
-				<array>
-					<dict>
-						<key>MacroTriggerType</key>
-						<string>TypedString</string>
-						<key>SimulateDeletes</key>
-						<true/>
-						<key>TypedString</key>
-						<string>3.2.6--</string>
-					</dict>
-				</array>
-			</dict>
-		</array>
-		<key>Name</key>
-		<string>WCAG 2.2 SCs (Open in browser)</string>
-	</dict>
-	<dict>
-		<key>Activate</key>
-		<string>Normal</string>
-		<key>Macros</key>
-		<array>
-			<dict>
-				<key>Actions</key>
-				<array>
-					<dict>
-						<key>IsDefaultApplication</key>
-						<true/>
-						<key>MacroActionType</key>
-						<string>OpenURL</string>
-						<key>TimeOutAbortsMacro</key>
-						<true/>
-						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG22/#target-size-minimum</string>
-					</dict>
-				</array>
-				<key>Name</key>
-				<string>SC 2.5.8 Target Size (Minimum) [AA]</string>
-				<key>Triggers</key>
-				<array>
-					<dict>
-						<key>MacroTriggerType</key>
-						<string>TypedString</string>
-						<key>SimulateDeletes</key>
-						<true/>
-						<key>TypedString</key>
-						<string>2.5.8--</string>
-					</dict>
-				</array>
-			</dict>
-		</array>
-		<key>Name</key>
-		<string>WCAG 2.2 SCs (Open in browser)</string>
-	</dict>
-	<dict>
-		<key>Activate</key>
-		<string>Normal</string>
-		<key>Macros</key>
-		<array>
-			<dict>
-				<key>Actions</key>
-				<array>
-					<dict>
-						<key>IsDefaultApplication</key>
-						<true/>
-						<key>MacroActionType</key>
-						<string>OpenURL</string>
-						<key>TimeOutAbortsMacro</key>
-						<true/>
-						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG22/#dragging-movements</string>
-					</dict>
-				</array>
-				<key>Name</key>
-				<string>SC 2.5.7 Dragging Movements [AA]</string>
-				<key>Triggers</key>
-				<array>
-					<dict>
-						<key>MacroTriggerType</key>
-						<string>TypedString</string>
-						<key>SimulateDeletes</key>
-						<true/>
-						<key>TypedString</key>
-						<string>2.5.7--</string>
-					</dict>
-				</array>
-			</dict>
-		</array>
-		<key>Name</key>
-		<string>WCAG 2.2 SCs (Open in browser)</string>
-	</dict>
-	<dict>
-		<key>Activate</key>
-		<string>Normal</string>
-		<key>Macros</key>
-		<array>
-			<dict>
-				<key>Actions</key>
-				<array>
-					<dict>
-						<key>IsDefaultApplication</key>
-						<true/>
-						<key>MacroActionType</key>
-						<string>OpenURL</string>
-						<key>TimeOutAbortsMacro</key>
-						<true/>
-						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG22/#focus-not-obscured-enhanced</string>
-					</dict>
-				</array>
-				<key>Name</key>
-				<string>SC 2.4.13 Focus Not Obscured (Enhanced) [AAA]</string>
-				<key>Triggers</key>
-				<array>
-					<dict>
-						<key>MacroTriggerType</key>
-						<string>TypedString</string>
-						<key>SimulateDeletes</key>
-						<true/>
-						<key>TypedString</key>
-						<string>2.4.13--</string>
-					</dict>
-				</array>
-			</dict>
-		</array>
-		<key>Name</key>
-		<string>WCAG 2.2 SCs (Open in browser)</string>
-	</dict>
-	<dict>
-		<key>Activate</key>
-		<string>Normal</string>
-		<key>Macros</key>
-		<array>
-			<dict>
-				<key>Actions</key>
-				<array>
-					<dict>
-						<key>IsDefaultApplication</key>
-						<true/>
-						<key>MacroActionType</key>
-						<string>OpenURL</string>
-						<key>TimeOutAbortsMacro</key>
-						<true/>
-						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG22/#accessible-authentication</string>
-					</dict>
-				</array>
-				<key>Name</key>
-				<string>SC 3.3.8 Accessible Authentication [AA]</string>
-				<key>Triggers</key>
-				<array>
-					<dict>
-						<key>MacroTriggerType</key>
-						<string>TypedString</string>
-						<key>SimulateDeletes</key>
-						<true/>
-						<key>TypedString</key>
-						<string>3.3.8--</string>
-					</dict>
-				</array>
-			</dict>
-		</array>
-		<key>Name</key>
-		<string>WCAG 2.2 SCs (Open in browser)</string>
-	</dict>
-	<dict>
-		<key>Activate</key>
-		<string>Normal</string>
-		<key>Macros</key>
-		<array>
-			<dict>
-				<key>Actions</key>
-				<array>
-					<dict>
-						<key>Action</key>
-						<string>ByPasting</string>
-						<key>MacroActionType</key>
-						<string>InsertText</string>
-						<key>Text</key>
-						<string>[SC 3.2.6 Consistent Help (Level A)](https://www.w3.org/TR/WCAG22/#consistent-help)</string>
-					</dict>
-				</array>
-				<key>Name</key>
-				<string>SC 3.2.6 Consistent Help [A]</string>
-				<key>Triggers</key>
-				<array>
-					<dict>
-						<key>MacroTriggerType</key>
-						<string>TypedString</string>
-						<key>SimulateDeletes</key>
-						<true/>
-						<key>TypedString</key>
-						<string>3.2.6-md</string>
-					</dict>
-				</array>
-			</dict>
-		</array>
-		<key>Name</key>
-		<string>WCAG 2.2 SCs (Markdown)</string>
-	</dict>
-	<dict>
-		<key>Activate</key>
-		<string>Normal</string>
-		<key>Macros</key>
-		<array>
-			<dict>
-				<key>Actions</key>
-				<array>
-					<dict>
-						<key>IsDefaultApplication</key>
-						<true/>
-						<key>MacroActionType</key>
-						<string>OpenURL</string>
-						<key>TimeOutAbortsMacro</key>
-						<true/>
-						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG22/#focus-appearance</string>
-					</dict>
-				</array>
-				<key>Name</key>
-				<string>SC 2.4.11 Focus Appearance [AA]</string>
-				<key>Triggers</key>
-				<array>
-					<dict>
-						<key>MacroTriggerType</key>
-						<string>TypedString</string>
-						<key>SimulateDeletes</key>
-						<true/>
-						<key>TypedString</key>
-						<string>2.4.11--</string>
-					</dict>
-				</array>
-			</dict>
-		</array>
-		<key>Name</key>
-		<string>WCAG 2.2 SCs (Open in browser)</string>
-	</dict>
-	<dict>
-		<key>Activate</key>
-		<string>Normal</string>
-		<key>Macros</key>
-		<array>
-			<dict>
-				<key>Actions</key>
-				<array>
-					<dict>
-						<key>Action</key>
-						<string>ByPasting</string>
-						<key>MacroActionType</key>
-						<string>InsertText</string>
-						<key>Text</key>
-						<string>[SC 2.5.8 Target Size (Minimum) (Level AA)](https://www.w3.org/TR/WCAG22/#target-size-minimum)</string>
-					</dict>
-				</array>
-				<key>Name</key>
-				<string>SC 2.5.8 Target Size (Minimum) [AA]</string>
-				<key>Triggers</key>
-				<array>
-					<dict>
-						<key>MacroTriggerType</key>
-						<string>TypedString</string>
-						<key>SimulateDeletes</key>
-						<true/>
-						<key>TypedString</key>
-						<string>2.5.8-md</string>
-					</dict>
-				</array>
-			</dict>
-		</array>
-		<key>Name</key>
-		<string>WCAG 2.2 SCs (Markdown)</string>
-	</dict>
-	<dict>
-		<key>Activate</key>
-		<string>Normal</string>
-		<key>Macros</key>
-		<array>
-			<dict>
-				<key>Actions</key>
-				<array>
-					<dict>
-						<key>Action</key>
-						<string>ByPasting</string>
-						<key>MacroActionType</key>
-						<string>InsertText</string>
-						<key>Text</key>
-						<string>[SC 2.4.12 Focus Not Obscured (Minimum) (Level AA)](https://www.w3.org/TR/WCAG22/#focus-not-obscured-minimum)</string>
-					</dict>
-				</array>
-				<key>Name</key>
-				<string>SC 2.4.12 Focus Not Obscured (Minimum) [AA]</string>
-				<key>Triggers</key>
-				<array>
-					<dict>
-						<key>MacroTriggerType</key>
-						<string>TypedString</string>
-						<key>SimulateDeletes</key>
-						<true/>
-						<key>TypedString</key>
-						<string>2.4.12-md</string>
-					</dict>
-				</array>
-			</dict>
-		</array>
-		<key>Name</key>
-		<string>WCAG 2.2 SCs (Markdown)</string>
-	</dict>
-	<dict>
-		<key>Activate</key>
-		<string>Normal</string>
-		<key>Macros</key>
-		<array>
-			<dict>
-				<key>Actions</key>
-				<array>
-					<dict>
-						<key>Action</key>
-						<string>ByPasting</string>
-						<key>MacroActionType</key>
-						<string>InsertText</string>
-						<key>Text</key>
-						<string>[SC 2.4.11 Focus Appearance (Level AA)](https://www.w3.org/TR/WCAG22/#focus-appearance)</string>
-					</dict>
-				</array>
-				<key>Name</key>
-				<string>SC 2.4.11 Focus Appearance [AA]</string>
-				<key>Triggers</key>
-				<array>
-					<dict>
-						<key>MacroTriggerType</key>
-						<string>TypedString</string>
-						<key>SimulateDeletes</key>
-						<true/>
-						<key>TypedString</key>
-						<string>2.4.11-md</string>
-					</dict>
-				</array>
-			</dict>
-		</array>
-		<key>Name</key>
-		<string>WCAG 2.2 SCs (Markdown)</string>
-	</dict>
-	<dict>
-		<key>Activate</key>
-		<string>Normal</string>
-		<key>Macros</key>
-		<array>
-			<dict>
-				<key>Actions</key>
-				<array>
-					<dict>
-						<key>Action</key>
-						<string>ByPasting</string>
-						<key>MacroActionType</key>
-						<string>InsertText</string>
-						<key>Text</key>
-						<string>&lt;a href="https://www.w3.org/TR/WCAG22/#redundant-entry"&gt;SC 3.3.7 Redundant Entry&lt;/a&gt;</string>
-					</dict>
-				</array>
-				<key>Name</key>
-				<string>SC 3.3.7 Redundant Entry [A]</string>
-				<key>Triggers</key>
-				<array>
-					<dict>
-						<key>MacroTriggerType</key>
-						<string>TypedString</string>
-						<key>SimulateDeletes</key>
-						<true/>
-						<key>TypedString</key>
-						<string>3.3.7-h</string>
-					</dict>
-				</array>
-			</dict>
-		</array>
-		<key>Name</key>
-		<string>WCAG 2.2 SCs (&lt;a href&gt;)</string>
-	</dict>
-	<dict>
-		<key>Activate</key>
-		<string>Normal</string>
-		<key>Macros</key>
-		<array>
-			<dict>
-				<key>Actions</key>
-				<array>
-					<dict>
-						<key>Action</key>
-						<string>ByPasting</string>
-						<key>MacroActionType</key>
-						<string>InsertText</string>
-						<key>Text</key>
-						<string>https://www.w3.org/TR/WCAG22/#accessible-authentication</string>
-					</dict>
-				</array>
-				<key>Name</key>
-				<string>SC 3.3.8 Accessible Authentication [AA] (URL)</string>
-				<key>Triggers</key>
-				<array>
-					<dict>
-						<key>MacroTriggerType</key>
-						<string>TypedString</string>
-						<key>SimulateDeletes</key>
-						<true/>
-						<key>TypedString</key>
-						<string>3.3.8-l</string>
-					</dict>
-				</array>
-			</dict>
-		</array>
-		<key>Name</key>
-		<string>WCAG 2.2 SCs (URL)</string>
-	</dict>
-	<dict>
-		<key>Activate</key>
-		<string>Normal</string>
-		<key>Macros</key>
-		<array>
-			<dict>
-				<key>Actions</key>
-				<array>
-					<dict>
-						<key>Action</key>
-						<string>ByPasting</string>
-						<key>MacroActionType</key>
-						<string>InsertText</string>
-						<key>Text</key>
-						<string>&lt;a href="https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-enhanced.html"&gt;SC 2.4.13 Focus Not Obscured (Enhanced)&lt;/a&gt;</string>
-					</dict>
-				</array>
-				<key>Name</key>
-				<string>SC 2.4.13 Focus Not Obscured (Enhanced) [AAA] - Understanding (Markdown link)</string>
-				<key>Triggers</key>
-				<array>
-					<dict>
-						<key>MacroTriggerType</key>
-						<string>TypedString</string>
-						<key>SimulateDeletes</key>
-						<true/>
-						<key>TypedString</key>
-						<string>2.4.13-u-h</string>
-					</dict>
-				</array>
-			</dict>
-		</array>
-		<key>Name</key>
-		<string>WCAG 2.2 SCs - Understanding docs (&lt;a href&gt;)</string>
-	</dict>
-	<dict>
-		<key>Activate</key>
-		<string>Normal</string>
-		<key>Macros</key>
-		<array>
-			<dict>
-				<key>Actions</key>
-				<array>
-					<dict>
-						<key>Action</key>
-						<string>ByPasting</string>
-						<key>MacroActionType</key>
-						<string>InsertText</string>
-						<key>Text</key>
-						<string>&lt;a href="https://www.w3.org/TR/WCAG22/#consistent-help"&gt;SC 3.2.6 Consistent Help&lt;/a&gt;</string>
-					</dict>
-				</array>
-				<key>Name</key>
-				<string>SC 3.2.6 Consistent Help [A]</string>
-				<key>Triggers</key>
-				<array>
-					<dict>
-						<key>MacroTriggerType</key>
-						<string>TypedString</string>
-						<key>SimulateDeletes</key>
-						<true/>
-						<key>TypedString</key>
-						<string>3.2.6-h</string>
-					</dict>
-				</array>
-			</dict>
-		</array>
-		<key>Name</key>
-		<string>WCAG 2.2 SCs (&lt;a href&gt;)</string>
-	</dict>
-	<dict>
-		<key>Activate</key>
-		<string>Normal</string>
-		<key>Macros</key>
-		<array>
-			<dict>
-				<key>Actions</key>
-				<array>
-					<dict>
-						<key>Action</key>
-						<string>ByPasting</string>
-						<key>MacroActionType</key>
-						<string>InsertText</string>
-						<key>Text</key>
-						<string>https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-enhanced.html</string>
-					</dict>
-				</array>
-				<key>Name</key>
-				<string>🆄 SC 2.4.13 Focus Not Obscured (Enhanced) [AAA] (URL)</string>
-				<key>Triggers</key>
-				<array>
-					<dict>
-						<key>MacroTriggerType</key>
-						<string>TypedString</string>
-						<key>SimulateDeletes</key>
-						<true/>
-						<key>TypedString</key>
-						<string>2.4.13-u-l</string>
-					</dict>
-				</array>
-			</dict>
-		</array>
-		<key>Name</key>
-		<string>WCAG 2.2 SCs - Understanding docs (URL)</string>
-	</dict>
-	<dict>
-		<key>Activate</key>
-		<string>Normal</string>
-		<key>Macros</key>
-		<array>
-			<dict>
-				<key>Actions</key>
-				<array>
-					<dict>
-						<key>Action</key>
-						<string>ByPasting</string>
-						<key>MacroActionType</key>
-						<string>InsertText</string>
-						<key>Text</key>
-						<string>&lt;a href="https://www.w3.org/TR/WCAG22/#dragging-movements"&gt;SC 2.5.7 Dragging Movements&lt;/a&gt;</string>
-					</dict>
-				</array>
-				<key>Name</key>
-				<string>SC 2.5.7 Dragging Movements [AA]</string>
-				<key>Triggers</key>
-				<array>
-					<dict>
-						<key>MacroTriggerType</key>
-						<string>TypedString</string>
-						<key>SimulateDeletes</key>
-						<true/>
-						<key>TypedString</key>
-						<string>2.5.7-h</string>
-					</dict>
-				</array>
-			</dict>
-		</array>
-		<key>Name</key>
-		<string>WCAG 2.2 SCs (&lt;a href&gt;)</string>
-	</dict>
-	<dict>
-		<key>Activate</key>
-		<string>Normal</string>
-		<key>Macros</key>
-		<array>
-			<dict>
-				<key>Actions</key>
-				<array>
-					<dict>
-						<key>Action</key>
-						<string>ByPasting</string>
-						<key>MacroActionType</key>
-						<string>InsertText</string>
-						<key>Text</key>
-						<string>[SC 3.3.9 Accessible Authentication (Enhanced) (Level AAA)](https://www.w3.org/TR/WCAG22/#accessible-authentication-enhanced)</string>
-					</dict>
-				</array>
-				<key>Name</key>
-				<string>SC 3.3.9 Accessible Authentication (Enhanced) [AAA]</string>
-				<key>Triggers</key>
-				<array>
-					<dict>
-						<key>MacroTriggerType</key>
-						<string>TypedString</string>
-						<key>SimulateDeletes</key>
-						<true/>
-						<key>TypedString</key>
-						<string>3.3.9-md</string>
-					</dict>
-				</array>
-			</dict>
-		</array>
-		<key>Name</key>
-		<string>WCAG 2.2 SCs (Markdown)</string>
-	</dict>
-	<dict>
-		<key>Activate</key>
-		<string>Normal</string>
-		<key>Macros</key>
-		<array>
-			<dict>
-				<key>Actions</key>
-				<array>
-					<dict>
-						<key>Action</key>
-						<string>ByPasting</string>
-						<key>MacroActionType</key>
-						<string>InsertText</string>
-						<key>Text</key>
-						<string>&lt;a href="https://www.w3.org/TR/WCAG22/#focus-not-obscured-minimum"&gt;SC 2.4.12 Focus Not Obscured (Minimum)&lt;/a&gt;</string>
-					</dict>
-				</array>
-				<key>Name</key>
-				<string>SC 2.4.12 Focus Not Obscured (Minimum) [AA]</string>
-				<key>Triggers</key>
-				<array>
-					<dict>
-						<key>MacroTriggerType</key>
-						<string>TypedString</string>
-						<key>SimulateDeletes</key>
-						<true/>
-						<key>TypedString</key>
-						<string>2.4.12-h</string>
-					</dict>
-				</array>
-			</dict>
-		</array>
-		<key>Name</key>
-		<string>WCAG 2.2 SCs (&lt;a href&gt;)</string>
-	</dict>
-	<dict>
-		<key>Activate</key>
-		<string>Normal</string>
-		<key>Macros</key>
-		<array>
-			<dict>
-				<key>Actions</key>
-				<array>
-					<dict>
-						<key>Action</key>
-						<string>ByPasting</string>
-						<key>MacroActionType</key>
-						<string>InsertText</string>
-						<key>Text</key>
-						<string>&lt;a href="https://www.w3.org/TR/WCAG22/#focus-appearance"&gt;SC 2.4.11 Focus Appearance&lt;/a&gt;</string>
-					</dict>
-				</array>
-				<key>Name</key>
-				<string>SC 2.4.11 Focus Appearance [AA]</string>
-				<key>Triggers</key>
-				<array>
-					<dict>
-						<key>MacroTriggerType</key>
-						<string>TypedString</string>
-						<key>SimulateDeletes</key>
-						<true/>
-						<key>TypedString</key>
-						<string>2.4.11-h</string>
-					</dict>
-				</array>
-			</dict>
-		</array>
-		<key>Name</key>
-		<string>WCAG 2.2 SCs (&lt;a href&gt;)</string>
-	</dict>
-	<dict>
-		<key>Activate</key>
-		<string>Normal</string>
-		<key>Macros</key>
-		<array>
-			<dict>
-				<key>Actions</key>
-				<array>
-					<dict>
-						<key>Action</key>
-						<string>ByPasting</string>
-						<key>MacroActionType</key>
-						<string>InsertText</string>
-						<key>Text</key>
-						<string>&lt;a href="https://www.w3.org/TR/WCAG22/#accessible-authentication"&gt;SC 3.3.8 Accessible Authentication&lt;/a&gt;</string>
-					</dict>
-				</array>
-				<key>Name</key>
-				<string>SC 3.3.8 Accessible Authentication [AA]</string>
-				<key>Triggers</key>
-				<array>
-					<dict>
-						<key>MacroTriggerType</key>
-						<string>TypedString</string>
-						<key>SimulateDeletes</key>
-						<true/>
-						<key>TypedString</key>
-						<string>3.3.8-h</string>
-					</dict>
-				</array>
-			</dict>
-		</array>
-		<key>Name</key>
-		<string>WCAG 2.2 SCs (&lt;a href&gt;)</string>
-	</dict>
-	<dict>
-		<key>Activate</key>
-		<string>Normal</string>
-		<key>Macros</key>
-		<array>
-			<dict>
-				<key>Actions</key>
-				<array>
-					<dict>
-						<key>Action</key>
-						<string>ByPasting</string>
-						<key>MacroActionType</key>
-						<string>InsertText</string>
-						<key>Text</key>
-						<string>[SC 3.2.6 Consistent Help (Level A)](https://www.w3.org/WAI/WCAG22/Understanding/consistent-help.html)</string>
-					</dict>
-				</array>
-				<key>Name</key>
-				<string>🆄 SC 3.2.6 Consistent Help [A] 🅼🅳</string>
-				<key>Triggers</key>
-				<array>
-					<dict>
-						<key>MacroTriggerType</key>
-						<string>TypedString</string>
-						<key>SimulateDeletes</key>
-						<true/>
-						<key>TypedString</key>
-						<string>3.2.6-u-md</string>
-					</dict>
-				</array>
-			</dict>
-		</array>
-		<key>Name</key>
-		<string>WCAG 2.2 SCs - Understanding docs (Markdown)</string>
-	</dict>
-	<dict>
-		<key>Activate</key>
-		<string>Normal</string>
-		<key>Macros</key>
-		<array>
-			<dict>
-				<key>Actions</key>
-				<array>
-					<dict>
-						<key>Action</key>
-						<string>ByPasting</string>
-						<key>MacroActionType</key>
-						<string>InsertText</string>
-						<key>Text</key>
-						<string>https://www.w3.org/WAI/WCAG22/Understanding/redundant-entry.html</string>
-					</dict>
-				</array>
-				<key>Name</key>
-				<string>🆄 SC 3.3.7 Redundant Entry [A] (URL)</string>
-				<key>Triggers</key>
-				<array>
-					<dict>
-						<key>MacroTriggerType</key>
-						<string>TypedString</string>
-						<key>SimulateDeletes</key>
-						<true/>
-						<key>TypedString</key>
-						<string>3.3.7-u-l</string>
-					</dict>
-				</array>
-			</dict>
-		</array>
-		<key>Name</key>
-		<string>WCAG 2.2 SCs - Understanding docs (URL)</string>
-	</dict>
-	<dict>
-		<key>Activate</key>
-		<string>Normal</string>
-		<key>Macros</key>
-		<array>
-			<dict>
-				<key>Actions</key>
-				<array>
-					<dict>
-						<key>Action</key>
-						<string>ByPasting</string>
-						<key>MacroActionType</key>
-						<string>InsertText</string>
-						<key>Text</key>
-						<string>[SC 3.3.7 Redundant Entry (Level A)](https://www.w3.org/WAI/WCAG22/Understanding/redundant-entry.html)</string>
-					</dict>
-				</array>
-				<key>Name</key>
-				<string>🆄 SC 3.3.7 Redundant Entry [A] 🅼🅳</string>
-				<key>Triggers</key>
-				<array>
-					<dict>
-						<key>MacroTriggerType</key>
-						<string>TypedString</string>
-						<key>SimulateDeletes</key>
-						<true/>
-						<key>TypedString</key>
-						<string>3.3.7-u-md</string>
-					</dict>
-				</array>
-			</dict>
-		</array>
-		<key>Name</key>
-		<string>WCAG 2.2 SCs - Understanding docs (Markdown)</string>
-	</dict>
-	<dict>
-		<key>Activate</key>
-		<string>Normal</string>
-		<key>Macros</key>
-		<array>
-			<dict>
-				<key>Actions</key>
-				<array>
-					<dict>
-						<key>Action</key>
-						<string>ByPasting</string>
-						<key>MacroActionType</key>
-						<string>InsertText</string>
-						<key>Text</key>
-						<string>https://www.w3.org/WAI/WCAG22/Understanding/target-size-minimum.html</string>
-					</dict>
-				</array>
-				<key>Name</key>
-				<string>🆄 SC 2.5.8 Target Size (Minimum) [AA] (URL)</string>
-				<key>Triggers</key>
-				<array>
-					<dict>
-						<key>MacroTriggerType</key>
-						<string>TypedString</string>
-						<key>SimulateDeletes</key>
-						<true/>
-						<key>TypedString</key>
-						<string>2.5.8-u-l</string>
-					</dict>
-				</array>
-			</dict>
-		</array>
-		<key>Name</key>
-		<string>WCAG 2.2 SCs - Understanding docs (URL)</string>
-	</dict>
-	<dict>
-		<key>Activate</key>
-		<string>Normal</string>
-		<key>Macros</key>
-		<array>
-			<dict>
-				<key>Actions</key>
-				<array>
-					<dict>
-						<key>Action</key>
-						<string>ByPasting</string>
-						<key>MacroActionType</key>
-						<string>InsertText</string>
-						<key>Text</key>
-						<string>https://www.w3.org/WAI/WCAG22/Understanding/focus-appearance.html</string>
-					</dict>
-				</array>
-				<key>Name</key>
-				<string>🆄 SC 2.4.11 Focus Appearance [AA] (URL)</string>
-				<key>Triggers</key>
-				<array>
-					<dict>
-						<key>MacroTriggerType</key>
-						<string>TypedString</string>
-						<key>SimulateDeletes</key>
-						<true/>
-						<key>TypedString</key>
-						<string>2.4.11-u-l</string>
-					</dict>
-				</array>
-			</dict>
-		</array>
-		<key>Name</key>
-		<string>WCAG 2.2 SCs - Understanding docs (URL)</string>
-	</dict>
-	<dict>
-		<key>Activate</key>
-		<string>Normal</string>
-		<key>Macros</key>
-		<array>
-			<dict>
-				<key>Actions</key>
-				<array>
-					<dict>
-						<key>Action</key>
-						<string>ByPasting</string>
-						<key>MacroActionType</key>
-						<string>InsertText</string>
-						<key>Text</key>
-						<string>https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication.html</string>
-					</dict>
-				</array>
-				<key>Name</key>
-				<string>🆄 SC 3.3.8 Accessible Authentication [AA] (URL)</string>
-				<key>Triggers</key>
-				<array>
-					<dict>
-						<key>MacroTriggerType</key>
-						<string>TypedString</string>
-						<key>SimulateDeletes</key>
-						<true/>
-						<key>TypedString</key>
-						<string>3.3.8-u-l</string>
-					</dict>
-				</array>
-			</dict>
-		</array>
-		<key>Name</key>
-		<string>WCAG 2.2 SCs - Understanding docs (URL)</string>
-	</dict>
-	<dict>
-		<key>Activate</key>
-		<string>Normal</string>
-		<key>DisplayInMenuBar</key>
-		<dict>
-			<key>Display</key>
-			<true/>
-			<key>IconType</key>
-			<string>MacroGroup</string>
-			<key>IncludeAllMacros</key>
-			<true/>
-			<key>TitleType</key>
-			<string>No</string>
-		</dict>
-		<key>Macros</key>
-		<array>
-			<dict>
-				<key>Actions</key>
-				<array>
-					<dict>
-						<key>IsDefaultApplication</key>
-						<true/>
-						<key>MacroActionType</key>
-						<string>OpenURL</string>
-						<key>TimeOutAbortsMacro</key>
-						<true/>
-						<key>URL</key>
-						<string>https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication-enhanced.html</string>
-					</dict>
-				</array>
-				<key>Name</key>
-				<string>🆄 SC 3.3.9 Accessible Authentication (Enhanced) [AAA]</string>
-				<key>Triggers</key>
-				<array>
-					<dict>
-						<key>MacroTriggerType</key>
-						<string>TypedString</string>
-						<key>SimulateDeletes</key>
-						<true/>
-						<key>TypedString</key>
-						<string>3.3.9-u--</string>
-					</dict>
-				</array>
-			</dict>
-		</array>
-		<key>Name</key>
-		<string>WCAG 2.2 SCs - Understanding docs (Open in browser)</string>
-	</dict>
-	<dict>
-		<key>Activate</key>
-		<string>Normal</string>
-		<key>Macros</key>
-		<array>
-			<dict>
-				<key>Actions</key>
-				<array>
-					<dict>
-						<key>Action</key>
-						<string>ByPasting</string>
-						<key>MacroActionType</key>
-						<string>InsertText</string>
-						<key>Text</key>
-						<string>https://www.w3.org/TR/WCAG22/#dragging-movements</string>
-					</dict>
-				</array>
-				<key>Name</key>
-				<string>SC 2.5.7 Dragging Movements [AA] (URL)</string>
-				<key>Triggers</key>
-				<array>
-					<dict>
-						<key>MacroTriggerType</key>
-						<string>TypedString</string>
-						<key>SimulateDeletes</key>
-						<true/>
-						<key>TypedString</key>
-						<string>2.5.7-l</string>
-					</dict>
-				</array>
-			</dict>
-		</array>
-		<key>Name</key>
-		<string>WCAG 2.2 SCs (URL)</string>
-	</dict>
-	<dict>
-		<key>Activate</key>
-		<string>Normal</string>
-		<key>Macros</key>
-		<array>
-			<dict>
-				<key>Actions</key>
-				<array>
-					<dict>
-						<key>Action</key>
-						<string>ByPasting</string>
-						<key>MacroActionType</key>
-						<string>InsertText</string>
-						<key>Text</key>
-						<string>[SC 2.5.7 Dragging Movements (Level AA)](https://www.w3.org/WAI/WCAG22/Understanding/dragging-movements.html)</string>
-					</dict>
-				</array>
-				<key>Name</key>
-				<string>🆄 SC 2.5.7 Dragging Movements [AA] 🅼🅳</string>
-				<key>Triggers</key>
-				<array>
-					<dict>
-						<key>MacroTriggerType</key>
-						<string>TypedString</string>
-						<key>SimulateDeletes</key>
-						<true/>
-						<key>TypedString</key>
-						<string>2.5.7-u-md</string>
-					</dict>
-				</array>
-			</dict>
-		</array>
-		<key>Name</key>
-		<string>WCAG 2.2 SCs - Understanding docs (Markdown)</string>
-	</dict>
-	<dict>
-		<key>Activate</key>
-		<string>Normal</string>
-		<key>Macros</key>
-		<array>
-			<dict>
-				<key>Actions</key>
-				<array>
-					<dict>
-						<key>Action</key>
-						<string>ByPasting</string>
-						<key>MacroActionType</key>
-						<string>InsertText</string>
-						<key>Text</key>
-						<string>&lt;a href="https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-minimum.html"&gt;SC 2.4.12 Focus Not Obscured (Minimum)&lt;/a&gt;</string>
-					</dict>
-				</array>
-				<key>Name</key>
-				<string>SC 2.4.12 Focus Not Obscured (Minimum) [AA] - Understanding (Markdown link)</string>
-				<key>Triggers</key>
-				<array>
-					<dict>
-						<key>MacroTriggerType</key>
-						<string>TypedString</string>
-						<key>SimulateDeletes</key>
-						<true/>
-						<key>TypedString</key>
-						<string>2.4.12-u-h</string>
-					</dict>
-				</array>
-			</dict>
-		</array>
-		<key>Name</key>
-		<string>WCAG 2.2 SCs - Understanding docs (&lt;a href&gt;)</string>
-	</dict>
-	<dict>
-		<key>Activate</key>
-		<string>Normal</string>
-		<key>DisplayInMenuBar</key>
-		<dict>
-			<key>Display</key>
-			<true/>
-			<key>IconType</key>
-			<string>MacroGroup</string>
-			<key>IncludeAllMacros</key>
-			<true/>
-			<key>TitleType</key>
-			<string>No</string>
-		</dict>
-		<key>Macros</key>
-		<array>
-			<dict>
-				<key>Actions</key>
-				<array>
-					<dict>
-						<key>IsDefaultApplication</key>
-						<true/>
-						<key>MacroActionType</key>
-						<string>OpenURL</string>
-						<key>TimeOutAbortsMacro</key>
-						<true/>
-						<key>URL</key>
-						<string>https://www.w3.org/WAI/WCAG22/Understanding/consistent-help.html</string>
-					</dict>
-				</array>
-				<key>Name</key>
-				<string>🆄 SC 3.2.6 Consistent Help [A]</string>
-				<key>Triggers</key>
-				<array>
-					<dict>
-						<key>MacroTriggerType</key>
-						<string>TypedString</string>
-						<key>SimulateDeletes</key>
-						<true/>
-						<key>TypedString</key>
-						<string>3.2.6-u--</string>
-					</dict>
-				</array>
-			</dict>
-		</array>
-		<key>Name</key>
-		<string>WCAG 2.2 SCs - Understanding docs (Open in browser)</string>
-	</dict>
-	<dict>
-		<key>Activate</key>
-		<string>Normal</string>
-		<key>DisplayInMenuBar</key>
-		<dict>
-			<key>Display</key>
-			<true/>
-			<key>IconType</key>
-			<string>MacroGroup</string>
-			<key>IncludeAllMacros</key>
-			<true/>
-			<key>TitleType</key>
-			<string>No</string>
-		</dict>
-		<key>Macros</key>
-		<array>
-			<dict>
-				<key>Actions</key>
-				<array>
-					<dict>
-						<key>IsDefaultApplication</key>
-						<true/>
-						<key>MacroActionType</key>
-						<string>OpenURL</string>
-						<key>TimeOutAbortsMacro</key>
-						<true/>
-						<key>URL</key>
-						<string>https://www.w3.org/WAI/WCAG22/Understanding/redundant-entry.html</string>
-					</dict>
-				</array>
-				<key>Name</key>
-				<string>🆄 SC 3.3.7 Redundant Entry [A]</string>
-				<key>Triggers</key>
-				<array>
-					<dict>
-						<key>MacroTriggerType</key>
-						<string>TypedString</string>
-						<key>SimulateDeletes</key>
-						<true/>
-						<key>TypedString</key>
-						<string>3.3.7-u--</string>
-					</dict>
-				</array>
-			</dict>
-		</array>
-		<key>Name</key>
-		<string>WCAG 2.2 SCs - Understanding docs (Open in browser)</string>
-	</dict>
-	<dict>
-		<key>Activate</key>
-		<string>Normal</string>
-		<key>Macros</key>
-		<array>
-			<dict>
-				<key>Actions</key>
-				<array>
-					<dict>
-						<key>IsDefaultApplication</key>
-						<true/>
-						<key>MacroActionType</key>
-						<string>OpenURL</string>
-						<key>TimeOutAbortsMacro</key>
-						<true/>
-						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG22/#accessible-authentication-enhanced</string>
-					</dict>
-				</array>
-				<key>Name</key>
-				<string>SC 3.3.9 Accessible Authentication (Enhanced) [AAA]</string>
-				<key>Triggers</key>
-				<array>
-					<dict>
-						<key>MacroTriggerType</key>
-						<string>TypedString</string>
-						<key>SimulateDeletes</key>
-						<true/>
-						<key>TypedString</key>
-						<string>3.3.9--</string>
-					</dict>
-				</array>
-			</dict>
-		</array>
-		<key>Name</key>
-		<string>WCAG 2.2 SCs (Open in browser)</string>
-	</dict>
-	<dict>
-		<key>Activate</key>
-		<string>Normal</string>
-		<key>Macros</key>
-		<array>
-			<dict>
-				<key>Actions</key>
-				<array>
-					<dict>
-						<key>Action</key>
-						<string>ByPasting</string>
-						<key>MacroActionType</key>
-						<string>InsertText</string>
-						<key>Text</key>
-						<string>[SC 3.3.7 Redundant Entry (Level A)](https://www.w3.org/TR/WCAG22/#redundant-entry)</string>
-					</dict>
-				</array>
-				<key>Name</key>
-				<string>SC 3.3.7 Redundant Entry [A]</string>
-				<key>Triggers</key>
-				<array>
-					<dict>
-						<key>MacroTriggerType</key>
-						<string>TypedString</string>
-						<key>SimulateDeletes</key>
-						<true/>
-						<key>TypedString</key>
-						<string>3.3.7-md</string>
-					</dict>
-				</array>
-			</dict>
-		</array>
-		<key>Name</key>
-		<string>WCAG 2.2 SCs (Markdown)</string>
-	</dict>
-	<dict>
-		<key>Activate</key>
-		<string>Normal</string>
-		<key>DisplayInMenuBar</key>
-		<dict>
-			<key>Display</key>
-			<true/>
-			<key>IconType</key>
-			<string>MacroGroup</string>
-			<key>IncludeAllMacros</key>
-			<true/>
-			<key>TitleType</key>
-			<string>No</string>
-		</dict>
-		<key>Macros</key>
-		<array>
-			<dict>
-				<key>Actions</key>
-				<array>
-					<dict>
-						<key>IsDefaultApplication</key>
-						<true/>
-						<key>MacroActionType</key>
-						<string>OpenURL</string>
-						<key>TimeOutAbortsMacro</key>
-						<true/>
-						<key>URL</key>
-						<string>https://www.w3.org/WAI/WCAG22/Understanding/target-size-minimum.html</string>
-					</dict>
-				</array>
-				<key>Name</key>
-				<string>🆄 SC 2.5.8 Target Size (Minimum) [AA]</string>
-				<key>Triggers</key>
-				<array>
-					<dict>
-						<key>MacroTriggerType</key>
-						<string>TypedString</string>
-						<key>SimulateDeletes</key>
-						<true/>
-						<key>TypedString</key>
-						<string>2.5.8-u--</string>
-					</dict>
-				</array>
-			</dict>
-		</array>
-		<key>Name</key>
-		<string>WCAG 2.2 SCs - Understanding docs (Open in browser)</string>
-	</dict>
-	<dict>
-		<key>Activate</key>
-		<string>Normal</string>
-		<key>Macros</key>
-		<array>
-			<dict>
-				<key>Actions</key>
-				<array>
-					<dict>
-						<key>Action</key>
-						<string>ByPasting</string>
-						<key>MacroActionType</key>
-						<string>InsertText</string>
-						<key>Text</key>
-						<string>[SC 3.3.8 Accessible Authentication (Level AA)](https://www.w3.org/TR/WCAG22/#accessible-authentication)</string>
-					</dict>
-				</array>
-				<key>Name</key>
-				<string>SC 3.3.8 Accessible Authentication [AA]</string>
-				<key>Triggers</key>
-				<array>
-					<dict>
-						<key>MacroTriggerType</key>
-						<string>TypedString</string>
-						<key>SimulateDeletes</key>
-						<true/>
-						<key>TypedString</key>
-						<string>3.3.8-md</string>
-					</dict>
-				</array>
-			</dict>
-		</array>
-		<key>Name</key>
-		<string>WCAG 2.2 SCs (Markdown)</string>
-	</dict>
-	<dict>
-		<key>Activate</key>
-		<string>Normal</string>
-		<key>DisplayInMenuBar</key>
-		<dict>
-			<key>Display</key>
-			<true/>
-			<key>IconType</key>
-			<string>MacroGroup</string>
-			<key>IncludeAllMacros</key>
-			<true/>
-			<key>TitleType</key>
-			<string>No</string>
-		</dict>
-		<key>Macros</key>
-		<array>
-			<dict>
-				<key>Actions</key>
-				<array>
-					<dict>
-						<key>IsDefaultApplication</key>
-						<true/>
-						<key>MacroActionType</key>
-						<string>OpenURL</string>
-						<key>TimeOutAbortsMacro</key>
-						<true/>
-						<key>URL</key>
-						<string>https://www.w3.org/WAI/WCAG22/Understanding/dragging-movements.html</string>
-					</dict>
-				</array>
-				<key>Name</key>
-				<string>🆄 SC 2.5.7 Dragging Movements [AA]</string>
-				<key>Triggers</key>
-				<array>
-					<dict>
-						<key>MacroTriggerType</key>
-						<string>TypedString</string>
-						<key>SimulateDeletes</key>
-						<true/>
-						<key>TypedString</key>
-						<string>2.5.7-u--</string>
-					</dict>
-				</array>
-			</dict>
-		</array>
-		<key>Name</key>
-		<string>WCAG 2.2 SCs - Understanding docs (Open in browser)</string>
-	</dict>
-	<dict>
-		<key>Activate</key>
-		<string>Normal</string>
-		<key>Macros</key>
-		<array>
-			<dict>
-				<key>Actions</key>
-				<array>
-					<dict>
-						<key>Action</key>
-						<string>ByPasting</string>
-						<key>MacroActionType</key>
-						<string>InsertText</string>
-						<key>Text</key>
-						<string>[SC 2.4.13 Focus Not Obscured (Enhanced) (Level AAA)](https://www.w3.org/TR/WCAG22/#focus-not-obscured-enhanced)</string>
-					</dict>
-				</array>
-				<key>Name</key>
-				<string>SC 2.4.13 Focus Not Obscured (Enhanced) [AAA]</string>
-				<key>Triggers</key>
-				<array>
-					<dict>
-						<key>MacroTriggerType</key>
-						<string>TypedString</string>
-						<key>SimulateDeletes</key>
-						<true/>
-						<key>TypedString</key>
-						<string>2.4.13-md</string>
-					</dict>
-				</array>
-			</dict>
-		</array>
-		<key>Name</key>
-		<string>WCAG 2.2 SCs (Markdown)</string>
-	</dict>
-	<dict>
-		<key>Activate</key>
-		<string>Normal</string>
-		<key>DisplayInMenuBar</key>
-		<dict>
-			<key>Display</key>
-			<true/>
-			<key>IconType</key>
-			<string>MacroGroup</string>
-			<key>IncludeAllMacros</key>
-			<true/>
-			<key>TitleType</key>
-			<string>No</string>
-		</dict>
-		<key>Macros</key>
-		<array>
-			<dict>
-				<key>Actions</key>
-				<array>
-					<dict>
-						<key>IsDefaultApplication</key>
-						<true/>
-						<key>MacroActionType</key>
-						<string>OpenURL</string>
-						<key>TimeOutAbortsMacro</key>
-						<true/>
-						<key>URL</key>
-						<string>https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-minimum.html</string>
-					</dict>
-				</array>
-				<key>Name</key>
-				<string>🆄 SC 2.4.12 Focus Not Obscured (Minimum) [AA]</string>
-				<key>Triggers</key>
-				<array>
-					<dict>
-						<key>MacroTriggerType</key>
-						<string>TypedString</string>
-						<key>SimulateDeletes</key>
-						<true/>
-						<key>TypedString</key>
-						<string>2.4.12-u--</string>
-					</dict>
-				</array>
-			</dict>
-		</array>
-		<key>Name</key>
-		<string>WCAG 2.2 SCs - Understanding docs (Open in browser)</string>
-	</dict>
-	<dict>
-		<key>Activate</key>
-		<string>Normal</string>
-		<key>Macros</key>
-		<array>
-			<dict>
-				<key>Actions</key>
-				<array>
-					<dict>
-						<key>Action</key>
-						<string>ByPasting</string>
-						<key>MacroActionType</key>
-						<string>InsertText</string>
-						<key>Text</key>
-						<string>https://www.w3.org/TR/WCAG22/#redundant-entry</string>
-					</dict>
-				</array>
-				<key>Name</key>
-				<string>SC 3.3.7 Redundant Entry [A] (URL)</string>
-				<key>Triggers</key>
-				<array>
-					<dict>
-						<key>MacroTriggerType</key>
-						<string>TypedString</string>
-						<key>SimulateDeletes</key>
-						<true/>
-						<key>TypedString</key>
-						<string>3.3.7-l</string>
-					</dict>
-				</array>
-			</dict>
-		</array>
-		<key>Name</key>
-		<string>WCAG 2.2 SCs (URL)</string>
-	</dict>
-	<dict>
-		<key>Activate</key>
-		<string>Normal</string>
-		<key>DisplayInMenuBar</key>
-		<dict>
-			<key>Display</key>
-			<true/>
-			<key>IconType</key>
-			<string>MacroGroup</string>
-			<key>IncludeAllMacros</key>
-			<true/>
-			<key>TitleType</key>
-			<string>No</string>
-		</dict>
-		<key>Macros</key>
-		<array>
-			<dict>
-				<key>Actions</key>
-				<array>
-					<dict>
-						<key>IsDefaultApplication</key>
-						<true/>
-						<key>MacroActionType</key>
-						<string>OpenURL</string>
-						<key>TimeOutAbortsMacro</key>
-						<true/>
-						<key>URL</key>
-						<string>https://www.w3.org/WAI/WCAG22/Understanding/focus-appearance.html</string>
-					</dict>
-				</array>
-				<key>Name</key>
-				<string>🆄 SC 2.4.11 Focus Appearance [AA]</string>
-				<key>Triggers</key>
-				<array>
-					<dict>
-						<key>MacroTriggerType</key>
-						<string>TypedString</string>
-						<key>SimulateDeletes</key>
-						<true/>
-						<key>TypedString</key>
-						<string>2.4.11-u--</string>
-					</dict>
-				</array>
-			</dict>
-		</array>
-		<key>Name</key>
-		<string>WCAG 2.2 SCs - Understanding docs (Open in browser)</string>
-	</dict>
-	<dict>
-		<key>Activate</key>
-		<string>Normal</string>
-		<key>Macros</key>
-		<array>
-			<dict>
-				<key>Actions</key>
-				<array>
-					<dict>
-						<key>Action</key>
-						<string>ByPasting</string>
-						<key>MacroActionType</key>
-						<string>InsertText</string>
-						<key>Text</key>
-						<string>&lt;a href="https://www.w3.org/TR/WCAG22/#target-size-minimum"&gt;SC 2.5.8 Target Size (Minimum)&lt;/a&gt;</string>
-					</dict>
-				</array>
-				<key>Name</key>
-				<string>SC 2.5.8 Target Size (Minimum) [AA]</string>
-				<key>Triggers</key>
-				<array>
-					<dict>
-						<key>MacroTriggerType</key>
-						<string>TypedString</string>
-						<key>SimulateDeletes</key>
-						<true/>
-						<key>TypedString</key>
-						<string>2.5.8-h</string>
-					</dict>
-				</array>
-			</dict>
-		</array>
-		<key>Name</key>
-		<string>WCAG 2.2 SCs (&lt;a href&gt;)</string>
-	</dict>
-	<dict>
-		<key>Activate</key>
-		<string>Normal</string>
-		<key>Macros</key>
-		<array>
-			<dict>
-				<key>Actions</key>
-				<array>
-					<dict>
-						<key>Action</key>
-						<string>ByPasting</string>
-						<key>MacroActionType</key>
-						<string>InsertText</string>
-						<key>Text</key>
-						<string>[SC 3.3.8 Accessible Authentication (Level AA)](https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication.html)</string>
-					</dict>
-				</array>
-				<key>Name</key>
-				<string>🆄 SC 3.3.8 Accessible Authentication [AA] 🅼🅳</string>
-				<key>Triggers</key>
-				<array>
-					<dict>
-						<key>MacroTriggerType</key>
-						<string>TypedString</string>
-						<key>SimulateDeletes</key>
-						<true/>
-						<key>TypedString</key>
-						<string>3.3.8-u-md</string>
-					</dict>
-				</array>
-			</dict>
-		</array>
-		<key>Name</key>
-		<string>WCAG 2.2 SCs - Understanding docs (Markdown)</string>
-	</dict>
-	<dict>
-		<key>Activate</key>
-		<string>Normal</string>
-		<key>Macros</key>
-		<array>
-			<dict>
-				<key>Actions</key>
-				<array>
-					<dict>
-						<key>Action</key>
-						<string>ByPasting</string>
-						<key>MacroActionType</key>
-						<string>InsertText</string>
-						<key>Text</key>
 						<string>https://www.w3.org/TR/WCAG22/#focus-not-obscured-minimum</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>SC 2.4.12 Focus Not Obscured (Minimum) [AA] (URL)</string>
-				<key>Triggers</key>
-				<array>
-					<dict>
-						<key>MacroTriggerType</key>
-						<string>TypedString</string>
-						<key>SimulateDeletes</key>
-						<true/>
-						<key>TypedString</key>
-						<string>2.4.12-l</string>
-					</dict>
-				</array>
-			</dict>
-		</array>
-		<key>Name</key>
-		<string>WCAG 2.2 SCs (URL)</string>
-	</dict>
-	<dict>
-		<key>Activate</key>
-		<string>Normal</string>
-		<key>Macros</key>
-		<array>
-			<dict>
-				<key>Actions</key>
-				<array>
-					<dict>
-						<key>Action</key>
-						<string>ByPasting</string>
-						<key>MacroActionType</key>
-						<string>InsertText</string>
-						<key>Text</key>
-						<string>&lt;a href="https://www.w3.org/TR/WCAG22/#accessible-authentication-enhanced"&gt;SC 3.3.9 Accessible Authentication (Enhanced)&lt;/a&gt;</string>
-					</dict>
-				</array>
-				<key>Name</key>
-				<string>SC 3.3.9 Accessible Authentication (Enhanced) [AAA]</string>
-				<key>Triggers</key>
-				<array>
-					<dict>
-						<key>MacroTriggerType</key>
-						<string>TypedString</string>
-						<key>SimulateDeletes</key>
-						<true/>
-						<key>TypedString</key>
-						<string>3.3.9-h</string>
-					</dict>
-				</array>
-			</dict>
-		</array>
-		<key>Name</key>
-		<string>WCAG 2.2 SCs (&lt;a href&gt;)</string>
-	</dict>
-	<dict>
-		<key>Activate</key>
-		<string>Normal</string>
-		<key>Macros</key>
-		<array>
-			<dict>
-				<key>Actions</key>
-				<array>
-					<dict>
-						<key>Action</key>
-						<string>ByPasting</string>
-						<key>MacroActionType</key>
-						<string>InsertText</string>
-						<key>Text</key>
-						<string>https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication-enhanced.html</string>
-					</dict>
-				</array>
-				<key>Name</key>
-				<string>🆄 SC 3.3.9 Accessible Authentication (Enhanced) [AAA] (URL)</string>
-				<key>Triggers</key>
-				<array>
-					<dict>
-						<key>MacroTriggerType</key>
-						<string>TypedString</string>
-						<key>SimulateDeletes</key>
-						<true/>
-						<key>TypedString</key>
-						<string>3.3.9-u-l</string>
-					</dict>
-				</array>
-			</dict>
-		</array>
-		<key>Name</key>
-		<string>WCAG 2.2 SCs - Understanding docs (URL)</string>
-	</dict>
-	<dict>
-		<key>Activate</key>
-		<string>Normal</string>
-		<key>Macros</key>
-		<array>
-			<dict>
-				<key>Actions</key>
-				<array>
-					<dict>
-						<key>Action</key>
-						<string>ByPasting</string>
-						<key>MacroActionType</key>
-						<string>InsertText</string>
-						<key>Text</key>
-						<string>https://www.w3.org/TR/WCAG22/#focus-appearance</string>
-					</dict>
-				</array>
-				<key>Name</key>
-				<string>SC 2.4.11 Focus Appearance [AA] (URL)</string>
+				<string>SC 2.4.11 Focus Not Obscured (Minimum) [AA] (URL) !WCAG 2.2!</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -1892,7 +35,7 @@
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>WCAG 2.2 SCs (URL)</string>
+		<string>WCAG 2.2 SCs</string>
 	</dict>
 	<dict>
 		<key>Activate</key>
@@ -1908,11 +51,11 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[SC 2.5.8 Target Size (Minimum) (Level AA)](https://www.w3.org/WAI/WCAG22/Understanding/target-size-minimum.html)</string>
+						<string>https://www.w3.org/TR/WCAG22/#dragging-movements</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>🆄 SC 2.5.8 Target Size (Minimum) [AA] 🅼🅳</string>
+				<string>SC 2.5.7 Dragging Movements [AA] (URL) !WCAG 2.2!</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -1921,13 +64,13 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>2.5.8-u-md</string>
+						<string>2.5.7-l</string>
 					</dict>
 				</array>
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>WCAG 2.2 SCs - Understanding docs (Markdown)</string>
+		<string>WCAG 2.2 SCs</string>
 	</dict>
 	<dict>
 		<key>Activate</key>
@@ -1943,11 +86,11 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>https://www.w3.org/TR/WCAG22/#accessible-authentication-enhanced</string>
+						<string>https://www.w3.org/TR/WCAG22/#target-size-minimum</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>SC 3.3.9 Accessible Authentication (Enhanced) [AAA] (URL)</string>
+				<string>SC 2.5.8 Target Size (Minimum) [AA] (URL) !WCAG 2.2!</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -1956,28 +99,322 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>3.3.9-l</string>
+						<string>2.5.8-l</string>
 					</dict>
 				</array>
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>WCAG 2.2 SCs (URL)</string>
+		<string>WCAG 2.2 SCs</string>
 	</dict>
 	<dict>
 		<key>Activate</key>
 		<string>Normal</string>
-		<key>DisplayInMenuBar</key>
-		<dict>
-			<key>Display</key>
-			<true/>
-			<key>IconType</key>
-			<string>MacroGroup</string>
-			<key>IncludeAllMacros</key>
-			<true/>
-			<key>TitleType</key>
-			<string>No</string>
-		</dict>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>Action</key>
+						<string>ByPastingStyles</string>
+						<key>MacroActionType</key>
+						<string>InsertText</string>
+						<key>StyledText</key>
+						<data>
+						cnRmZAAAAAADAAAAAgAAAAcAAABU
+						WFQucnRmAQAAAC4WAgAAKwAAAAEA
+						AAAOAgAAe1xydGYxXGFuc2lcYW5z
+						aWNwZzEyNTJcY29jb2FydGYyNzA5
+						Clxjb2NvYXRleHRzY2FsaW5nMFxj
+						b2NvYXBsYXRmb3JtMHtcZm9udHRi
+						bFxmMFxmcm9tYW5cZmNoYXJzZXQw
+						IFRpbWVzTmV3Um9tYW5QU01UO30K
+						e1xjb2xvcnRibDtccmVkMjU1XGdy
+						ZWVuMjU1XGJsdWUyNTU7XHJlZDBc
+						Z3JlZW4wXGJsdWUyMjc7fQp7XCpc
+						ZXhwYW5kZWRjb2xvcnRibDs7XGNz
+						c3JnYlxjMFxjMFxjOTEzNzM7fQpc
+						ZGVmdGFiNzIwClxwYXJkXHBhcmRl
+						ZnRhYjcyMFxwYXJ0aWdodGVuZmFj
+						dG9yMAp7XGZpZWxke1wqXGZsZGlu
+						c3R7SFlQRVJMSU5LICJodHRwczov
+						L3d3dy53My5vcmcvVFIvV0NBRzIy
+						LyNmb2N1cy1ub3Qtb2JzY3VyZWQt
+						bWluaW11bSJ9fXtcZmxkcnNsdCAK
+						XGYwXGZzMzIgXGNmMiBcZXhwbmQw
+						XGV4cG5kdHcwXGtlcm5pbmcwClx1
+						bCBcdWxjMiBTQyAyLjQuMTEgRm9j
+						dXMgTm90IE9ic2N1cmVkIChNaW5p
+						bXVtKSAoTGV2ZWwgQUEpfX0KXGYw
+						XGZzMzIgXGNmMiBcZXhwbmQwXGV4
+						cG5kdHcwXGtlcm5pbmcwClx1bCBc
+						dWxjMiAgfQEAAAAjAAAAAQAAAAcA
+						AABUWFQucnRmEAAAAGABzWS2AQAA
+						AAAAAAAAAAA=
+						</data>
+						<key>Text</key>
+						<string>SC 2.4.11 Focus Not Obscured (Minimum) (Level AA) </string>
+					</dict>
+				</array>
+				<key>Name</key>
+				<string>2.4.11 Focus Not Obscured (Minimum) [AA]</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>MacroTriggerType</key>
+						<string>TypedString</string>
+						<key>SimulateDeletes</key>
+						<true/>
+						<key>TypedString</key>
+						<string>2.4.11-rtf</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>WCAG 2.2 SCs</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>Action</key>
+						<string>ByPasting</string>
+						<key>MacroActionType</key>
+						<string>InsertText</string>
+						<key>Text</key>
+						<string>https://www.w3.org/TR/WCAG22/#consistent-help</string>
+					</dict>
+				</array>
+				<key>Name</key>
+				<string>SC 3.2.6 Consistent Help [A] (URL) !WCAG 2.2!</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>MacroTriggerType</key>
+						<string>TypedString</string>
+						<key>SimulateDeletes</key>
+						<true/>
+						<key>TypedString</key>
+						<string>3.2.6-l</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>WCAG 2.2 SCs</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>Action</key>
+						<string>ByPastingStyles</string>
+						<key>MacroActionType</key>
+						<string>InsertText</string>
+						<key>StyledText</key>
+						<data>
+						cnRmZAAAAAADAAAAAgAAAAcAAABU
+						WFQucnRmAQAAAC4YAgAAKwAAAAEA
+						AAAQAgAAe1xydGYxXGFuc2lcYW5z
+						aWNwZzEyNTJcY29jb2FydGYyNzA5
+						Clxjb2NvYXRleHRzY2FsaW5nMFxj
+						b2NvYXBsYXRmb3JtMHtcZm9udHRi
+						bFxmMFxmcm9tYW5cZmNoYXJzZXQw
+						IFRpbWVzTmV3Um9tYW5QU01UO30K
+						e1xjb2xvcnRibDtccmVkMjU1XGdy
+						ZWVuMjU1XGJsdWUyNTU7XHJlZDBc
+						Z3JlZW4wXGJsdWUyMjc7fQp7XCpc
+						ZXhwYW5kZWRjb2xvcnRibDs7XGNz
+						c3JnYlxjMFxjMFxjOTEzNzM7fQpc
+						ZGVmdGFiNzIwClxwYXJkXHBhcmRl
+						ZnRhYjcyMFxwYXJ0aWdodGVuZmFj
+						dG9yMAp7XGZpZWxke1wqXGZsZGlu
+						c3R7SFlQRVJMSU5LICJodHRwczov
+						L3d3dy53My5vcmcvVFIvV0NBRzIy
+						LyNmb2N1cy1ub3Qtb2JzY3VyZWQt
+						ZW5oYW5jZWQifX17XGZsZHJzbHQg
+						ClxmMFxmczMyIFxjZjIgXGV4cG5k
+						MFxleHBuZHR3MFxrZXJuaW5nMApc
+						dWwgXHVsYzIgU0MgMi40LjEyIEZv
+						Y3VzIE5vdCBPYnNjdXJlZCAoRW5o
+						YW5jZWQpIChMZXZlbCBBQSl9fQpc
+						ZjBcZnMzMiBcY2YyIFxleHBuZDBc
+						ZXhwbmR0dzBca2VybmluZzAKXHVs
+						IFx1bGMyICB9AQAAACMAAAABAAAA
+						BwAAAFRYVC5ydGYQAAAAjQHNZLYB
+						AAAAAAAAAAAAAA==
+						</data>
+						<key>Text</key>
+						<string>SC 2.4.12 Focus Not Obscured (Enhanced) (Level AA) </string>
+					</dict>
+				</array>
+				<key>Name</key>
+				<string>2.4.12 Focus Not Obscured (Enhanced) [AA]</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>MacroTriggerType</key>
+						<string>TypedString</string>
+						<key>SimulateDeletes</key>
+						<true/>
+						<key>TypedString</key>
+						<string>2.4.12-rtf</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>WCAG 2.2 SCs</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>Action</key>
+						<string>ByPastingStyles</string>
+						<key>MacroActionType</key>
+						<string>InsertText</string>
+						<key>StyledText</key>
+						<data>
+						cnRmZAAAAAADAAAAAgAAAAcAAABU
+						WFQucnRmAQAAAC79AQAAKwAAAAEA
+						AAD1AQAAe1xydGYxXGFuc2lcYW5z
+						aWNwZzEyNTJcY29jb2FydGYyNzA5
+						Clxjb2NvYXRleHRzY2FsaW5nMFxj
+						b2NvYXBsYXRmb3JtMHtcZm9udHRi
+						bFxmMFxmcm9tYW5cZmNoYXJzZXQw
+						IFRpbWVzTmV3Um9tYW5QU01UO30K
+						e1xjb2xvcnRibDtccmVkMjU1XGdy
+						ZWVuMjU1XGJsdWUyNTU7XHJlZDBc
+						Z3JlZW4wXGJsdWUyMjc7fQp7XCpc
+						ZXhwYW5kZWRjb2xvcnRibDs7XGNz
+						c3JnYlxjMFxjMFxjOTEzNzM7fQpc
+						ZGVmdGFiNzIwClxwYXJkXHBhcmRl
+						ZnRhYjcyMFxwYXJ0aWdodGVuZmFj
+						dG9yMAp7XGZpZWxke1wqXGZsZGlu
+						c3R7SFlQRVJMSU5LICJodHRwczov
+						L3d3dy53My5vcmcvVFIvV0NBRzIy
+						LyNkcmFnZ2luZy1tb3ZlbWVudHMi
+						fX17XGZsZHJzbHQgClxmMFxmczMy
+						IFxjZjIgXGV4cG5kMFxleHBuZHR3
+						MFxrZXJuaW5nMApcdWwgXHVsYzIg
+						U0MgMi41LjcgRHJhZ2dpbmcgTW92
+						ZW1lbnRzIFtBQV19fQpcZjBcZnMz
+						MiBcY2YyIFxleHBuZDBcZXhwbmR0
+						dzBca2VybmluZzAKXHVsIFx1bGMy
+						ICB9AQAAACMAAAABAAAABwAAAFRY
+						VC5ydGYQAAAAuAHNZLYBAAAAAAAA
+						AAAAAA==
+						</data>
+						<key>Text</key>
+						<string>SC 2.5.7 Dragging Movements [AA] </string>
+					</dict>
+				</array>
+				<key>Name</key>
+				<string>2.5.7 Dragging Movements [AA]</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>MacroTriggerType</key>
+						<string>TypedString</string>
+						<key>SimulateDeletes</key>
+						<true/>
+						<key>TypedString</key>
+						<string>2.5.7-rtf</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>WCAG 2.2 SCs</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>Action</key>
+						<string>ByPastingStyles</string>
+						<key>MacroActionType</key>
+						<string>InsertText</string>
+						<key>StyledText</key>
+						<data>
+						cnRmZAAAAAADAAAAAgAAAAcAAABU
+						WFQucnRmAQAAAC4LAgAAKwAAAAEA
+						AAADAgAAe1xydGYxXGFuc2lcYW5z
+						aWNwZzEyNTJcY29jb2FydGYyNzA5
+						Clxjb2NvYXRleHRzY2FsaW5nMFxj
+						b2NvYXBsYXRmb3JtMHtcZm9udHRi
+						bFxmMFxmcm9tYW5cZmNoYXJzZXQw
+						IFRpbWVzTmV3Um9tYW5QU01UO30K
+						e1xjb2xvcnRibDtccmVkMjU1XGdy
+						ZWVuMjU1XGJsdWUyNTU7XHJlZDBc
+						Z3JlZW4wXGJsdWUyMjc7fQp7XCpc
+						ZXhwYW5kZWRjb2xvcnRibDs7XGNz
+						c3JnYlxjMFxjMFxjOTEzNzM7fQpc
+						ZGVmdGFiNzIwClxwYXJkXHBhcmRl
+						ZnRhYjcyMFxwYXJ0aWdodGVuZmFj
+						dG9yMAp7XGZpZWxke1wqXGZsZGlu
+						c3R7SFlQRVJMSU5LICJodHRwczov
+						L3d3dy53My5vcmcvVFIvV0NBRzIy
+						LyNhY2Nlc3NpYmxlLWF1dGhlbnRp
+						Y2F0aW9uIn19e1xmbGRyc2x0IApc
+						ZjBcZnMzMiBcY2YyIFxleHBuZDBc
+						ZXhwbmR0dzBca2VybmluZzAKXHVs
+						IFx1bGMyIFNDIDMuMy44IEFjY2Vz
+						c2libGUgQXV0aGVudGljYXRpb24g
+						W0FBXX19ClxmMFxmczMyIFxjZjIg
+						XGV4cG5kMFxleHBuZHR3MFxrZXJu
+						aW5nMApcdWwgXHVsYzIgIH0BAAAA
+						IwAAAAEAAAAHAAAAVFhULnJ0ZhAA
+						AAABAs1ktgEAAAAAAAAAAAAA
+						</data>
+						<key>Text</key>
+						<string>SC 3.3.8 Accessible Authentication [AA] </string>
+					</dict>
+				</array>
+				<key>Name</key>
+				<string>3.3.8 Accessible Authentication [AA]</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>MacroTriggerType</key>
+						<string>TypedString</string>
+						<key>SimulateDeletes</key>
+						<true/>
+						<key>TypedString</key>
+						<string>3.3.8-rtf</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>WCAG 2.2 SCs</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
 		<key>Macros</key>
 		<array>
 			<dict>
@@ -1991,11 +428,11 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-enhanced.html</string>
+						<string>https://www.w3.org/TR/WCAG22/#focus-not-obscured-enhanced</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>🆄 SC 2.4.13 Focus Not Obscured (Enhanced) [AAA]</string>
+				<string>SC 2.4.12 Focus Not Obscured (Enhanced) [AA] !WCAG 2.2!</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -2004,13 +441,161 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>2.4.13-u--</string>
+						<string>2.4.12--</string>
 					</dict>
 				</array>
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>WCAG 2.2 SCs - Understanding docs (Open in browser)</string>
+		<string>WCAG 2.2 SCs</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>IsDefaultApplication</key>
+						<true/>
+						<key>MacroActionType</key>
+						<string>OpenURL</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+						<key>URL</key>
+						<string>https://www.w3.org/TR/WCAG22/#consistent-help</string>
+					</dict>
+				</array>
+				<key>Name</key>
+				<string>SC 3.2.6 Consistent Help [A] !WCAG 2.2!</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>MacroTriggerType</key>
+						<string>TypedString</string>
+						<key>SimulateDeletes</key>
+						<true/>
+						<key>TypedString</key>
+						<string>3.2.6--</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>WCAG 2.2 SCs</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>IsDefaultApplication</key>
+						<true/>
+						<key>MacroActionType</key>
+						<string>OpenURL</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+						<key>URL</key>
+						<string>https://www.w3.org/TR/WCAG22/#focus-not-obscured-minimum</string>
+					</dict>
+				</array>
+				<key>Name</key>
+				<string>SC 2.4.11 Focus Not Obscured (Minimum) [AA] !WCAG 2.2!</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>MacroTriggerType</key>
+						<string>TypedString</string>
+						<key>SimulateDeletes</key>
+						<true/>
+						<key>TypedString</key>
+						<string>2.4.11--</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>WCAG 2.2 SCs</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>IsDefaultApplication</key>
+						<true/>
+						<key>MacroActionType</key>
+						<string>OpenURL</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+						<key>URL</key>
+						<string>https://www.w3.org/TR/WCAG22/#accessible-authentication</string>
+					</dict>
+				</array>
+				<key>Name</key>
+				<string>SC 3.3.8 Accessible Authentication [AA] !WCAG 2.2!</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>MacroTriggerType</key>
+						<string>TypedString</string>
+						<key>SimulateDeletes</key>
+						<true/>
+						<key>TypedString</key>
+						<string>3.3.8--</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>WCAG 2.2 SCs</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>IsDefaultApplication</key>
+						<true/>
+						<key>MacroActionType</key>
+						<string>OpenURL</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+						<key>URL</key>
+						<string>https://www.w3.org/TR/WCAG22/#focus-appearance</string>
+					</dict>
+				</array>
+				<key>Name</key>
+				<string>SC 2.4.13 Focus Appearance [AAA] !WCAG 2.2!</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>MacroTriggerType</key>
+						<string>TypedString</string>
+						<key>SimulateDeletes</key>
+						<true/>
+						<key>TypedString</key>
+						<string>2.4.13--</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>WCAG 2.2 SCs</string>
 	</dict>
 	<dict>
 		<key>Activate</key>
@@ -2030,7 +615,7 @@
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>SC 2.5.7 Dragging Movements [AA]</string>
+				<string>SC 2.5.7 Dragging Movements [AA] !WCAG 2.2!</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -2045,7 +630,7 @@
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>WCAG 2.2 SCs (Markdown)</string>
+		<string>WCAG 2.2 SCs</string>
 	</dict>
 	<dict>
 		<key>Activate</key>
@@ -2061,11 +646,11 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[SC 3.3.9 Accessible Authentication (Enhanced) (Level AAA)](https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication-enhanced.html)</string>
+						<string>[SC 2.4.11 Focus Not Obscured (Minimum) (Level AA)](https://www.w3.org/TR/WCAG22/#focus-not-obscured-minimum)</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>🆄 SC 3.3.9 Accessible Authentication (Enhanced) [AAA] 🅼🅳</string>
+				<string>SC 2.4.11 Focus Not Obscured (Minimum) [AA] !WCAG 2.2!</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -2074,13 +659,391 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>3.3.9-u-md</string>
+						<string>2.4.11-md</string>
 					</dict>
 				</array>
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>WCAG 2.2 SCs - Understanding docs (Markdown)</string>
+		<string>WCAG 2.2 SCs</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>Action</key>
+						<string>ByPastingStyles</string>
+						<key>MacroActionType</key>
+						<string>InsertText</string>
+						<key>StyledText</key>
+						<data>
+						cnRmZAAAAAADAAAAAgAAAAcAAABU
+						WFQucnRmAQAAAC4BAgAAKwAAAAEA
+						AAD5AQAAe1xydGYxXGFuc2lcYW5z
+						aWNwZzEyNTJcY29jb2FydGYyNzA5
+						Clxjb2NvYXRleHRzY2FsaW5nMFxj
+						b2NvYXBsYXRmb3JtMHtcZm9udHRi
+						bFxmMFxmcm9tYW5cZmNoYXJzZXQw
+						IFRpbWVzTmV3Um9tYW5QU01UO30K
+						e1xjb2xvcnRibDtccmVkMjU1XGdy
+						ZWVuMjU1XGJsdWUyNTU7XHJlZDBc
+						Z3JlZW4wXGJsdWUyMjc7fQp7XCpc
+						ZXhwYW5kZWRjb2xvcnRibDs7XGNz
+						c3JnYlxjMFxjMFxjOTEzNzM7fQpc
+						ZGVmdGFiNzIwClxwYXJkXHBhcmRl
+						ZnRhYjcyMFxwYXJ0aWdodGVuZmFj
+						dG9yMAp7XGZpZWxke1wqXGZsZGlu
+						c3R7SFlQRVJMSU5LICJodHRwczov
+						L3d3dy53My5vcmcvVFIvV0NBRzIy
+						LyN0YXJnZXQtc2l6ZS1taW5pbXVt
+						In19e1xmbGRyc2x0IApcZjBcZnMz
+						MiBcY2YyIFxleHBuZDBcZXhwbmR0
+						dzBca2VybmluZzAKXHVsIFx1bGMy
+						IFNDIDIuNS44IFRhcmdldCBTaXpl
+						IChNaW5pbXVtKSBbQUFdfX0KXGYw
+						XGZzMzIgXGNmMiBcZXhwbmQwXGV4
+						cG5kdHcwXGtlcm5pbmcwClx1bCBc
+						dWxjMiAgfQEAAAAjAAAAAQAAAAcA
+						AABUWFQucnRmEAAAAMsBzWS2AQAA
+						AAAAAAAAAAA=
+						</data>
+						<key>Text</key>
+						<string>SC 2.5.8 Target Size (Minimum) [AA] </string>
+					</dict>
+				</array>
+				<key>Name</key>
+				<string>2.5.8 Target Size (Minimum) [AA]</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>MacroTriggerType</key>
+						<string>TypedString</string>
+						<key>SimulateDeletes</key>
+						<true/>
+						<key>TypedString</key>
+						<string>2.5.8-rtf</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>WCAG 2.2 SCs</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>Action</key>
+						<string>ByPasting</string>
+						<key>MacroActionType</key>
+						<string>InsertText</string>
+						<key>Text</key>
+						<string>[SC 3.2.6 Consistent Help (Level A)](https://www.w3.org/TR/WCAG22/#consistent-help)</string>
+					</dict>
+				</array>
+				<key>Name</key>
+				<string>SC 3.2.6 Consistent Help [A] !WCAG 2.2!</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>MacroTriggerType</key>
+						<string>TypedString</string>
+						<key>SimulateDeletes</key>
+						<true/>
+						<key>TypedString</key>
+						<string>3.2.6-md</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>WCAG 2.2 SCs</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>Action</key>
+						<string>ByPasting</string>
+						<key>MacroActionType</key>
+						<string>InsertText</string>
+						<key>Text</key>
+						<string>[SC 2.4.12 Focus Not Obscured (Enhanced) (Level AA)](https://www.w3.org/TR/WCAG22/#focus-not-obscured-enhanced)</string>
+					</dict>
+				</array>
+				<key>Name</key>
+				<string>SC 2.4.12 Focus Not Obscured (Enhanced) [AA] !WCAG 2.2!</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>MacroTriggerType</key>
+						<string>TypedString</string>
+						<key>SimulateDeletes</key>
+						<true/>
+						<key>TypedString</key>
+						<string>2.4.12-md</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>WCAG 2.2 SCs</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>Action</key>
+						<string>ByPasting</string>
+						<key>MacroActionType</key>
+						<string>InsertText</string>
+						<key>Text</key>
+						<string>https://www.w3.org/TR/WCAG22/#focus-not-obscured-enhanced</string>
+					</dict>
+				</array>
+				<key>Name</key>
+				<string>SC 2.4.12 Focus Not Obscured (Enhanced) [AA] (URL) !WCAG 2.2!</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>MacroTriggerType</key>
+						<string>TypedString</string>
+						<key>SimulateDeletes</key>
+						<true/>
+						<key>TypedString</key>
+						<string>2.4.12-l</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>WCAG 2.2 SCs</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>Action</key>
+						<string>ByPasting</string>
+						<key>MacroActionType</key>
+						<string>InsertText</string>
+						<key>Text</key>
+						<string>[SC 3.3.9 Accessible Authentication (Enhanced) (Level AAA)](https://www.w3.org/TR/WCAG22/#accessible-authentication-enhanced)</string>
+					</dict>
+				</array>
+				<key>Name</key>
+				<string>SC 3.3.9 Accessible Authentication (Enhanced) [AAA] !WCAG 2.2!</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>MacroTriggerType</key>
+						<string>TypedString</string>
+						<key>SimulateDeletes</key>
+						<true/>
+						<key>TypedString</key>
+						<string>3.3.9-md</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>WCAG 2.2 SCs</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>Action</key>
+						<string>ByPasting</string>
+						<key>MacroActionType</key>
+						<string>InsertText</string>
+						<key>Text</key>
+						<string>&lt;a href="https://www.w3.org/TR/WCAG22/#focus-appearance"&gt;SC 2.4.13 Focus Appearance&lt;/a&gt;</string>
+					</dict>
+				</array>
+				<key>Name</key>
+				<string>SC 2.4.13 Focus Appearance [AAA] !WCAG 2.2!</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>MacroTriggerType</key>
+						<string>TypedString</string>
+						<key>SimulateDeletes</key>
+						<true/>
+						<key>TypedString</key>
+						<string>2.4.13-h</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>WCAG 2.2 SCs</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>Action</key>
+						<string>ByPasting</string>
+						<key>MacroActionType</key>
+						<string>InsertText</string>
+						<key>Text</key>
+						<string>&lt;a href="https://www.w3.org/TR/WCAG22/#accessible-authentication-enhanced"&gt;SC 3.3.9 Accessible Authentication (Enhanced)&lt;/a&gt;</string>
+					</dict>
+				</array>
+				<key>Name</key>
+				<string>SC 3.3.9 Accessible Authentication (Enhanced) [AAA] !WCAG 2.2!</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>MacroTriggerType</key>
+						<string>TypedString</string>
+						<key>SimulateDeletes</key>
+						<true/>
+						<key>TypedString</key>
+						<string>3.3.9-h</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>WCAG 2.2 SCs</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>Action</key>
+						<string>ByPasting</string>
+						<key>MacroActionType</key>
+						<string>InsertText</string>
+						<key>Text</key>
+						<string>&lt;a href="https://www.w3.org/TR/WCAG22/#target-size-minimum"&gt;SC 2.5.8 Target Size (Minimum)&lt;/a&gt;</string>
+					</dict>
+				</array>
+				<key>Name</key>
+				<string>SC 2.5.8 Target Size (Minimum) [AA] !WCAG 2.2!</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>MacroTriggerType</key>
+						<string>TypedString</string>
+						<key>SimulateDeletes</key>
+						<true/>
+						<key>TypedString</key>
+						<string>2.5.8-h</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>WCAG 2.2 SCs</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>Action</key>
+						<string>ByPastingStyles</string>
+						<key>MacroActionType</key>
+						<string>InsertText</string>
+						<key>StyledText</key>
+						<data>
+						cnRmZAAAAAADAAAAAgAAAAcAAABU
+						WFQucnRmAQAAAC72AQAAKwAAAAEA
+						AADuAQAAe1xydGYxXGFuc2lcYW5z
+						aWNwZzEyNTJcY29jb2FydGYyNzA5
+						Clxjb2NvYXRleHRzY2FsaW5nMFxj
+						b2NvYXBsYXRmb3JtMHtcZm9udHRi
+						bFxmMFxmcm9tYW5cZmNoYXJzZXQw
+						IFRpbWVzTmV3Um9tYW5QU01UO30K
+						e1xjb2xvcnRibDtccmVkMjU1XGdy
+						ZWVuMjU1XGJsdWUyNTU7XHJlZDBc
+						Z3JlZW4wXGJsdWUyMjc7fQp7XCpc
+						ZXhwYW5kZWRjb2xvcnRibDs7XGNz
+						c3JnYlxjMFxjMFxjOTEzNzM7fQpc
+						ZGVmdGFiNzIwClxwYXJkXHBhcmRl
+						ZnRhYjcyMFxwYXJ0aWdodGVuZmFj
+						dG9yMAp7XGZpZWxke1wqXGZsZGlu
+						c3R7SFlQRVJMSU5LICJodHRwczov
+						L3d3dy53My5vcmcvVFIvV0NBRzIy
+						LyNyZWR1bmRhbnQtZW50cnkifX17
+						XGZsZHJzbHQgClxmMFxmczMyIFxj
+						ZjIgXGV4cG5kMFxleHBuZHR3MFxr
+						ZXJuaW5nMApcdWwgXHVsYzIgU0Mg
+						My4zLjcgUmVkdW5kYW50IEVudHJ5
+						IFtBXX19ClxmMFxmczMyIFxjZjIg
+						XGV4cG5kMFxleHBuZHR3MFxrZXJu
+						aW5nMApcdWwgXHVsYzIgIH0BAAAA
+						IwAAAAEAAAAHAAAAVFhULnJ0ZhAA
+						AADzAc1ktgEAAAAAAAAAAAAA
+						</data>
+						<key>Text</key>
+						<string>SC 3.3.7 Redundant Entry [A] </string>
+					</dict>
+				</array>
+				<key>Name</key>
+				<string>3.3.7 Redundant Entry [A]</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>MacroTriggerType</key>
+						<string>TypedString</string>
+						<key>SimulateDeletes</key>
+						<true/>
+						<key>TypedString</key>
+						<string>3.3.7-rtf</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>WCAG 2.2 SCs</string>
 	</dict>
 	<dict>
 		<key>Activate</key>
@@ -2098,11 +1061,11 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG22/#focus-not-obscured-minimum</string>
+						<string>https://www.w3.org/TR/WCAG22/#accessible-authentication-enhanced</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>SC 2.4.12 Focus Not Obscured (Minimum) [AA]</string>
+				<string>SC 3.3.9 Accessible Authentication (Enhanced) [AAA] !WCAG 2.2!</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -2111,13 +1074,13 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>2.4.12--</string>
+						<string>3.3.9--</string>
 					</dict>
 				</array>
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>WCAG 2.2 SCs (Open in browser)</string>
+		<string>WCAG 2.2 SCs</string>
 	</dict>
 	<dict>
 		<key>Activate</key>
@@ -2133,11 +1096,11 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-minimum.html</string>
+						<string>&lt;a href="https://www.w3.org/TR/WCAG22/#consistent-help"&gt;SC 3.2.6 Consistent Help&lt;/a&gt;</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>🆄 SC 2.4.12 Focus Not Obscured (Minimum) [AA] (URL)</string>
+				<string>SC 3.2.6 Consistent Help [A] !WCAG 2.2!</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -2146,13 +1109,13 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>2.4.12-u-l</string>
+						<string>3.2.6-h</string>
 					</dict>
 				</array>
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>WCAG 2.2 SCs - Understanding docs (URL)</string>
+		<string>WCAG 2.2 SCs</string>
 	</dict>
 	<dict>
 		<key>Activate</key>
@@ -2168,11 +1131,11 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[SC 2.4.12 Focus Not Obscured (Minimum) (Level AA)](https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-minimum.html)</string>
+						<string>&lt;a href="https://www.w3.org/TR/WCAG22/#accessible-authentication"&gt;SC 3.3.8 Accessible Authentication&lt;/a&gt;</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>🆄 SC 2.4.12 Focus Not Obscured (Minimum) [AA] 🅼🅳</string>
+				<string>SC 3.3.8 Accessible Authentication [AA] !WCAG 2.2!</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -2181,13 +1144,13 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>2.4.12-u-md</string>
+						<string>3.3.8-h</string>
 					</dict>
 				</array>
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>WCAG 2.2 SCs - Understanding docs (Markdown)</string>
+		<string>WCAG 2.2 SCs</string>
 	</dict>
 	<dict>
 		<key>Activate</key>
@@ -2203,11 +1166,11 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[SC 2.4.13 Focus Not Obscured (Enhanced) (Level AAA)](https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-enhanced.html)</string>
+						<string>&lt;a href="https://www.w3.org/TR/WCAG22/#redundant-entry"&gt;SC 3.3.7 Redundant Entry&lt;/a&gt;</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>🆄 SC 2.4.13 Focus Not Obscured (Enhanced) [AAA] 🅼🅳</string>
+				<string>SC 3.3.7 Redundant Entry [A] !WCAG 2.2!</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -2216,13 +1179,13 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>2.4.13-u-md</string>
+						<string>3.3.7-h</string>
 					</dict>
 				</array>
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>WCAG 2.2 SCs - Understanding docs (Markdown)</string>
+		<string>WCAG 2.2 SCs</string>
 	</dict>
 	<dict>
 		<key>Activate</key>
@@ -2238,11 +1201,11 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>&lt;a href="https://www.w3.org/TR/WCAG22/#focus-not-obscured-enhanced"&gt;SC 2.4.13 Focus Not Obscured (Enhanced)&lt;/a&gt;</string>
+						<string>&lt;a href="https://www.w3.org/TR/WCAG22/#focus-not-obscured-minimum"&gt;SC 2.4.11 Focus Not Obscured (Minimum)&lt;/a&gt;</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>SC 2.4.13 Focus Not Obscured (Enhanced) [AAA]</string>
+				<string>SC 2.4.11 Focus Not Obscured (Minimum) [AA] !WCAG 2.2!</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -2251,13 +1214,223 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>2.4.13-h</string>
+						<string>2.4.11-h</string>
 					</dict>
 				</array>
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>WCAG 2.2 SCs (&lt;a href&gt;)</string>
+		<string>WCAG 2.2 SCs</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>Action</key>
+						<string>ByPasting</string>
+						<key>MacroActionType</key>
+						<string>InsertText</string>
+						<key>Text</key>
+						<string>https://www.w3.org/TR/WCAG22/#accessible-authentication-enhanced</string>
+					</dict>
+				</array>
+				<key>Name</key>
+				<string>SC 3.3.9 Accessible Authentication (Enhanced) [AAA] (URL) !WCAG 2.2!</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>MacroTriggerType</key>
+						<string>TypedString</string>
+						<key>SimulateDeletes</key>
+						<true/>
+						<key>TypedString</key>
+						<string>3.3.9-l</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>WCAG 2.2 SCs</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>Action</key>
+						<string>ByPasting</string>
+						<key>MacroActionType</key>
+						<string>InsertText</string>
+						<key>Text</key>
+						<string>[SC 2.4.11 Focus Not Obscured (Minimum) (Level AA)](https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-minimum.html)</string>
+					</dict>
+				</array>
+				<key>Name</key>
+				<string>🆄 SC 2.4.11 Focus Not Obscured (Minimum) [AA] 🅼🅳 !WCAG 2.2!</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>MacroTriggerType</key>
+						<string>TypedString</string>
+						<key>SimulateDeletes</key>
+						<true/>
+						<key>TypedString</key>
+						<string>2.4.11-u-md</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>WCAG 2.2 SCs</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>Action</key>
+						<string>ByPasting</string>
+						<key>MacroActionType</key>
+						<string>InsertText</string>
+						<key>Text</key>
+						<string>https://www.w3.org/WAI/WCAG22/Understanding/redundant-entry.html</string>
+					</dict>
+				</array>
+				<key>Name</key>
+				<string>🆄 SC 3.3.7 Redundant Entry [A] (URL) !WCAG 2.2!</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>MacroTriggerType</key>
+						<string>TypedString</string>
+						<key>SimulateDeletes</key>
+						<true/>
+						<key>TypedString</key>
+						<string>3.3.7-u-l</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>WCAG 2.2 SCs</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>Action</key>
+						<string>ByPasting</string>
+						<key>MacroActionType</key>
+						<string>InsertText</string>
+						<key>Text</key>
+						<string>https://www.w3.org/WAI/WCAG22/Understanding/focus-appearance.html</string>
+					</dict>
+				</array>
+				<key>Name</key>
+				<string>🆄 SC 2.4.13 Focus Appearance [AAA] (URL) !WCAG 2.2!</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>MacroTriggerType</key>
+						<string>TypedString</string>
+						<key>SimulateDeletes</key>
+						<true/>
+						<key>TypedString</key>
+						<string>2.4.13-u-l</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>WCAG 2.2 SCs</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>Action</key>
+						<string>ByPasting</string>
+						<key>MacroActionType</key>
+						<string>InsertText</string>
+						<key>Text</key>
+						<string>[SC 2.5.8 Target Size (Minimum) (Level AA)](https://www.w3.org/WAI/WCAG22/Understanding/target-size-minimum.html)</string>
+					</dict>
+				</array>
+				<key>Name</key>
+				<string>🆄 SC 2.5.8 Target Size (Minimum) [AA] 🅼🅳 !WCAG 2.2!</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>MacroTriggerType</key>
+						<string>TypedString</string>
+						<key>SimulateDeletes</key>
+						<true/>
+						<key>TypedString</key>
+						<string>2.5.8-u-md</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>WCAG 2.2 SCs</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>Action</key>
+						<string>ByPasting</string>
+						<key>MacroActionType</key>
+						<string>InsertText</string>
+						<key>Text</key>
+						<string>https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication-enhanced.html</string>
+					</dict>
+				</array>
+				<key>Name</key>
+				<string>🆄 SC 3.3.9 Accessible Authentication (Enhanced) [AAA] (URL) !WCAG 2.2!</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>MacroTriggerType</key>
+						<string>TypedString</string>
+						<key>SimulateDeletes</key>
+						<true/>
+						<key>TypedString</key>
+						<string>3.3.9-u-l</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>WCAG 2.2 SCs</string>
 	</dict>
 	<dict>
 		<key>Activate</key>
@@ -2277,7 +1450,7 @@
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>🆄 SC 3.2.6 Consistent Help [A] (URL)</string>
+				<string>🆄 SC 3.2.6 Consistent Help [A] (URL) !WCAG 2.2!</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -2292,7 +1465,73 @@
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>WCAG 2.2 SCs - Understanding docs (URL)</string>
+		<string>WCAG 2.2 SCs</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>Action</key>
+						<string>ByPastingStyles</string>
+						<key>MacroActionType</key>
+						<string>InsertText</string>
+						<key>StyledText</key>
+						<data>
+						cnRmZAAAAAADAAAAAgAAAAcAAABU
+						WFQucnRmAQAAAC72AQAAKwAAAAEA
+						AADuAQAAe1xydGYxXGFuc2lcYW5z
+						aWNwZzEyNTJcY29jb2FydGYyNzA5
+						Clxjb2NvYXRleHRzY2FsaW5nMFxj
+						b2NvYXBsYXRmb3JtMHtcZm9udHRi
+						bFxmMFxmcm9tYW5cZmNoYXJzZXQw
+						IFRpbWVzTmV3Um9tYW5QU01UO30K
+						e1xjb2xvcnRibDtccmVkMjU1XGdy
+						ZWVuMjU1XGJsdWUyNTU7XHJlZDBc
+						Z3JlZW4wXGJsdWUyMjc7fQp7XCpc
+						ZXhwYW5kZWRjb2xvcnRibDs7XGNz
+						c3JnYlxjMFxjMFxjOTEzNzM7fQpc
+						ZGVmdGFiNzIwClxwYXJkXHBhcmRl
+						ZnRhYjcyMFxwYXJ0aWdodGVuZmFj
+						dG9yMAp7XGZpZWxke1wqXGZsZGlu
+						c3R7SFlQRVJMSU5LICJodHRwczov
+						L3d3dy53My5vcmcvVFIvV0NBRzIy
+						LyNjb25zaXN0ZW50LWhlbHAifX17
+						XGZsZHJzbHQgClxmMFxmczMyIFxj
+						ZjIgXGV4cG5kMFxleHBuZHR3MFxr
+						ZXJuaW5nMApcdWwgXHVsYzIgU0Mg
+						My4yLjYgQ29uc2lzdGVudCBIZWxw
+						IFtBXX19ClxmMFxmczMyIFxjZjIg
+						XGV4cG5kMFxleHBuZHR3MFxrZXJu
+						aW5nMApcdWwgXHVsYzIgIH0BAAAA
+						IwAAAAEAAAAHAAAAVFhULnJ0ZhAA
+						AADjAc1ktgEAAAAAAAAAAAAA
+						</data>
+						<key>Text</key>
+						<string>SC 3.2.6 Consistent Help [A] </string>
+					</dict>
+				</array>
+				<key>Name</key>
+				<string>3.2.6 Consistent Help [A]</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>MacroTriggerType</key>
+						<string>TypedString</string>
+						<key>SimulateDeletes</key>
+						<true/>
+						<key>TypedString</key>
+						<string>3.2.6-rtf</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>WCAG 2.2 SCs</string>
 	</dict>
 	<dict>
 		<key>Activate</key>
@@ -2308,11 +1547,11 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[SC 2.4.11 Focus Appearance (Level AA)](https://www.w3.org/WAI/WCAG22/Understanding/focus-appearance.html)</string>
+						<string>&lt;a href="https://www.w3.org/TR/WCAG22/#focus-not-obscured-enhanced"&gt;SC 2.4.12 Focus Not Obscured (Enhanced)&lt;/a&gt;</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>🆄 SC 2.4.11 Focus Appearance [AA] 🅼🅳</string>
+				<string>SC 2.4.12 Focus Not Obscured (Enhanced) [AA] !WCAG 2.2!</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -2321,13 +1560,805 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>2.4.11-u-md</string>
+						<string>2.4.12-h</string>
 					</dict>
 				</array>
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>WCAG 2.2 SCs - Understanding docs (Markdown)</string>
+		<string>WCAG 2.2 SCs</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>Action</key>
+						<string>ByPastingStyles</string>
+						<key>MacroActionType</key>
+						<string>InsertText</string>
+						<key>StyledText</key>
+						<data>
+						cnRmZAAAAAADAAAAAgAAAAcAAABU
+						WFQucnRmAQAAAC43AgAAKwAAAAEA
+						AAAvAgAAe1xydGYxXGFuc2lcYW5z
+						aWNwZzEyNTJcY29jb2FydGYyNzA5
+						Clxjb2NvYXRleHRzY2FsaW5nMFxj
+						b2NvYXBsYXRmb3JtMHtcZm9udHRi
+						bFxmMFxmcm9tYW5cZmNoYXJzZXQw
+						IFRpbWVzTmV3Um9tYW5QU01UO30K
+						e1xjb2xvcnRibDtccmVkMjU1XGdy
+						ZWVuMjU1XGJsdWUyNTU7XHJlZDBc
+						Z3JlZW4wXGJsdWUyMjc7fQp7XCpc
+						ZXhwYW5kZWRjb2xvcnRibDs7XGNz
+						c3JnYlxjMFxjMFxjOTEzNzM7fQpc
+						ZGVmdGFiNzIwClxwYXJkXHBhcmRl
+						ZnRhYjcyMFxwYXJ0aWdodGVuZmFj
+						dG9yMAp7XGZpZWxke1wqXGZsZGlu
+						c3R7SFlQRVJMSU5LICJodHRwczov
+						L3d3dy53My5vcmcvV0FJL1dDQUcy
+						Mi9VbmRlcnN0YW5kaW5nL2ZvY3Vz
+						LW5vdC1vYnNjdXJlZC1taW5pbXVt
+						Lmh0bWwifX17XGZsZHJzbHQgClxm
+						MFxmczMyIFxjZjIgXGV4cG5kMFxl
+						eHBuZHR3MFxrZXJuaW5nMApcdWwg
+						XHVsYzIgVW5kZXJzdGFuZGluZyBT
+						QyAyLjQuMTEgRm9jdXMgTm90IE9i
+						c2N1cmVkIChNaW5pbXVtKSAoTGV2
+						ZWwgQUEpfX0KXGYwXGZzMzIgXGNm
+						MiBcZXhwbmQwXGV4cG5kdHcwXGtl
+						cm5pbmcwClx1bCBcdWxjMiAgfQEA
+						AAAjAAAAAQAAAAcAAABUWFQucnRm
+						EAAAAIABzWS2AQAAAAAAAAAAAAA=
+						</data>
+						<key>Text</key>
+						<string>Understanding SC 2.4.11 Focus Not Obscured (Minimum) (Level AA) </string>
+					</dict>
+				</array>
+				<key>Name</key>
+				<string>2.4.11 Focus Not Obscured (Minimum) [AA]</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>MacroTriggerType</key>
+						<string>TypedString</string>
+						<key>SimulateDeletes</key>
+						<true/>
+						<key>TypedString</key>
+						<string>2.4.11-u-rtf</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>WCAG 2.2 SCs</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>Action</key>
+						<string>ByPasting</string>
+						<key>MacroActionType</key>
+						<string>InsertText</string>
+						<key>Text</key>
+						<string>[SC 2.5.7 Dragging Movements (Level AA)](https://www.w3.org/WAI/WCAG22/Understanding/dragging-movements.html)</string>
+					</dict>
+				</array>
+				<key>Name</key>
+				<string>🆄 SC 2.5.7 Dragging Movements [AA] 🅼🅳 !WCAG 2.2!</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>MacroTriggerType</key>
+						<string>TypedString</string>
+						<key>SimulateDeletes</key>
+						<true/>
+						<key>TypedString</key>
+						<string>2.5.7-u-md</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>WCAG 2.2 SCs</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>Action</key>
+						<string>ByPastingStyles</string>
+						<key>MacroActionType</key>
+						<string>InsertText</string>
+						<key>StyledText</key>
+						<data>
+						cnRmZAAAAAADAAAAAgAAAAcAAABU
+						WFQucnRmAQAAAC45AgAAKwAAAAEA
+						AAAxAgAAe1xydGYxXGFuc2lcYW5z
+						aWNwZzEyNTJcY29jb2FydGYyNzA5
+						Clxjb2NvYXRleHRzY2FsaW5nMFxj
+						b2NvYXBsYXRmb3JtMHtcZm9udHRi
+						bFxmMFxmcm9tYW5cZmNoYXJzZXQw
+						IFRpbWVzTmV3Um9tYW5QU01UO30K
+						e1xjb2xvcnRibDtccmVkMjU1XGdy
+						ZWVuMjU1XGJsdWUyNTU7XHJlZDBc
+						Z3JlZW4wXGJsdWUyMjc7fQp7XCpc
+						ZXhwYW5kZWRjb2xvcnRibDs7XGNz
+						c3JnYlxjMFxjMFxjOTEzNzM7fQpc
+						ZGVmdGFiNzIwClxwYXJkXHBhcmRl
+						ZnRhYjcyMFxwYXJ0aWdodGVuZmFj
+						dG9yMAp7XGZpZWxke1wqXGZsZGlu
+						c3R7SFlQRVJMSU5LICJodHRwczov
+						L3d3dy53My5vcmcvV0FJL1dDQUcy
+						Mi9VbmRlcnN0YW5kaW5nL2ZvY3Vz
+						LW5vdC1vYnNjdXJlZC1lbmhhbmNl
+						ZC5odG1sIn19e1xmbGRyc2x0IApc
+						ZjBcZnMzMiBcY2YyIFxleHBuZDBc
+						ZXhwbmR0dzBca2VybmluZzAKXHVs
+						IFx1bGMyIFVuZGVyc3RhbmRpbmcg
+						U0MgMi40LjEyIEZvY3VzIE5vdCBP
+						YnNjdXJlZCAoRW5oYW5jZWQpIChM
+						ZXZlbCBBQSl9fQpcZjBcZnMzMiBc
+						Y2YyIFxleHBuZDBcZXhwbmR0dzBc
+						a2VybmluZzAKXHVsIFx1bGMyICB9
+						AQAAACMAAAABAAAABwAAAFRYVC5y
+						dGYQAAAAlQHNZLYBAAAAAAAAAAAA
+						AA==
+						</data>
+						<key>Text</key>
+						<string>Understanding SC 2.4.12 Focus Not Obscured (Enhanced) (Level AA) </string>
+					</dict>
+				</array>
+				<key>Name</key>
+				<string>2.4.12 Focus Not Obscured (Enhanced) [AA]</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>MacroTriggerType</key>
+						<string>TypedString</string>
+						<key>SimulateDeletes</key>
+						<true/>
+						<key>TypedString</key>
+						<string>2.4.12-u-rtf</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>WCAG 2.2 SCs</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>IsDefaultApplication</key>
+						<true/>
+						<key>MacroActionType</key>
+						<string>OpenURL</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+						<key>URL</key>
+						<string>https://www.w3.org/WAI/WCAG22/Understanding/dragging-movements.html</string>
+					</dict>
+				</array>
+				<key>Name</key>
+				<string>🆄 2.5.7 Dragging Movements [AA] !WCAG 2.2!</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>MacroTriggerType</key>
+						<string>TypedString</string>
+						<key>SimulateDeletes</key>
+						<true/>
+						<key>TypedString</key>
+						<string>2.5.7-u--</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>WCAG 2.2 SCs</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>Action</key>
+						<string>ByPastingStyles</string>
+						<key>MacroActionType</key>
+						<string>InsertText</string>
+						<key>StyledText</key>
+						<data>
+						cnRmZAAAAAADAAAAAgAAAAcAAABU
+						WFQucnRmAQAAAC4iAgAAKwAAAAEA
+						AAAaAgAAe1xydGYxXGFuc2lcYW5z
+						aWNwZzEyNTJcY29jb2FydGYyNzA5
+						Clxjb2NvYXRleHRzY2FsaW5nMFxj
+						b2NvYXBsYXRmb3JtMHtcZm9udHRi
+						bFxmMFxmcm9tYW5cZmNoYXJzZXQw
+						IFRpbWVzTmV3Um9tYW5QU01UO30K
+						e1xjb2xvcnRibDtccmVkMjU1XGdy
+						ZWVuMjU1XGJsdWUyNTU7XHJlZDBc
+						Z3JlZW4wXGJsdWUyMjc7fQp7XCpc
+						ZXhwYW5kZWRjb2xvcnRibDs7XGNz
+						c3JnYlxjMFxjMFxjOTEzNzM7fQpc
+						ZGVmdGFiNzIwClxwYXJkXHBhcmRl
+						ZnRhYjcyMFxwYXJ0aWdodGVuZmFj
+						dG9yMAp7XGZpZWxke1wqXGZsZGlu
+						c3R7SFlQRVJMSU5LICJodHRwczov
+						L3d3dy53My5vcmcvV0FJL1dDQUcy
+						Mi9VbmRlcnN0YW5kaW5nL2ZvY3Vz
+						LWFwcGVhcmFuY2UuaHRtbCJ9fXtc
+						ZmxkcnNsdCAKXGYwXGZzMzIgXGNm
+						MiBcZXhwbmQwXGV4cG5kdHcwXGtl
+						cm5pbmcwClx1bCBcdWxjMiBVbmRl
+						cnN0YW5kaW5nIFNDIDIuNC4xMyBG
+						b2N1cyBBcHBlYXJhbmNlIChMZXZl
+						bCBBQUEpfX0KXGYwXGZzMzIgXGNm
+						MiBcZXhwbmQwXGV4cG5kdHcwXGtl
+						cm5pbmcwClx1bCBcdWxjMiAgfQEA
+						AAAjAAAAAQAAAAcAAABUWFQucnRm
+						EAAAAKkBzWS2AQAAAAAAAAAAAAA=
+						</data>
+						<key>Text</key>
+						<string>Understanding SC 2.4.13 Focus Appearance (Level AAA) </string>
+					</dict>
+				</array>
+				<key>Name</key>
+				<string>2.4.13 Focus Appearance [AAA]</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>MacroTriggerType</key>
+						<string>TypedString</string>
+						<key>SimulateDeletes</key>
+						<true/>
+						<key>TypedString</key>
+						<string>2.4.13-u-rtf</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>WCAG 2.2 SCs</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>Action</key>
+						<string>ByPasting</string>
+						<key>MacroActionType</key>
+						<string>InsertText</string>
+						<key>Text</key>
+						<string>https://www.w3.org/TR/WCAG22/#redundant-entry</string>
+					</dict>
+				</array>
+				<key>Name</key>
+				<string>SC 3.3.7 Redundant Entry [A] (URL) !WCAG 2.2!</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>MacroTriggerType</key>
+						<string>TypedString</string>
+						<key>SimulateDeletes</key>
+						<true/>
+						<key>TypedString</key>
+						<string>3.3.7-l</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>WCAG 2.2 SCs</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>IsDefaultApplication</key>
+						<true/>
+						<key>MacroActionType</key>
+						<string>OpenURL</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+						<key>URL</key>
+						<string>https://www.w3.org/TR/WCAG22/#target-size-minimum</string>
+					</dict>
+				</array>
+				<key>Name</key>
+				<string>SC 2.5.8 Target Size (Minimum) [AA] !WCAG 2.2!</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>MacroTriggerType</key>
+						<string>TypedString</string>
+						<key>SimulateDeletes</key>
+						<true/>
+						<key>TypedString</key>
+						<string>2.5.8--</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>WCAG 2.2 SCs</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>Action</key>
+						<string>ByPastingStyles</string>
+						<key>MacroActionType</key>
+						<string>InsertText</string>
+						<key>StyledText</key>
+						<data>
+						cnRmZAAAAAADAAAAAgAAAAcAAABU
+						WFQucnRmAQAAAC4HAgAAKwAAAAEA
+						AAD/AQAAe1xydGYxXGFuc2lcYW5z
+						aWNwZzEyNTJcY29jb2FydGYyNzA5
+						Clxjb2NvYXRleHRzY2FsaW5nMFxj
+						b2NvYXBsYXRmb3JtMHtcZm9udHRi
+						bFxmMFxmcm9tYW5cZmNoYXJzZXQw
+						IFRpbWVzTmV3Um9tYW5QU01UO30K
+						e1xjb2xvcnRibDtccmVkMjU1XGdy
+						ZWVuMjU1XGJsdWUyNTU7XHJlZDBc
+						Z3JlZW4wXGJsdWUyMjc7fQp7XCpc
+						ZXhwYW5kZWRjb2xvcnRibDs7XGNz
+						c3JnYlxjMFxjMFxjOTEzNzM7fQpc
+						ZGVmdGFiNzIwClxwYXJkXHBhcmRl
+						ZnRhYjcyMFxwYXJ0aWdodGVuZmFj
+						dG9yMAp7XGZpZWxke1wqXGZsZGlu
+						c3R7SFlQRVJMSU5LICJodHRwczov
+						L3d3dy53My5vcmcvV0FJL1dDQUcy
+						Mi9VbmRlcnN0YW5kaW5nL2FjY2Vz
+						c2libGUtYXV0aGVudGljYXRpb24t
+						ZW5oYW5jZWQuaHRtbCJ9fXtcZmxk
+						cnNsdCAKXGYwXGZzMzIgXGNmMiBc
+						ZXhwbmQwXGV4cG5kdHcwXGtlcm5p
+						bmcwClx1bCBcdWxjMiBVbmRlcnN0
+						YW5kaW5nIFNDIDMuMy45IEFjY2Vz
+						c2libGUgQXV0aGVudGljYXRpb24g
+						KEVuaGFuY2VkKX19fQEAAAAjAAAA
+						AQAAAAcAAABUWFQucnRmEAAAABkC
+						zWS2AQAAAAAAAAAAAAA=
+						</data>
+						<key>Text</key>
+						<string>Understanding SC 3.3.9 Accessible Authentication (Enhanced)</string>
+					</dict>
+				</array>
+				<key>Name</key>
+				<string>3.3.9 Accessible Authentication (Enhanced) [AAA]</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>MacroTriggerType</key>
+						<string>TypedString</string>
+						<key>SimulateDeletes</key>
+						<true/>
+						<key>TypedString</key>
+						<string>3.3.9-u-rtf</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>WCAG 2.2 SCs</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>Action</key>
+						<string>ByPastingStyles</string>
+						<key>MacroActionType</key>
+						<string>InsertText</string>
+						<key>StyledText</key>
+						<data>
+						cnRmZAAAAAADAAAAAgAAAAcAAABU
+						WFQucnRmAQAAAC7lAQAAKwAAAAEA
+						AADdAQAAe1xydGYxXGFuc2lcYW5z
+						aWNwZzEyNTJcY29jb2FydGYyNzA5
+						Clxjb2NvYXRleHRzY2FsaW5nMFxj
+						b2NvYXBsYXRmb3JtMHtcZm9udHRi
+						bFxmMFxmcm9tYW5cZmNoYXJzZXQw
+						IFRpbWVzTmV3Um9tYW5QU01UO30K
+						e1xjb2xvcnRibDtccmVkMjU1XGdy
+						ZWVuMjU1XGJsdWUyNTU7XHJlZDBc
+						Z3JlZW4wXGJsdWUyMjc7fQp7XCpc
+						ZXhwYW5kZWRjb2xvcnRibDs7XGNz
+						c3JnYlxjMFxjMFxjOTEzNzM7fQpc
+						ZGVmdGFiNzIwClxwYXJkXHBhcmRl
+						ZnRhYjcyMFxwYXJ0aWdodGVuZmFj
+						dG9yMAp7XGZpZWxke1wqXGZsZGlu
+						c3R7SFlQRVJMSU5LICJodHRwczov
+						L3d3dy53My5vcmcvV0FJL1dDQUcy
+						Mi9VbmRlcnN0YW5kaW5nL2RyYWdn
+						aW5nLW1vdmVtZW50cy5odG1sIn19
+						e1xmbGRyc2x0IApcZjBcZnMzMiBc
+						Y2YyIFxleHBuZDBcZXhwbmR0dzBc
+						a2VybmluZzAKXHVsIFx1bGMyIFVu
+						ZGVyc3RhbmRpbmcgU0MgMi41Ljcg
+						RHJhZ2dpbmcgTW92ZW1lbnRzfX19
+						AQAAACMAAAABAAAABwAAAFRYVC5y
+						dGYQAAAAwQHNZLYBAAAAAAAAAAAA
+						AA==
+						</data>
+						<key>Text</key>
+						<string>Understanding SC 2.5.7 Dragging Movements</string>
+					</dict>
+				</array>
+				<key>Name</key>
+				<string>2.5.7 Dragging Movements [AA]</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>MacroTriggerType</key>
+						<string>TypedString</string>
+						<key>SimulateDeletes</key>
+						<true/>
+						<key>TypedString</key>
+						<string>2.5.7-u-rtf</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>WCAG 2.2 SCs</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>Action</key>
+						<string>ByPastingStyles</string>
+						<key>MacroActionType</key>
+						<string>InsertText</string>
+						<key>StyledText</key>
+						<data>
+						cnRmZAAAAAADAAAAAgAAAAcAAABU
+						WFQucnRmAQAAAC4dAgAAKwAAAAEA
+						AAAVAgAAe1xydGYxXGFuc2lcYW5z
+						aWNwZzEyNTJcY29jb2FydGYyNzA5
+						Clxjb2NvYXRleHRzY2FsaW5nMFxj
+						b2NvYXBsYXRmb3JtMHtcZm9udHRi
+						bFxmMFxmcm9tYW5cZmNoYXJzZXQw
+						IFRpbWVzTmV3Um9tYW5QU01UO30K
+						e1xjb2xvcnRibDtccmVkMjU1XGdy
+						ZWVuMjU1XGJsdWUyNTU7XHJlZDBc
+						Z3JlZW4wXGJsdWUyMjc7fQp7XCpc
+						ZXhwYW5kZWRjb2xvcnRibDs7XGNz
+						c3JnYlxjMFxjMFxjOTEzNzM7fQpc
+						ZGVmdGFiNzIwClxwYXJkXHBhcmRl
+						ZnRhYjcyMFxwYXJ0aWdodGVuZmFj
+						dG9yMAp7XGZpZWxke1wqXGZsZGlu
+						c3R7SFlQRVJMSU5LICJodHRwczov
+						L3d3dy53My5vcmcvV0FJL1dDQUcy
+						Mi9VbmRlcnN0YW5kaW5nL3Rhcmdl
+						dC1zaXplLW1pbmltdW0uaHRtbCJ9
+						fXtcZmxkcnNsdCAKXGYwXGZzMzIg
+						XGNmMiBcZXhwbmQwXGV4cG5kdHcw
+						XGtlcm5pbmcwClx1bCBcdWxjMiBV
+						bmRlcnN0YW5kaW5nIFNDIDIuNS44
+						IFRhcmdldCBTaXplIChNaW5pbXVt
+						KX19ClxmMFxmczMyIFxjZjIgXGV4
+						cG5kMFxleHBuZHR3MFxrZXJuaW5n
+						MApcdWwgXHVsYzIgIH0BAAAAIwAA
+						AAEAAAAHAAAAVFhULnJ0ZhAAAADc
+						Ac1ktgEAAAAAAAAAAAAA
+						</data>
+						<key>Text</key>
+						<string>Understanding SC 2.5.8 Target Size (Minimum) </string>
+					</dict>
+				</array>
+				<key>Name</key>
+				<string>2.5.8 Target Size (Minimum) [AA]</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>MacroTriggerType</key>
+						<string>TypedString</string>
+						<key>SimulateDeletes</key>
+						<true/>
+						<key>TypedString</key>
+						<string>2.5.8-u-rtf</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>WCAG 2.2 SCs</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>IsDefaultApplication</key>
+						<true/>
+						<key>MacroActionType</key>
+						<string>OpenURL</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+						<key>URL</key>
+						<string>https://www.w3.org/TR/WCAG22/#redundant-entry</string>
+					</dict>
+				</array>
+				<key>Name</key>
+				<string>SC 3.3.7 Redundant Entry [A] !WCAG 2.2!</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>MacroTriggerType</key>
+						<string>TypedString</string>
+						<key>SimulateDeletes</key>
+						<true/>
+						<key>TypedString</key>
+						<string>3.3.7--</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>WCAG 2.2 SCs</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>Action</key>
+						<string>ByPastingStyles</string>
+						<key>MacroActionType</key>
+						<string>InsertText</string>
+						<key>StyledText</key>
+						<data>
+						cnRmZAAAAAADAAAAAgAAAAcAAABU
+						WFQucnRmAQAAAC7fAQAAKwAAAAEA
+						AADXAQAAe1xydGYxXGFuc2lcYW5z
+						aWNwZzEyNTJcY29jb2FydGYyNzA5
+						Clxjb2NvYXRleHRzY2FsaW5nMFxj
+						b2NvYXBsYXRmb3JtMHtcZm9udHRi
+						bFxmMFxmcm9tYW5cZmNoYXJzZXQw
+						IFRpbWVzTmV3Um9tYW5QU01UO30K
+						e1xjb2xvcnRibDtccmVkMjU1XGdy
+						ZWVuMjU1XGJsdWUyNTU7XHJlZDBc
+						Z3JlZW4wXGJsdWUyMjc7fQp7XCpc
+						ZXhwYW5kZWRjb2xvcnRibDs7XGNz
+						c3JnYlxjMFxjMFxjOTEzNzM7fQpc
+						ZGVmdGFiNzIwClxwYXJkXHBhcmRl
+						ZnRhYjcyMFxwYXJ0aWdodGVuZmFj
+						dG9yMAp7XGZpZWxke1wqXGZsZGlu
+						c3R7SFlQRVJMSU5LICJodHRwczov
+						L3d3dy53My5vcmcvV0FJL1dDQUcy
+						Mi9VbmRlcnN0YW5kaW5nL3JlZHVu
+						ZGFudC1lbnRyeS5odG1sIn19e1xm
+						bGRyc2x0IApcZjBcZnMzMiBcY2Yy
+						IFxleHBuZDBcZXhwbmR0dzBca2Vy
+						bmluZzAKXHVsIFx1bGMyIFVuZGVy
+						c3RhbmRpbmcgU0MgMy4zLjcgUmVk
+						dW5kYW50IEVudHJ5fX19AQAAACMA
+						AAABAAAABwAAAFRYVC5ydGYQAAAA
+						+gHNZLYBAAAAAAAAAAAAAA==
+						</data>
+						<key>Text</key>
+						<string>Understanding SC 3.3.7 Redundant Entry</string>
+					</dict>
+				</array>
+				<key>Name</key>
+				<string>3.3.7 Redundant Entry [A]</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>MacroTriggerType</key>
+						<string>TypedString</string>
+						<key>SimulateDeletes</key>
+						<true/>
+						<key>TypedString</key>
+						<string>3.3.7-u-rtf</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>WCAG 2.2 SCs</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>Action</key>
+						<string>ByPasting</string>
+						<key>MacroActionType</key>
+						<string>InsertText</string>
+						<key>Text</key>
+						<string>https://www.w3.org/WAI/WCAG22/Understanding/target-size-minimum.html</string>
+					</dict>
+				</array>
+				<key>Name</key>
+				<string>🆄 SC 2.5.8 Target Size (Minimum) [AA] (URL) !WCAG 2.2!</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>MacroTriggerType</key>
+						<string>TypedString</string>
+						<key>SimulateDeletes</key>
+						<true/>
+						<key>TypedString</key>
+						<string>2.5.8-u-l</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>WCAG 2.2 SCs</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>Action</key>
+						<string>ByPastingStyles</string>
+						<key>MacroActionType</key>
+						<string>InsertText</string>
+						<key>StyledText</key>
+						<data>
+						cnRmZAAAAAADAAAAAgAAAAcAAABU
+						WFQucnRmAQAAAC7zAQAAKwAAAAEA
+						AADrAQAAe1xydGYxXGFuc2lcYW5z
+						aWNwZzEyNTJcY29jb2FydGYyNzA5
+						Clxjb2NvYXRleHRzY2FsaW5nMFxj
+						b2NvYXBsYXRmb3JtMHtcZm9udHRi
+						bFxmMFxmcm9tYW5cZmNoYXJzZXQw
+						IFRpbWVzTmV3Um9tYW5QU01UO30K
+						e1xjb2xvcnRibDtccmVkMjU1XGdy
+						ZWVuMjU1XGJsdWUyNTU7XHJlZDBc
+						Z3JlZW4wXGJsdWUyMjc7fQp7XCpc
+						ZXhwYW5kZWRjb2xvcnRibDs7XGNz
+						c3JnYlxjMFxjMFxjOTEzNzM7fQpc
+						ZGVmdGFiNzIwClxwYXJkXHBhcmRl
+						ZnRhYjcyMFxwYXJ0aWdodGVuZmFj
+						dG9yMAp7XGZpZWxke1wqXGZsZGlu
+						c3R7SFlQRVJMSU5LICJodHRwczov
+						L3d3dy53My5vcmcvV0FJL1dDQUcy
+						Mi9VbmRlcnN0YW5kaW5nL2FjY2Vz
+						c2libGUtYXV0aGVudGljYXRpb24u
+						aHRtbCJ9fXtcZmxkcnNsdCAKXGYw
+						XGZzMzIgXGNmMiBcZXhwbmQwXGV4
+						cG5kdHcwXGtlcm5pbmcwClx1bCBc
+						dWxjMiBVbmRlcnN0YW5kaW5nIFND
+						IDMuMy44IEFjY2Vzc2libGUgQXV0
+						aGVudGljYXRpb259fX0BAAAAIwAA
+						AAEAAAAHAAAAVFhULnJ0ZhAAAAAJ
+						As1ktgEAAAAAAAAAAAAA
+						</data>
+						<key>Text</key>
+						<string>Understanding SC 3.3.8 Accessible Authentication</string>
+					</dict>
+				</array>
+				<key>Name</key>
+				<string>3.3.8 Accessible Authentication [AA]</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>MacroTriggerType</key>
+						<string>TypedString</string>
+						<key>SimulateDeletes</key>
+						<true/>
+						<key>TypedString</key>
+						<string>3.3.8-u-rtf</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>WCAG 2.2 SCs</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>IsDefaultApplication</key>
+						<true/>
+						<key>MacroActionType</key>
+						<string>OpenURL</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+						<key>URL</key>
+						<string>https://www.w3.org/WAI/WCAG22/Understanding/focus-appearance.html</string>
+					</dict>
+				</array>
+				<key>Name</key>
+				<string>🆄 2.4.13 Focus Appearance [AAA] !WCAG 2.2!</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>MacroTriggerType</key>
+						<string>TypedString</string>
+						<key>SimulateDeletes</key>
+						<true/>
+						<key>TypedString</key>
+						<string>2.4.13-u--</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>WCAG 2.2 SCs</string>
 	</dict>
 	<dict>
 		<key>Activate</key>
@@ -2347,7 +2378,7 @@
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>🆄 SC 2.5.7 Dragging Movements [AA] (URL)</string>
+				<string>🆄 SC 2.5.7 Dragging Movements [AA] (URL) !WCAG 2.2!</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -2362,90 +2393,7 @@
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>WCAG 2.2 SCs - Understanding docs (URL)</string>
-	</dict>
-	<dict>
-		<key>Activate</key>
-		<string>Normal</string>
-		<key>Macros</key>
-		<array>
-			<dict>
-				<key>Actions</key>
-				<array>
-					<dict>
-						<key>Action</key>
-						<string>ByPasting</string>
-						<key>MacroActionType</key>
-						<string>InsertText</string>
-						<key>Text</key>
-						<string>&lt;a href="https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication-enhanced.html"&gt;SC 3.3.9 Accessible Authentication (Enhanced)&lt;/a&gt;</string>
-					</dict>
-				</array>
-				<key>Name</key>
-				<string>SC 3.3.9 Accessible Authentication (Enhanced) [AAA] - Understanding (Markdown link)</string>
-				<key>Triggers</key>
-				<array>
-					<dict>
-						<key>MacroTriggerType</key>
-						<string>TypedString</string>
-						<key>SimulateDeletes</key>
-						<true/>
-						<key>TypedString</key>
-						<string>3.3.9-u-h</string>
-					</dict>
-				</array>
-			</dict>
-		</array>
-		<key>Name</key>
-		<string>WCAG 2.2 SCs - Understanding docs (&lt;a href&gt;)</string>
-	</dict>
-	<dict>
-		<key>Activate</key>
-		<string>Normal</string>
-		<key>DisplayInMenuBar</key>
-		<dict>
-			<key>Display</key>
-			<true/>
-			<key>IconType</key>
-			<string>MacroGroup</string>
-			<key>IncludeAllMacros</key>
-			<true/>
-			<key>TitleType</key>
-			<string>No</string>
-		</dict>
-		<key>Macros</key>
-		<array>
-			<dict>
-				<key>Actions</key>
-				<array>
-					<dict>
-						<key>IsDefaultApplication</key>
-						<true/>
-						<key>MacroActionType</key>
-						<string>OpenURL</string>
-						<key>TimeOutAbortsMacro</key>
-						<true/>
-						<key>URL</key>
-						<string>https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication.html</string>
-					</dict>
-				</array>
-				<key>Name</key>
-				<string>🆄 SC 3.3.8 Accessible Authentication [AA]</string>
-				<key>Triggers</key>
-				<array>
-					<dict>
-						<key>MacroTriggerType</key>
-						<string>TypedString</string>
-						<key>SimulateDeletes</key>
-						<true/>
-						<key>TypedString</key>
-						<string>3.3.8-u--</string>
-					</dict>
-				</array>
-			</dict>
-		</array>
-		<key>Name</key>
-		<string>WCAG 2.2 SCs - Understanding docs (Open in browser)</string>
+		<string>WCAG 2.2 SCs</string>
 	</dict>
 	<dict>
 		<key>Activate</key>
@@ -2465,7 +2413,7 @@
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>SC 3.3.8 Accessible Authentication [AA] - Understanding (Markdown link)</string>
+				<string>🆄 SC 3.3.8 Accessible Authentication [AA] - Understanding (Markdown link) !WCAG 2.2!</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -2480,7 +2428,7 @@
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>WCAG 2.2 SCs - Understanding docs (&lt;a href&gt;)</string>
+		<string>WCAG 2.2 SCs</string>
 	</dict>
 	<dict>
 		<key>Activate</key>
@@ -2496,11 +2444,11 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>&lt;a href="https://www.w3.org/WAI/WCAG22/Understanding/dragging-movements.html"&gt;SC 2.5.7 Dragging Movements&lt;/a&gt;</string>
+						<string>https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-minimum.html</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>SC 2.5.7 Dragging Movements [AA] - Understanding (Markdown link)</string>
+				<string>🆄 SC 2.4.11 Focus Not Obscured (Minimum) [AA] (URL) !WCAG 2.2!</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -2509,13 +2457,118 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>2.5.7-u-h</string>
+						<string>2.4.11-u-l</string>
 					</dict>
 				</array>
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>WCAG 2.2 SCs - Understanding docs (&lt;a href&gt;)</string>
+		<string>WCAG 2.2 SCs</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>Action</key>
+						<string>ByPastingStyles</string>
+						<key>MacroActionType</key>
+						<string>InsertText</string>
+						<key>StyledText</key>
+						<data>
+						cnRmZAAAAAADAAAAAgAAAAcAAABU
+						WFQucnRmAQAAAC4gAgAAKwAAAAEA
+						AAAYAgAAe1xydGYxXGFuc2lcYW5z
+						aWNwZzEyNTJcY29jb2FydGYyNzA5
+						Clxjb2NvYXRleHRzY2FsaW5nMFxj
+						b2NvYXBsYXRmb3JtMHtcZm9udHRi
+						bFxmMFxmcm9tYW5cZmNoYXJzZXQw
+						IFRpbWVzTmV3Um9tYW5QU01UO30K
+						e1xjb2xvcnRibDtccmVkMjU1XGdy
+						ZWVuMjU1XGJsdWUyNTU7XHJlZDBc
+						Z3JlZW4wXGJsdWUyMjc7fQp7XCpc
+						ZXhwYW5kZWRjb2xvcnRibDs7XGNz
+						c3JnYlxjMFxjMFxjOTEzNzM7fQpc
+						ZGVmdGFiNzIwClxwYXJkXHBhcmRl
+						ZnRhYjcyMFxwYXJ0aWdodGVuZmFj
+						dG9yMAp7XGZpZWxke1wqXGZsZGlu
+						c3R7SFlQRVJMSU5LICJodHRwczov
+						L3d3dy53My5vcmcvVFIvV0NBRzIy
+						LyNhY2Nlc3NpYmxlLWF1dGhlbnRp
+						Y2F0aW9uLWVuaGFuY2VkIn19e1xm
+						bGRyc2x0IApcZjBcZnMzMiBcY2Yy
+						IFxleHBuZDBcZXhwbmR0dzBca2Vy
+						bmluZzAKXHVsIFx1bGMyIFNDIDMu
+						My45IEFjY2Vzc2libGUgQXV0aGVu
+						dGljYXRpb24gKEVuaGFuY2VkKSBb
+						QUFBXX19ClxmMFxmczMyIFxjZjIg
+						XGV4cG5kMFxleHBuZHR3MFxrZXJu
+						aW5nMApcdWwgXHVsYzIgIH0BAAAA
+						IwAAAAEAAAAHAAAAVFhULnJ0ZhAA
+						AAAPAs1ktgEAAAAAAAAAAAAA
+						</data>
+						<key>Text</key>
+						<string>SC 3.3.9 Accessible Authentication (Enhanced) [AAA] </string>
+					</dict>
+				</array>
+				<key>Name</key>
+				<string>3.3.9 Accessible Authentication (Enhanced) [AAA]</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>MacroTriggerType</key>
+						<string>TypedString</string>
+						<key>SimulateDeletes</key>
+						<true/>
+						<key>TypedString</key>
+						<string>3.3.9-rtf</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>WCAG 2.2 SCs</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>IsDefaultApplication</key>
+						<true/>
+						<key>MacroActionType</key>
+						<string>OpenURL</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+						<key>URL</key>
+						<string>https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-minimum.html</string>
+					</dict>
+				</array>
+				<key>Name</key>
+				<string>🆄 2.4.11 Focus Not Obscured (Minimum) [AA] !WCAG 2.2!</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>MacroTriggerType</key>
+						<string>TypedString</string>
+						<key>SimulateDeletes</key>
+						<true/>
+						<key>TypedString</key>
+						<string>2.4.11-u--</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>WCAG 2.2 SCs</string>
 	</dict>
 	<dict>
 		<key>Activate</key>
@@ -2531,11 +2584,11 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>&lt;a href="https://www.w3.org/WAI/WCAG22/Understanding/redundant-entry.html"&gt;SC 3.3.7 Redundant Entry&lt;/a&gt;</string>
+						<string>[SC 3.3.8 Accessible Authentication (Level AA)](https://www.w3.org/TR/WCAG22/#accessible-authentication)</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>SC 3.3.7 Redundant Entry [A] - Understanding (Markdown link)</string>
+				<string>SC 3.3.8 Accessible Authentication [AA] !WCAG 2.2!</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -2544,13 +2597,50 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>3.3.7-u-h</string>
+						<string>3.3.8-md</string>
 					</dict>
 				</array>
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>WCAG 2.2 SCs - Understanding docs (&lt;a href&gt;)</string>
+		<string>WCAG 2.2 SCs</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>IsDefaultApplication</key>
+						<true/>
+						<key>MacroActionType</key>
+						<string>OpenURL</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+						<key>URL</key>
+						<string>https://www.w3.org/WAI/WCAG22/Understanding/redundant-entry.html</string>
+					</dict>
+				</array>
+				<key>Name</key>
+				<string>🆄 3.3.7 Redundant Entry [A] !WCAG 2.2!</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>MacroTriggerType</key>
+						<string>TypedString</string>
+						<key>SimulateDeletes</key>
+						<true/>
+						<key>TypedString</key>
+						<string>3.3.7-u--</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>WCAG 2.2 SCs</string>
 	</dict>
 	<dict>
 		<key>Activate</key>
@@ -2566,11 +2656,11 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>&lt;a href="https://www.w3.org/WAI/WCAG22/Understanding/focus-appearance.html"&gt;SC 2.4.11 Focus Appearance&lt;/a&gt;</string>
+						<string>https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-enhanced.html</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>SC 2.4.11 Focus Appearance [AA] - Understanding (Markdown link)</string>
+				<string>🆄 SC 2.4.12 Focus Not Obscured (Enhanced) [AA] (URL) !WCAG 2.2!</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -2579,13 +2669,124 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>2.4.11-u-h</string>
+						<string>2.4.12-u-l</string>
 					</dict>
 				</array>
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>WCAG 2.2 SCs - Understanding docs (&lt;a href&gt;)</string>
+		<string>WCAG 2.2 SCs</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>IsDefaultApplication</key>
+						<true/>
+						<key>MacroActionType</key>
+						<string>OpenURL</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+						<key>URL</key>
+						<string>https://www.w3.org/WAI/WCAG22/Understanding/consistent-help.html</string>
+					</dict>
+				</array>
+				<key>Name</key>
+				<string>🆄 3.2.6 Consistent Help [A] !WCAG 2.2!</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>MacroTriggerType</key>
+						<string>TypedString</string>
+						<key>SimulateDeletes</key>
+						<true/>
+						<key>TypedString</key>
+						<string>3.2.6-u--</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>WCAG 2.2 SCs</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>IsDefaultApplication</key>
+						<true/>
+						<key>MacroActionType</key>
+						<string>OpenURL</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+						<key>URL</key>
+						<string>https://www.w3.org/TR/WCAG22/#dragging-movements</string>
+					</dict>
+				</array>
+				<key>Name</key>
+				<string>SC 2.5.7 Dragging Movements [AA] !WCAG 2.2!</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>MacroTriggerType</key>
+						<string>TypedString</string>
+						<key>SimulateDeletes</key>
+						<true/>
+						<key>TypedString</key>
+						<string>2.5.7--</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>WCAG 2.2 SCs</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>IsDefaultApplication</key>
+						<true/>
+						<key>MacroActionType</key>
+						<string>OpenURL</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+						<key>URL</key>
+						<string>https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication.html</string>
+					</dict>
+				</array>
+				<key>Name</key>
+				<string>🆄 3.3.8 Accessible Authentication [AA] !WCAG 2.2!</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>MacroTriggerType</key>
+						<string>TypedString</string>
+						<key>SimulateDeletes</key>
+						<true/>
+						<key>TypedString</key>
+						<string>3.3.8-u--</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>WCAG 2.2 SCs</string>
 	</dict>
 	<dict>
 		<key>Activate</key>
@@ -2601,11 +2802,11 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>&lt;a href="https://www.w3.org/WAI/WCAG22/Understanding/consistent-help.html"&gt;SC 3.2.6 Consistent Help&lt;/a&gt;</string>
+						<string>&lt;a href="https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication-enhanced.html"&gt;SC 3.3.9 Accessible Authentication (Enhanced)&lt;/a&gt;</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>SC 3.2.6 Consistent Help [A] - Understanding (Markdown link)</string>
+				<string>🆄 SC 3.3.9 Accessible Authentication (Enhanced) [AAA] - Understanding (Markdown link) !WCAG 2.2!</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -2614,13 +2815,118 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>3.2.6-u-h</string>
+						<string>3.3.9-u-h</string>
 					</dict>
 				</array>
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>WCAG 2.2 SCs - Understanding docs (&lt;a href&gt;)</string>
+		<string>WCAG 2.2 SCs</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>Action</key>
+						<string>ByPasting</string>
+						<key>MacroActionType</key>
+						<string>InsertText</string>
+						<key>Text</key>
+						<string>[SC 2.4.13 Focus Appearance (Level AAA)](https://www.w3.org/TR/WCAG22/#focus-appearance)</string>
+					</dict>
+				</array>
+				<key>Name</key>
+				<string>SC 2.4.13 Focus Appearance [AAA] !WCAG 2.2!</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>MacroTriggerType</key>
+						<string>TypedString</string>
+						<key>SimulateDeletes</key>
+						<true/>
+						<key>TypedString</key>
+						<string>2.4.13-md</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>WCAG 2.2 SCs</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>Action</key>
+						<string>ByPasting</string>
+						<key>MacroActionType</key>
+						<string>InsertText</string>
+						<key>Text</key>
+						<string>[SC 3.3.8 Accessible Authentication (Level AA)](https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication.html)</string>
+					</dict>
+				</array>
+				<key>Name</key>
+				<string>🆄 SC 3.3.8 Accessible Authentication [AA] 🅼🅳 !WCAG 2.2!</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>MacroTriggerType</key>
+						<string>TypedString</string>
+						<key>SimulateDeletes</key>
+						<true/>
+						<key>TypedString</key>
+						<string>3.3.8-u-md</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>WCAG 2.2 SCs</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>Action</key>
+						<string>ByPasting</string>
+						<key>MacroActionType</key>
+						<string>InsertText</string>
+						<key>Text</key>
+						<string>[SC 2.5.8 Target Size (Minimum) (Level AA)](https://www.w3.org/TR/WCAG22/#target-size-minimum)</string>
+					</dict>
+				</array>
+				<key>Name</key>
+				<string>SC 2.5.8 Target Size (Minimum) [AA] !WCAG 2.2!</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>MacroTriggerType</key>
+						<string>TypedString</string>
+						<key>SimulateDeletes</key>
+						<true/>
+						<key>TypedString</key>
+						<string>2.5.8-md</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>WCAG 2.2 SCs</string>
 	</dict>
 	<dict>
 		<key>Activate</key>
@@ -2640,7 +2946,7 @@
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>SC 2.5.8 Target Size (Minimum) [AA] - Understanding (Markdown link)</string>
+				<string>🆄 SC 2.5.8 Target Size (Minimum) [AA] - Understanding (Markdown link) !WCAG 2.2!</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -2655,7 +2961,810 @@
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>WCAG 2.2 SCs - Understanding docs (&lt;a href&gt;)</string>
+		<string>WCAG 2.2 SCs</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>Action</key>
+						<string>ByPasting</string>
+						<key>MacroActionType</key>
+						<string>InsertText</string>
+						<key>Text</key>
+						<string>&lt;a href="https://www.w3.org/WAI/WCAG22/Understanding/redundant-entry.html"&gt;SC 3.3.7 Redundant Entry&lt;/a&gt;</string>
+					</dict>
+				</array>
+				<key>Name</key>
+				<string>🆄 SC 3.3.7 Redundant Entry [A] - Understanding (Markdown link) !WCAG 2.2!</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>MacroTriggerType</key>
+						<string>TypedString</string>
+						<key>SimulateDeletes</key>
+						<true/>
+						<key>TypedString</key>
+						<string>3.3.7-u-h</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>WCAG 2.2 SCs</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>Action</key>
+						<string>ByPasting</string>
+						<key>MacroActionType</key>
+						<string>InsertText</string>
+						<key>Text</key>
+						<string>&lt;a href="https://www.w3.org/WAI/WCAG22/Understanding/focus-appearance.html"&gt;SC 2.4.13 Focus Appearance&lt;/a&gt;</string>
+					</dict>
+				</array>
+				<key>Name</key>
+				<string>🆄 SC 2.4.13 Focus Appearance [AAA] - Understanding (Markdown link) !WCAG 2.2!</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>MacroTriggerType</key>
+						<string>TypedString</string>
+						<key>SimulateDeletes</key>
+						<true/>
+						<key>TypedString</key>
+						<string>2.4.13-u-h</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>WCAG 2.2 SCs</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>Action</key>
+						<string>ByPasting</string>
+						<key>MacroActionType</key>
+						<string>InsertText</string>
+						<key>Text</key>
+						<string>&lt;a href="https://www.w3.org/WAI/WCAG22/Understanding/consistent-help.html"&gt;SC 3.2.6 Consistent Help&lt;/a&gt;</string>
+					</dict>
+				</array>
+				<key>Name</key>
+				<string>🆄 SC 3.2.6 Consistent Help [A] - Understanding (Markdown link) !WCAG 2.2!</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>MacroTriggerType</key>
+						<string>TypedString</string>
+						<key>SimulateDeletes</key>
+						<true/>
+						<key>TypedString</key>
+						<string>3.2.6-u-h</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>WCAG 2.2 SCs</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>IsDefaultApplication</key>
+						<true/>
+						<key>MacroActionType</key>
+						<string>OpenURL</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+						<key>URL</key>
+						<string>https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication-enhanced.html</string>
+					</dict>
+				</array>
+				<key>Name</key>
+				<string>🆄 3.3.9 Accessible Authentication (Enhanced) [AAA] !WCAG 2.2!</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>MacroTriggerType</key>
+						<string>TypedString</string>
+						<key>SimulateDeletes</key>
+						<true/>
+						<key>TypedString</key>
+						<string>3.3.9-u--</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>WCAG 2.2 SCs</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>Action</key>
+						<string>ByPastingStyles</string>
+						<key>MacroActionType</key>
+						<string>InsertText</string>
+						<key>StyledText</key>
+						<data>
+						cnRmZAAAAAADAAAAAgAAAAcAAABU
+						WFQucnRmAQAAAC7fAQAAKwAAAAEA
+						AADXAQAAe1xydGYxXGFuc2lcYW5z
+						aWNwZzEyNTJcY29jb2FydGYyNzA5
+						Clxjb2NvYXRleHRzY2FsaW5nMFxj
+						b2NvYXBsYXRmb3JtMHtcZm9udHRi
+						bFxmMFxmcm9tYW5cZmNoYXJzZXQw
+						IFRpbWVzTmV3Um9tYW5QU01UO30K
+						e1xjb2xvcnRibDtccmVkMjU1XGdy
+						ZWVuMjU1XGJsdWUyNTU7XHJlZDBc
+						Z3JlZW4wXGJsdWUyMjc7fQp7XCpc
+						ZXhwYW5kZWRjb2xvcnRibDs7XGNz
+						c3JnYlxjMFxjMFxjOTEzNzM7fQpc
+						ZGVmdGFiNzIwClxwYXJkXHBhcmRl
+						ZnRhYjcyMFxwYXJ0aWdodGVuZmFj
+						dG9yMAp7XGZpZWxke1wqXGZsZGlu
+						c3R7SFlQRVJMSU5LICJodHRwczov
+						L3d3dy53My5vcmcvV0FJL1dDQUcy
+						Mi9VbmRlcnN0YW5kaW5nL2NvbnNp
+						c3RlbnQtaGVscC5odG1sIn19e1xm
+						bGRyc2x0IApcZjBcZnMzMiBcY2Yy
+						IFxleHBuZDBcZXhwbmR0dzBca2Vy
+						bmluZzAKXHVsIFx1bGMyIFVuZGVy
+						c3RhbmRpbmcgU0MgMy4yLjYgQ29u
+						c2lzdGVudCBIZWxwfX19AQAAACMA
+						AAABAAAABwAAAFRYVC5ydGYQAAAA
+						6gHNZLYBAAAAAAAAAAAAAA==
+						</data>
+						<key>Text</key>
+						<string>Understanding SC 3.2.6 Consistent Help</string>
+					</dict>
+				</array>
+				<key>Name</key>
+				<string>3.2.6 Consistent Help [A]</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>MacroTriggerType</key>
+						<string>TypedString</string>
+						<key>SimulateDeletes</key>
+						<true/>
+						<key>TypedString</key>
+						<string>3.2.6-u-rtf</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>WCAG 2.2 SCs</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>Action</key>
+						<string>ByPasting</string>
+						<key>MacroActionType</key>
+						<string>InsertText</string>
+						<key>Text</key>
+						<string>[SC 3.3.7 Redundant Entry (Level A)](https://www.w3.org/TR/WCAG22/#redundant-entry)</string>
+					</dict>
+				</array>
+				<key>Name</key>
+				<string>SC 3.3.7 Redundant Entry [A] !WCAG 2.2!</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>MacroTriggerType</key>
+						<string>TypedString</string>
+						<key>SimulateDeletes</key>
+						<true/>
+						<key>TypedString</key>
+						<string>3.3.7-md</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>WCAG 2.2 SCs</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>Action</key>
+						<string>ByPasting</string>
+						<key>MacroActionType</key>
+						<string>InsertText</string>
+						<key>Text</key>
+						<string>[SC 3.3.9 Accessible Authentication (Enhanced) (Level AAA)](https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication-enhanced.html)</string>
+					</dict>
+				</array>
+				<key>Name</key>
+				<string>🆄 SC 3.3.9 Accessible Authentication (Enhanced) [AAA] 🅼🅳 !WCAG 2.2!</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>MacroTriggerType</key>
+						<string>TypedString</string>
+						<key>SimulateDeletes</key>
+						<true/>
+						<key>TypedString</key>
+						<string>3.3.9-u-md</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>WCAG 2.2 SCs</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>Action</key>
+						<string>ByPasting</string>
+						<key>MacroActionType</key>
+						<string>InsertText</string>
+						<key>Text</key>
+						<string>https://www.w3.org/TR/WCAG22/#focus-appearance</string>
+					</dict>
+				</array>
+				<key>Name</key>
+				<string>SC 2.4.13 Focus Appearance [AAA] (URL) !WCAG 2.2!</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>MacroTriggerType</key>
+						<string>TypedString</string>
+						<key>SimulateDeletes</key>
+						<true/>
+						<key>TypedString</key>
+						<string>2.4.13-l</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>WCAG 2.2 SCs</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>Action</key>
+						<string>ByPasting</string>
+						<key>MacroActionType</key>
+						<string>InsertText</string>
+						<key>Text</key>
+						<string>&lt;a href="https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-enhanced.html"&gt;SC 2.4.12 Focus Not Obscured (Enhanced)&lt;/a&gt;</string>
+					</dict>
+				</array>
+				<key>Name</key>
+				<string>🆄 SC 2.4.12 Focus Not Obscured (Enhanced) [AA] - Understanding (Markdown link) !WCAG 2.2!</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>MacroTriggerType</key>
+						<string>TypedString</string>
+						<key>SimulateDeletes</key>
+						<true/>
+						<key>TypedString</key>
+						<string>2.4.12-u-h</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>WCAG 2.2 SCs</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>Action</key>
+						<string>ByPasting</string>
+						<key>MacroActionType</key>
+						<string>InsertText</string>
+						<key>Text</key>
+						<string>[SC 2.4.12 Focus Not Obscured (Enhanced) (Level AA)](https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-enhanced.html)</string>
+					</dict>
+				</array>
+				<key>Name</key>
+				<string>🆄 SC 2.4.12 Focus Not Obscured (Enhanced) [AA] 🅼🅳 !WCAG 2.2!</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>MacroTriggerType</key>
+						<string>TypedString</string>
+						<key>SimulateDeletes</key>
+						<true/>
+						<key>TypedString</key>
+						<string>2.4.12-u-md</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>WCAG 2.2 SCs</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>Action</key>
+						<string>ByPasting</string>
+						<key>MacroActionType</key>
+						<string>InsertText</string>
+						<key>Text</key>
+						<string>https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication.html</string>
+					</dict>
+				</array>
+				<key>Name</key>
+				<string>🆄 SC 3.3.8 Accessible Authentication [AA] (URL) !WCAG 2.2!</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>MacroTriggerType</key>
+						<string>TypedString</string>
+						<key>SimulateDeletes</key>
+						<true/>
+						<key>TypedString</key>
+						<string>3.3.8-u-l</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>WCAG 2.2 SCs</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>IsDefaultApplication</key>
+						<true/>
+						<key>MacroActionType</key>
+						<string>OpenURL</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+						<key>URL</key>
+						<string>https://www.w3.org/WAI/WCAG22/Understanding/target-size-minimum.html</string>
+					</dict>
+				</array>
+				<key>Name</key>
+				<string>🆄 2.5.8 Target Size (Minimum) [AA] !WCAG 2.2!</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>MacroTriggerType</key>
+						<string>TypedString</string>
+						<key>SimulateDeletes</key>
+						<true/>
+						<key>TypedString</key>
+						<string>2.5.8-u--</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>WCAG 2.2 SCs</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>Action</key>
+						<string>ByPasting</string>
+						<key>MacroActionType</key>
+						<string>InsertText</string>
+						<key>Text</key>
+						<string>[SC 3.3.7 Redundant Entry (Level A)](https://www.w3.org/WAI/WCAG22/Understanding/redundant-entry.html)</string>
+					</dict>
+				</array>
+				<key>Name</key>
+				<string>🆄 SC 3.3.7 Redundant Entry [A] 🅼🅳 !WCAG 2.2!</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>MacroTriggerType</key>
+						<string>TypedString</string>
+						<key>SimulateDeletes</key>
+						<true/>
+						<key>TypedString</key>
+						<string>3.3.7-u-md</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>WCAG 2.2 SCs</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>Action</key>
+						<string>ByPasting</string>
+						<key>MacroActionType</key>
+						<string>InsertText</string>
+						<key>Text</key>
+						<string>[SC 3.2.6 Consistent Help (Level A)](https://www.w3.org/WAI/WCAG22/Understanding/consistent-help.html)</string>
+					</dict>
+				</array>
+				<key>Name</key>
+				<string>🆄 SC 3.2.6 Consistent Help [A] 🅼🅳 !WCAG 2.2!</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>MacroTriggerType</key>
+						<string>TypedString</string>
+						<key>SimulateDeletes</key>
+						<true/>
+						<key>TypedString</key>
+						<string>3.2.6-u-md</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>WCAG 2.2 SCs</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>Action</key>
+						<string>ByPastingStyles</string>
+						<key>MacroActionType</key>
+						<string>InsertText</string>
+						<key>StyledText</key>
+						<data>
+						cnRmZAAAAAADAAAAAgAAAAcAAABU
+						WFQucnRmAQAAAC4BAgAAKwAAAAEA
+						AAD5AQAAe1xydGYxXGFuc2lcYW5z
+						aWNwZzEyNTJcY29jb2FydGYyNzA5
+						Clxjb2NvYXRleHRzY2FsaW5nMFxj
+						b2NvYXBsYXRmb3JtMHtcZm9udHRi
+						bFxmMFxmcm9tYW5cZmNoYXJzZXQw
+						IFRpbWVzTmV3Um9tYW5QU01UO30K
+						e1xjb2xvcnRibDtccmVkMjU1XGdy
+						ZWVuMjU1XGJsdWUyNTU7XHJlZDBc
+						Z3JlZW4wXGJsdWUyMjc7fQp7XCpc
+						ZXhwYW5kZWRjb2xvcnRibDs7XGNz
+						c3JnYlxjMFxjMFxjOTEzNzM7fQpc
+						ZGVmdGFiNzIwClxwYXJkXHBhcmRl
+						ZnRhYjcyMFxwYXJ0aWdodGVuZmFj
+						dG9yMAp7XGZpZWxke1wqXGZsZGlu
+						c3R7SFlQRVJMSU5LICJodHRwczov
+						L3d3dy53My5vcmcvVFIvV0NBRzIy
+						LyNmb2N1cy1hcHBlYXJhbmNlIn19
+						e1xmbGRyc2x0IApcZjBcZnMzMiBc
+						Y2YyIFxleHBuZDBcZXhwbmR0dzBc
+						a2VybmluZzAKXHVsIFx1bGMyIFND
+						IDIuNC4xMyBGb2N1cyBBcHBlYXJh
+						bmNlIChMZXZlbCBBQUEpfX0KXGYw
+						XGZzMzIgXGNmMiBcZXhwbmQwXGV4
+						cG5kdHcwXGtlcm5pbmcwClx1bCBc
+						dWxjMiAgfQEAAAAjAAAAAQAAAAcA
+						AABUWFQucnRmEAAAAKABzWS2AQAA
+						AAAAAAAAAAA=
+						</data>
+						<key>Text</key>
+						<string>SC 2.4.13 Focus Appearance (Level AAA) </string>
+					</dict>
+				</array>
+				<key>Name</key>
+				<string>2.4.13 Focus Appearance [AAA]</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>MacroTriggerType</key>
+						<string>TypedString</string>
+						<key>SimulateDeletes</key>
+						<true/>
+						<key>TypedString</key>
+						<string>2.4.13-rtf</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>WCAG 2.2 SCs</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>Action</key>
+						<string>ByPasting</string>
+						<key>MacroActionType</key>
+						<string>InsertText</string>
+						<key>Text</key>
+						<string>[SC 2.4.13 Focus Appearance (Level AAA)](https://www.w3.org/WAI/WCAG22/Understanding/focus-appearance.html)</string>
+					</dict>
+				</array>
+				<key>Name</key>
+				<string>🆄 SC 2.4.13 Focus Appearance [AAA] 🅼🅳 !WCAG 2.2!</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>MacroTriggerType</key>
+						<string>TypedString</string>
+						<key>SimulateDeletes</key>
+						<true/>
+						<key>TypedString</key>
+						<string>2.4.13-u-md</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>WCAG 2.2 SCs</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>IsDefaultApplication</key>
+						<true/>
+						<key>MacroActionType</key>
+						<string>OpenURL</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+						<key>URL</key>
+						<string>https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-enhanced.html</string>
+					</dict>
+				</array>
+				<key>Name</key>
+				<string>🆄 2.4.12 Focus Not Obscured (Enhanced) [AA] !WCAG 2.2!</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>MacroTriggerType</key>
+						<string>TypedString</string>
+						<key>SimulateDeletes</key>
+						<true/>
+						<key>TypedString</key>
+						<string>2.4.12-u--</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>WCAG 2.2 SCs</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>Action</key>
+						<string>ByPasting</string>
+						<key>MacroActionType</key>
+						<string>InsertText</string>
+						<key>Text</key>
+						<string>&lt;a href="https://www.w3.org/TR/WCAG22/#dragging-movements"&gt;SC 2.5.7 Dragging Movements&lt;/a&gt;</string>
+					</dict>
+				</array>
+				<key>Name</key>
+				<string>SC 2.5.7 Dragging Movements [AA] !WCAG 2.2!</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>MacroTriggerType</key>
+						<string>TypedString</string>
+						<key>SimulateDeletes</key>
+						<true/>
+						<key>TypedString</key>
+						<string>2.5.7-h</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>WCAG 2.2 SCs</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>Action</key>
+						<string>ByPasting</string>
+						<key>MacroActionType</key>
+						<string>InsertText</string>
+						<key>Text</key>
+						<string>https://www.w3.org/TR/WCAG22/#accessible-authentication</string>
+					</dict>
+				</array>
+				<key>Name</key>
+				<string>SC 3.3.8 Accessible Authentication [AA] (URL) !WCAG 2.2!</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>MacroTriggerType</key>
+						<string>TypedString</string>
+						<key>SimulateDeletes</key>
+						<true/>
+						<key>TypedString</key>
+						<string>3.3.8-l</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>WCAG 2.2 SCs</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>Action</key>
+						<string>ByPasting</string>
+						<key>MacroActionType</key>
+						<string>InsertText</string>
+						<key>Text</key>
+						<string>&lt;a href="https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-minimum.html"&gt;SC 2.4.11 Focus Not Obscured (Minimum)&lt;/a&gt;</string>
+					</dict>
+				</array>
+				<key>Name</key>
+				<string>🆄 SC 2.4.11 Focus Not Obscured (Minimum) [AA] - Understanding (Markdown link) !WCAG 2.2!</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>MacroTriggerType</key>
+						<string>TypedString</string>
+						<key>SimulateDeletes</key>
+						<true/>
+						<key>TypedString</key>
+						<string>2.4.11-u-h</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>WCAG 2.2 SCs</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>Action</key>
+						<string>ByPasting</string>
+						<key>MacroActionType</key>
+						<string>InsertText</string>
+						<key>Text</key>
+						<string>&lt;a href="https://www.w3.org/WAI/WCAG22/Understanding/dragging-movements.html"&gt;SC 2.5.7 Dragging Movements&lt;/a&gt;</string>
+					</dict>
+				</array>
+				<key>Name</key>
+				<string>🆄 SC 2.5.7 Dragging Movements [AA] - Understanding (Markdown link) !WCAG 2.2!</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>MacroTriggerType</key>
+						<string>TypedString</string>
+						<key>SimulateDeletes</key>
+						<true/>
+						<key>TypedString</key>
+						<string>2.5.7-u-h</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>WCAG 2.2 SCs</string>
 	</dict>
 </array>
 </plist>
