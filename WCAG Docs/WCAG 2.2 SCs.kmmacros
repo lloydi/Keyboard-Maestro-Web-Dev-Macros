@@ -391,11 +391,11 @@
 						AAABAs1ktgEAAAAAAAAAAAAA
 						</data>
 						<key>Text</key>
-						<string>SC 3.3.8 Accessible Authentication [AA] </string>
+						<string>SC 3.3.8 Accessible Authentication (Minimum) [AA] </string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>3.3.8 Accessible Authentication [AA]</string>
+				<string>3.3.8 Accessible Authentication (Minimum) [AA]</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -539,11 +539,11 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG22/#accessible-authentication</string>
+						<string>https://www.w3.org/TR/WCAG22/#accessible-authentication-minimum</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>SC 3.3.8 Accessible Authentication [AA] !WCAG 2.2!</string>
+				<string>SC 3.3.8 Accessible Authentication (Minimum) [AA] !WCAG 2.2!</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -1131,11 +1131,11 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>&lt;a href="https://www.w3.org/TR/WCAG22/#accessible-authentication"&gt;SC 3.3.8 Accessible Authentication&lt;/a&gt;</string>
+						<string>&lt;a href="https://www.w3.org/TR/WCAG22/#accessible-authentication-minimum"&gt;SC 3.3.8 Accessible Authentication&lt;/a&gt;</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>SC 3.3.8 Accessible Authentication [AA] !WCAG 2.2!</string>
+				<string>SC 3.3.8 Accessible Authentication (Minimum) [AA] !WCAG 2.2!</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -2306,7 +2306,7 @@
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>3.3.8 Accessible Authentication [AA]</string>
+				<string>3.3.8 Accessible Authentication (Minimum) [AA]</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -2409,11 +2409,11 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>&lt;a href="https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication.html"&gt;SC 3.3.8 Accessible Authentication&lt;/a&gt;</string>
+						<string>&lt;a href="https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication-minimum.html"&gt;SC 3.3.8 Accessible Authentication&lt;/a&gt;</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>🆄 SC 3.3.8 Accessible Authentication [AA] - Understanding (Markdown link) !WCAG 2.2!</string>
+				<string>🆄 SC 3.3.8 Accessible Authentication (Minimum) [AA] - Understanding (Markdown link) !WCAG 2.2!</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -2584,11 +2584,11 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[SC 3.3.8 Accessible Authentication (Level AA)](https://www.w3.org/TR/WCAG22/#accessible-authentication)</string>
+						<string>[SC 3.3.8 Accessible Authentication (Minimum) (Level AA)](https://www.w3.org/TR/WCAG22/#accessible-authentication-minimum)</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>SC 3.3.8 Accessible Authentication [AA] !WCAG 2.2!</string>
+				<string>SC 3.3.8 Accessible Authentication (Minimum) [AA] !WCAG 2.2!</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -2767,11 +2767,11 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication.html</string>
+						<string>https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication-minimum.html</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>🆄 3.3.8 Accessible Authentication [AA] !WCAG 2.2!</string>
+				<string>🆄 3.3.8 Accessible Authentication (Minimum) [AA] !WCAG 2.2!</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -2872,11 +2872,11 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[SC 3.3.8 Accessible Authentication (Level AA)](https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication.html)</string>
+						<string>[SC 3.3.8 Accessible Authentication (Minimum) (Level AA)](https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication-minimum.html)</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>🆄 SC 3.3.8 Accessible Authentication [AA] 🅼🅳 !WCAG 2.2!</string>
+				<string>🆄 SC 3.3.8 Accessible Authentication (Minimum) [AA] 🅼🅳 !WCAG 2.2!</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -3359,11 +3359,11 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication.html</string>
+						<string>https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication-minimum.html</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>🆄 SC 3.3.8 Accessible Authentication [AA] (URL) !WCAG 2.2!</string>
+				<string>🆄 SC 3.3.8 Accessible Authentication (Minimum) [AA] (URL) !WCAG 2.2!</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -3675,11 +3675,11 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>https://www.w3.org/TR/WCAG22/#accessible-authentication</string>
+						<string>https://www.w3.org/TR/WCAG22/#accessible-authentication-minimum</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>SC 3.3.8 Accessible Authentication [AA] (URL) !WCAG 2.2!</string>
+				<string>SC 3.3.8 Accessible Authentication (Minimum) [AA] (URL) !WCAG 2.2!</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
