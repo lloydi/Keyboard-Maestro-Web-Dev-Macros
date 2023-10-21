@@ -7,7 +7,7 @@ https://www.w3.org/TR/WCAG22/#dragging-movements
 https://www.w3.org/TR/WCAG22/#target-size-minimum
 https://www.w3.org/TR/WCAG22/#consistent-help
 https://www.w3.org/TR/WCAG22/#redundant-entry
-https://www.w3.org/TR/WCAG22/#accessible-authentication
+https://www.w3.org/TR/WCAG22/#accessible-authentication-minimum
 https://www.w3.org/TR/WCAG22/#accessible-authentication-enhanced
 
 
@@ -18,7 +18,7 @@ SC 2.5.7 Dragging Movements (Level AA)
 SC 2.5.8 Target Size (Minimum) (Level AA)
 SC 3.2.6 Consistent Help (Level A)
 SC 3.3.7 Redundant Entry (Level A)
-SC 3.3.8 Accessible Authentication (Level AA)
+SC 3.3.8 Accessible Authentication (Minimum) (Level AA)
 SC 3.3.9 Accessible Authentication (Enhanced) (Level AAA)
 
 2.4.11
@@ -40,5 +40,5 @@ https://www.w3.org/WAI/WCAG22/Understanding/dragging-movements.html
 https://www.w3.org/WAI/WCAG22/Understanding/target-size-minimum.html
 https://www.w3.org/WAI/WCAG22/Understanding/consistent-help.html
 https://www.w3.org/WAI/WCAG22/Understanding/redundant-entry.html
-https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication.html
+https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication-minimum.html
 https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication-enhanced.html
