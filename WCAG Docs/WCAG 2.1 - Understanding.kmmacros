@@ -18,7 +18,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>https://www.w3.org/WAI/WCAG21/Understanding/non-text-content.html</string>
+						<string>https://www.w3.org/WAI/WCAG22/Understanding/non-text-content.html</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -53,7 +53,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>https://www.w3.org/WAI/WCAG21/Understanding/audio-only-and-video-only-prerecorded.html</string>
+						<string>https://www.w3.org/WAI/WCAG22/Understanding/audio-only-and-video-only-prerecorded.html</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -88,7 +88,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>https://www.w3.org/WAI/WCAG21/Understanding/captions-prerecorded.html</string>
+						<string>https://www.w3.org/WAI/WCAG22/Understanding/captions-prerecorded.html</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -123,7 +123,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>https://www.w3.org/WAI/WCAG21/Understanding/audio-description-or-media-alternative-prerecorded.html</string>
+						<string>https://www.w3.org/WAI/WCAG22/Understanding/audio-description-or-media-alternative-prerecorded.html</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -158,7 +158,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>https://www.w3.org/WAI/WCAG21/Understanding/captions-live.html</string>
+						<string>https://www.w3.org/WAI/WCAG22/Understanding/captions-live.html</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -193,7 +193,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>https://www.w3.org/WAI/WCAG21/Understanding/audio-description-prerecorded.html</string>
+						<string>https://www.w3.org/WAI/WCAG22/Understanding/audio-description-prerecorded.html</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -228,7 +228,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>https://www.w3.org/WAI/WCAG21/Understanding/sign-language-prerecorded.html</string>
+						<string>https://www.w3.org/WAI/WCAG22/Understanding/sign-language-prerecorded.html</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -263,7 +263,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>https://www.w3.org/WAI/WCAG21/Understanding/extended-audio-description-prerecorded.html</string>
+						<string>https://www.w3.org/WAI/WCAG22/Understanding/extended-audio-description-prerecorded.html</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -298,7 +298,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>https://www.w3.org/WAI/WCAG21/Understanding/media-alternative-prerecorded.html</string>
+						<string>https://www.w3.org/WAI/WCAG22/Understanding/media-alternative-prerecorded.html</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -333,7 +333,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>https://www.w3.org/WAI/WCAG21/Understanding/audio-only-live.html</string>
+						<string>https://www.w3.org/WAI/WCAG22/Understanding/audio-only-live.html</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -368,7 +368,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>https://www.w3.org/WAI/WCAG21/Understanding/info-and-relationships.html</string>
+						<string>https://www.w3.org/WAI/WCAG22/Understanding/info-and-relationships.html</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -403,7 +403,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>https://www.w3.org/WAI/WCAG21/Understanding/meaningful-sequence.html</string>
+						<string>https://www.w3.org/WAI/WCAG22/Understanding/meaningful-sequence.html</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -438,7 +438,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>https://www.w3.org/WAI/WCAG21/Understanding/sensory-characteristics.html</string>
+						<string>https://www.w3.org/WAI/WCAG22/Understanding/sensory-characteristics.html</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -578,7 +578,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>https://www.w3.org/WAI/WCAG21/Understanding/use-of-color.html</string>
+						<string>https://www.w3.org/WAI/WCAG22/Understanding/use-of-color.html</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -613,7 +613,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>https://www.w3.org/WAI/WCAG21/Understanding/audio-control.html</string>
+						<string>https://www.w3.org/WAI/WCAG22/Understanding/audio-control.html</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -648,7 +648,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html</string>
+						<string>https://www.w3.org/WAI/WCAG22/Understanding/contrast-minimum.html</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -683,7 +683,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>https://www.w3.org/WAI/WCAG21/Understanding/resize-text.html</string>
+						<string>https://www.w3.org/WAI/WCAG22/Understanding/resize-text.html</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -718,7 +718,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>https://www.w3.org/WAI/WCAG21/Understanding/images-of-text.html</string>
+						<string>https://www.w3.org/WAI/WCAG22/Understanding/images-of-text.html</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -753,7 +753,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>https://www.w3.org/WAI/WCAG21/Understanding/contrast-enhanced.html</string>
+						<string>https://www.w3.org/WAI/WCAG22/Understanding/contrast-enhanced.html</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -788,7 +788,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>https://www.w3.org/WAI/WCAG21/Understanding/low-or-no-background-audio.html</string>
+						<string>https://www.w3.org/WAI/WCAG22/Understanding/low-or-no-background-audio.html</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -823,7 +823,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>https://www.w3.org/WAI/WCAG21/Understanding/visual-presentation.html</string>
+						<string>https://www.w3.org/WAI/WCAG22/Understanding/visual-presentation.html</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -858,7 +858,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>https://www.w3.org/WAI/WCAG21/Understanding/images-of-text-no-exception.html</string>
+						<string>https://www.w3.org/WAI/WCAG22/Understanding/images-of-text-no-exception.html</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1033,7 +1033,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>https://www.w3.org/WAI/WCAG21/Understanding/keyboard.html</string>
+						<string>https://www.w3.org/WAI/WCAG22/Understanding/keyboard.html</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1068,7 +1068,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>https://www.w3.org/WAI/WCAG21/Understanding/no-keyboard-trap.html</string>
+						<string>https://www.w3.org/WAI/WCAG22/Understanding/no-keyboard-trap.html</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1103,7 +1103,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>https://www.w3.org/WAI/WCAG21/Understanding/keyboard-no-exception.html</string>
+						<string>https://www.w3.org/WAI/WCAG22/Understanding/keyboard-no-exception.html</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1173,7 +1173,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>https://www.w3.org/WAI/WCAG21/Understanding/timing-adjustable.html</string>
+						<string>https://www.w3.org/WAI/WCAG22/Understanding/timing-adjustable.html</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1208,7 +1208,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>https://www.w3.org/WAI/WCAG21/Understanding/pause-stop-hide.html</string>
+						<string>https://www.w3.org/WAI/WCAG22/Understanding/pause-stop-hide.html</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1243,7 +1243,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>https://www.w3.org/WAI/WCAG21/Understanding/no-timing.html</string>
+						<string>https://www.w3.org/WAI/WCAG22/Understanding/no-timing.html</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1278,7 +1278,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>https://www.w3.org/WAI/WCAG21/Understanding/interruptions.html</string>
+						<string>https://www.w3.org/WAI/WCAG22/Understanding/interruptions.html</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1313,7 +1313,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>https://www.w3.org/WAI/WCAG21/Understanding/re-authenticating.html</string>
+						<string>https://www.w3.org/WAI/WCAG22/Understanding/re-authenticating.html</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1383,7 +1383,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>https://www.w3.org/WAI/WCAG21/Understanding/three-flashes-or-below-threshold.html</string>
+						<string>https://www.w3.org/WAI/WCAG22/Understanding/three-flashes-or-below-threshold.html</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1418,7 +1418,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>https://www.w3.org/WAI/WCAG21/Understanding/three-flashes.html</string>
+						<string>https://www.w3.org/WAI/WCAG22/Understanding/three-flashes.html</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1488,7 +1488,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>https://www.w3.org/WAI/WCAG21/Understanding/bypass-blocks.html</string>
+						<string>https://www.w3.org/WAI/WCAG22/Understanding/bypass-blocks.html</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1523,7 +1523,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>https://www.w3.org/WAI/WCAG21/Understanding/page-titled.html</string>
+						<string>https://www.w3.org/WAI/WCAG22/Understanding/page-titled.html</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1558,7 +1558,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>https://www.w3.org/WAI/WCAG21/Understanding/focus-order.html</string>
+						<string>https://www.w3.org/WAI/WCAG22/Understanding/focus-order.html</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1593,7 +1593,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>https://www.w3.org/WAI/WCAG21/Understanding/link-purpose-in-context.html</string>
+						<string>https://www.w3.org/WAI/WCAG22/Understanding/link-purpose-in-context.html</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1628,7 +1628,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>https://www.w3.org/WAI/WCAG21/Understanding/multiple-ways.html</string>
+						<string>https://www.w3.org/WAI/WCAG22/Understanding/multiple-ways.html</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1663,7 +1663,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>https://www.w3.org/WAI/WCAG21/Understanding/headings-and-labels.html</string>
+						<string>https://www.w3.org/WAI/WCAG22/Understanding/headings-and-labels.html</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1698,7 +1698,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>https://www.w3.org/WAI/WCAG21/Understanding/focus-visible.html</string>
+						<string>https://www.w3.org/WAI/WCAG22/Understanding/focus-visible.html</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1733,7 +1733,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>https://www.w3.org/WAI/WCAG21/Understanding/location.html</string>
+						<string>https://www.w3.org/WAI/WCAG22/Understanding/location.html</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1768,7 +1768,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>https://www.w3.org/WAI/WCAG21/Understanding/link-purpose-link-only.html</string>
+						<string>https://www.w3.org/WAI/WCAG22/Understanding/link-purpose-link-only.html</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1803,7 +1803,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>https://www.w3.org/WAI/WCAG21/Understanding/section-headings.html</string>
+						<string>https://www.w3.org/WAI/WCAG22/Understanding/section-headings.html</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -2048,7 +2048,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>https://www.w3.org/WAI/WCAG21/Understanding/language-of-page.html</string>
+						<string>https://www.w3.org/WAI/WCAG22/Understanding/language-of-page.html</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -2083,7 +2083,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>https://www.w3.org/WAI/WCAG21/Understanding/language-of-parts.html</string>
+						<string>https://www.w3.org/WAI/WCAG22/Understanding/language-of-parts.html</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -2118,7 +2118,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>https://www.w3.org/WAI/WCAG21/Understanding/unusual-words.html</string>
+						<string>https://www.w3.org/WAI/WCAG22/Understanding/unusual-words.html</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -2153,7 +2153,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>https://www.w3.org/WAI/WCAG21/Understanding/abbreviations.html</string>
+						<string>https://www.w3.org/WAI/WCAG22/Understanding/abbreviations.html</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -2188,7 +2188,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>https://www.w3.org/WAI/WCAG21/Understanding/reading-level.html</string>
+						<string>https://www.w3.org/WAI/WCAG22/Understanding/reading-level.html</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -2223,7 +2223,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>https://www.w3.org/WAI/WCAG21/Understanding/pronunciation.html</string>
+						<string>https://www.w3.org/WAI/WCAG22/Understanding/pronunciation.html</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -2258,7 +2258,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>https://www.w3.org/WAI/WCAG21/Understanding/on-focus.html</string>
+						<string>https://www.w3.org/WAI/WCAG22/Understanding/on-focus.html</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -2293,7 +2293,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>https://www.w3.org/WAI/WCAG21/Understanding/on-input.html</string>
+						<string>https://www.w3.org/WAI/WCAG22/Understanding/on-input.html</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -2328,7 +2328,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>https://www.w3.org/WAI/WCAG21/Understanding/consistent-navigation.html</string>
+						<string>https://www.w3.org/WAI/WCAG22/Understanding/consistent-navigation.html</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -2363,7 +2363,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>https://www.w3.org/WAI/WCAG21/Understanding/consistent-identification.html</string>
+						<string>https://www.w3.org/WAI/WCAG22/Understanding/consistent-identification.html</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -2398,7 +2398,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>https://www.w3.org/WAI/WCAG21/Understanding/change-on-request.html</string>
+						<string>https://www.w3.org/WAI/WCAG22/Understanding/change-on-request.html</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -2433,7 +2433,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>https://www.w3.org/WAI/WCAG21/Understanding/error-identification.html</string>
+						<string>https://www.w3.org/WAI/WCAG22/Understanding/error-identification.html</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -2468,7 +2468,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>https://www.w3.org/WAI/WCAG21/Understanding/labels-or-instructions.html</string>
+						<string>https://www.w3.org/WAI/WCAG22/Understanding/labels-or-instructions.html</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -2503,7 +2503,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>https://www.w3.org/WAI/WCAG21/Understanding/error-suggestion.html</string>
+						<string>https://www.w3.org/WAI/WCAG22/Understanding/error-suggestion.html</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -2538,7 +2538,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>https://www.w3.org/WAI/WCAG21/Understanding/error-prevention-legal-financial-data.html</string>
+						<string>https://www.w3.org/WAI/WCAG22/Understanding/error-prevention-legal-financial-data.html</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -2573,7 +2573,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>https://www.w3.org/WAI/WCAG21/Understanding/help.html</string>
+						<string>https://www.w3.org/WAI/WCAG22/Understanding/help.html</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -2608,7 +2608,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>https://www.w3.org/WAI/WCAG21/Understanding/error-prevention-all.html</string>
+						<string>https://www.w3.org/WAI/WCAG22/Understanding/error-prevention-all.html</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -2643,7 +2643,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>https://www.w3.org/WAI/WCAG21/Understanding/parsing.html</string>
+						<string>https://www.w3.org/WAI/WCAG22/Understanding/parsing.html</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -2678,7 +2678,7 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>https://www.w3.org/WAI/WCAG21/Understanding/name-role-value.html</string>
+						<string>https://www.w3.org/WAI/WCAG22/Understanding/name-role-value.html</string>
 					</dict>
 				</array>
 				<key>Name</key>

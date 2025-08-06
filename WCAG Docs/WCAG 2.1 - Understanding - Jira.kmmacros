@@ -18,11 +18,11 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[Understanding SC 1.1.1 Non-text Content|https://www.w3.org/WAI/WCAG21/Understanding/non-text-content.html]</string>
+						<string>[Understanding SC 1.1.1 Non-text Content|https://www.w3.org/WAI/WCAG22/Understanding/non-text-content.html]</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>1.1.1 Non-text Content - Understanding (Markdown link)</string>
+				<string>1.1.1 Non-text Content - Understanding (Jira link)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -53,11 +53,11 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[Understanding SC 1.2.1 Audio-only and Video-only (Prerecorded)|https://www.w3.org/WAI/WCAG21/Understanding/audio-only-and-video-only-prerecorded.html]</string>
+						<string>[Understanding SC 1.2.1 Audio-only and Video-only (Prerecorded)|https://www.w3.org/WAI/WCAG22/Understanding/audio-only-and-video-only-prerecorded.html]</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>1.2.1 Audio-only and Video-only (Prerecorded) - Understanding (Markdown link)</string>
+				<string>1.2.1 Audio-only and Video-only (Prerecorded) - Understanding (Jira link)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -88,11 +88,11 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[Understanding SC 1.2.2 Captions (Prerecorded)|https://www.w3.org/WAI/WCAG21/Understanding/captions-prerecorded.html]</string>
+						<string>[Understanding SC 1.2.2 Captions (Prerecorded)|https://www.w3.org/WAI/WCAG22/Understanding/captions-prerecorded.html]</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>1.2.2 Captions (Prerecorded) - Understanding (Markdown link)</string>
+				<string>1.2.2 Captions (Prerecorded) - Understanding (Jira link)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -123,11 +123,11 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[Understanding SC 1.2.3 Audio Description or Media Alternative (Prerecorded)|https://www.w3.org/WAI/WCAG21/Understanding/audio-description-or-media-alternative-prerecorded.html]</string>
+						<string>[Understanding SC 1.2.3 Audio Description or Media Alternative (Prerecorded)|https://www.w3.org/WAI/WCAG22/Understanding/audio-description-or-media-alternative-prerecorded.html]</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>1.2.3 Audio Description or Media Alternative (Prerecorded) - Understanding (Markdown link)</string>
+				<string>1.2.3 Audio Description or Media Alternative (Prerecorded) - Understanding (Jira link)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -158,11 +158,11 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[Understanding SC 1.2.4 Captions (Live)|https://www.w3.org/WAI/WCAG21/Understanding/captions-live.html]</string>
+						<string>[Understanding SC 1.2.4 Captions (Live)|https://www.w3.org/WAI/WCAG22/Understanding/captions-live.html]</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>1.2.4 Captions (Live) - Understanding (Markdown link)</string>
+				<string>1.2.4 Captions (Live) - Understanding (Jira link)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -193,11 +193,11 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[Understanding SC 1.2.5 Audio Description (Prerecorded)|https://www.w3.org/WAI/WCAG21/Understanding/audio-description-prerecorded.html]</string>
+						<string>[Understanding SC 1.2.5 Audio Description (Prerecorded)|https://www.w3.org/WAI/WCAG22/Understanding/audio-description-prerecorded.html]</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>1.2.5 Audio Description (Prerecorded) - Understanding (Markdown link)</string>
+				<string>1.2.5 Audio Description (Prerecorded) - Understanding (Jira link)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -228,11 +228,11 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[Understanding SC 1.2.6 Sign Language (Prerecorded)|https://www.w3.org/WAI/WCAG21/Understanding/sign-language-prerecorded.html]</string>
+						<string>[Understanding SC 1.2.6 Sign Language (Prerecorded)|https://www.w3.org/WAI/WCAG22/Understanding/sign-language-prerecorded.html]</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>1.2.6 Sign Language (Prerecorded) - Understanding (Markdown link)</string>
+				<string>1.2.6 Sign Language (Prerecorded) - Understanding (Jira link)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -263,11 +263,11 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[Understanding SC 1.2.7 Extended Audio Description (Prerecorded)|https://www.w3.org/WAI/WCAG21/Understanding/extended-audio-description-prerecorded.html]</string>
+						<string>[Understanding SC 1.2.7 Extended Audio Description (Prerecorded)|https://www.w3.org/WAI/WCAG22/Understanding/extended-audio-description-prerecorded.html]</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>1.2.7 Extended Audio Description (Prerecorded) - Understanding (Markdown link)</string>
+				<string>1.2.7 Extended Audio Description (Prerecorded) - Understanding (Jira link)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -298,11 +298,11 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[Understanding SC 1.2.8 Media Alternative (Prerecorded)|https://www.w3.org/WAI/WCAG21/Understanding/media-alternative-prerecorded.html]</string>
+						<string>[Understanding SC 1.2.8 Media Alternative (Prerecorded)|https://www.w3.org/WAI/WCAG22/Understanding/media-alternative-prerecorded.html]</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>1.2.8 Media Alternative (Prerecorded) - Understanding (Markdown link)</string>
+				<string>1.2.8 Media Alternative (Prerecorded) - Understanding (Jira link)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -333,11 +333,11 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[Understanding SC 1.2.9 Audio-only (Live)|https://www.w3.org/WAI/WCAG21/Understanding/audio-only-live.html]</string>
+						<string>[Understanding SC 1.2.9 Audio-only (Live)|https://www.w3.org/WAI/WCAG22/Understanding/audio-only-live.html]</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>1.2.9 Audio-only (Live) - Understanding (Markdown link)</string>
+				<string>1.2.9 Audio-only (Live) - Understanding (Jira link)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -368,11 +368,11 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[Understanding SC 1.3.1 Info and Relationships|https://www.w3.org/WAI/WCAG21/Understanding/info-and-relationships.html]</string>
+						<string>[Understanding SC 1.3.1 Info and Relationships|https://www.w3.org/WAI/WCAG22/Understanding/info-and-relationships.html]</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>1.3.1 Info and Relationships - Understanding (Markdown link)</string>
+				<string>1.3.1 Info and Relationships - Understanding (Jira link)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -403,11 +403,11 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[Understanding SC 1.3.2 Meaningful Sequence|https://www.w3.org/WAI/WCAG21/Understanding/meaningful-sequence.html]</string>
+						<string>[Understanding SC 1.3.2 Meaningful Sequence|https://www.w3.org/WAI/WCAG22/Understanding/meaningful-sequence.html]</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>1.3.2 Meaningful Sequence - Understanding (Markdown link)</string>
+				<string>1.3.2 Meaningful Sequence - Understanding (Jira link)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -438,11 +438,11 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[Understanding SC 1.3.3 Sensory Characteristics|https://www.w3.org/WAI/WCAG21/Understanding/sensory-characteristics.html]</string>
+						<string>[Understanding SC 1.3.3 Sensory Characteristics|https://www.w3.org/WAI/WCAG22/Understanding/sensory-characteristics.html]</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>1.3.3 Sensory Characteristics - Understanding (Markdown link)</string>
+				<string>1.3.3 Sensory Characteristics - Understanding (Jira link)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -477,7 +477,7 @@
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>1.3.4 Orientation - Understanding (Markdown link)</string>
+				<string>1.3.4 Orientation - Understanding (Jira link)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -512,7 +512,7 @@
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>1.3.5 Identify Input Purpose - Understanding (Markdown link)</string>
+				<string>1.3.5 Identify Input Purpose - Understanding (Jira link)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -547,7 +547,7 @@
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>1.3.6 Identify Purpose - Understanding (Markdown link)</string>
+				<string>1.3.6 Identify Purpose - Understanding (Jira link)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -578,11 +578,11 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[Understanding SC 1.4.1 Use of Color|https://www.w3.org/WAI/WCAG21/Understanding/use-of-color.html]</string>
+						<string>[Understanding SC 1.4.1 Use of Color|https://www.w3.org/WAI/WCAG22/Understanding/use-of-color.html]</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>1.4.1 Use of Color - Understanding (Markdown link)</string>
+				<string>1.4.1 Use of Color - Understanding (Jira link)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -613,11 +613,11 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[Understanding SC 1.4.2 Audio Control|https://www.w3.org/WAI/WCAG21/Understanding/audio-control.html]</string>
+						<string>[Understanding SC 1.4.2 Audio Control|https://www.w3.org/WAI/WCAG22/Understanding/audio-control.html]</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>1.4.2 Audio Control - Understanding (Markdown link)</string>
+				<string>1.4.2 Audio Control - Understanding (Jira link)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -648,11 +648,11 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[Understanding SC 1.4.3 Contrast (Minimum)|https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html]</string>
+						<string>[Understanding SC 1.4.3 Contrast (Minimum)|https://www.w3.org/WAI/WCAG22/Understanding/contrast-minimum.html]</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>1.4.3 Contrast (Minimum) - Understanding (Markdown link)</string>
+				<string>1.4.3 Contrast (Minimum) - Understanding (Jira link)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -683,11 +683,11 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[Understanding SC 1.4.4 Resize Text|https://www.w3.org/WAI/WCAG21/Understanding/resize-text.html]</string>
+						<string>[Understanding SC 1.4.4 Resize Text|https://www.w3.org/WAI/WCAG22/Understanding/resize-text.html]</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>1.4.4 Resize Text - Understanding (Markdown link)</string>
+				<string>1.4.4 Resize Text - Understanding (Jira link)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -718,11 +718,11 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[Understanding SC 1.4.5 Images of Text|https://www.w3.org/WAI/WCAG21/Understanding/images-of-text.html]</string>
+						<string>[Understanding SC 1.4.5 Images of Text|https://www.w3.org/WAI/WCAG22/Understanding/images-of-text.html]</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>1.4.5 Images of Text - Understanding (Markdown link)</string>
+				<string>1.4.5 Images of Text - Understanding (Jira link)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -753,11 +753,11 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[Understanding SC 1.4.6 Contrast (Enhanced)|https://www.w3.org/WAI/WCAG21/Understanding/contrast-enhanced.html]</string>
+						<string>[Understanding SC 1.4.6 Contrast (Enhanced)|https://www.w3.org/WAI/WCAG22/Understanding/contrast-enhanced.html]</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>1.4.6 Contrast (Enhanced) - Understanding (Markdown link)</string>
+				<string>1.4.6 Contrast (Enhanced) - Understanding (Jira link)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -788,11 +788,11 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[Understanding SC 1.4.7 Low or No Background Audio|https://www.w3.org/WAI/WCAG21/Understanding/low-or-no-background-audio.html]</string>
+						<string>[Understanding SC 1.4.7 Low or No Background Audio|https://www.w3.org/WAI/WCAG22/Understanding/low-or-no-background-audio.html]</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>1.4.7 Low or No Background Audio - Understanding (Markdown link)</string>
+				<string>1.4.7 Low or No Background Audio - Understanding (Jira link)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -823,11 +823,11 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[Understanding SC 1.4.8 Visual Presentation|https://www.w3.org/WAI/WCAG21/Understanding/visual-presentation.html]</string>
+						<string>[Understanding SC 1.4.8 Visual Presentation|https://www.w3.org/WAI/WCAG22/Understanding/visual-presentation.html]</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>1.4.8 Visual Presentation - Understanding (Markdown link)</string>
+				<string>1.4.8 Visual Presentation - Understanding (Jira link)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -858,11 +858,11 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[Understanding SC 1.4.9 Images of Text (No Exception)|https://www.w3.org/WAI/WCAG21/Understanding/images-of-text-no-exception.html]</string>
+						<string>[Understanding SC 1.4.9 Images of Text (No Exception)|https://www.w3.org/WAI/WCAG22/Understanding/images-of-text-no-exception.html]</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>1.4.9 Images of Text (No Exception) - Understanding (Markdown link)</string>
+				<string>1.4.9 Images of Text (No Exception) - Understanding (Jira link)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -897,7 +897,7 @@
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>1.4.10 Reflow - Understanding (Markdown link)</string>
+				<string>1.4.10 Reflow - Understanding (Jira link)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -932,7 +932,7 @@
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>1.4.11 Non-text Contrast - Understanding (Markdown link)</string>
+				<string>1.4.11 Non-text Contrast - Understanding (Jira link)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -967,7 +967,7 @@
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>1.4.12 Text Spacing - Understanding (Markdown link)</string>
+				<string>1.4.12 Text Spacing - Understanding (Jira link)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -1002,7 +1002,7 @@
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>1.4.13 Content on Hover or Focus - Understanding (Markdown link)</string>
+				<string>1.4.13 Content on Hover or Focus - Understanding (Jira link)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -1033,11 +1033,11 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[Understanding SC 2.1.1 Keyboard|https://www.w3.org/WAI/WCAG21/Understanding/keyboard.html]</string>
+						<string>[Understanding SC 2.1.1 Keyboard|https://www.w3.org/WAI/WCAG22/Understanding/keyboard.html]</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>2.1.1 Keyboard - Understanding (Markdown link)</string>
+				<string>2.1.1 Keyboard - Understanding (Jira link)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -1068,11 +1068,11 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[Understanding SC 2.1.2 No Keyboard Trap|https://www.w3.org/WAI/WCAG21/Understanding/no-keyboard-trap.html]</string>
+						<string>[Understanding SC 2.1.2 No Keyboard Trap|https://www.w3.org/WAI/WCAG22/Understanding/no-keyboard-trap.html]</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>2.1.2 No Keyboard Trap - Understanding (Markdown link)</string>
+				<string>2.1.2 No Keyboard Trap - Understanding (Jira link)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -1103,11 +1103,11 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[Understanding SC 2.1.3 Keyboard (No Exception)|https://www.w3.org/WAI/WCAG21/Understanding/keyboard-no-exception.html]</string>
+						<string>[Understanding SC 2.1.3 Keyboard (No Exception)|https://www.w3.org/WAI/WCAG22/Understanding/keyboard-no-exception.html]</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>2.1.3 Keyboard (No Exception) - Understanding (Markdown link)</string>
+				<string>2.1.3 Keyboard (No Exception) - Understanding (Jira link)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -1142,7 +1142,7 @@
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>2.1.4 Character Key Shortcuts - Understanding (Markdown link)</string>
+				<string>2.1.4 Character Key Shortcuts - Understanding (Jira link)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -1173,11 +1173,11 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[Understanding SC 2.2.1 Timing Adjustable|https://www.w3.org/WAI/WCAG21/Understanding/timing-adjustable.html]</string>
+						<string>[Understanding SC 2.2.1 Timing Adjustable|https://www.w3.org/WAI/WCAG22/Understanding/timing-adjustable.html]</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>2.2.1 Timing Adjustable - Understanding (Markdown link)</string>
+				<string>2.2.1 Timing Adjustable - Understanding (Jira link)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -1208,11 +1208,11 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[Understanding SC 2.2.2 Pause, Stop, Hide|https://www.w3.org/WAI/WCAG21/Understanding/pause-stop-hide.html]</string>
+						<string>[Understanding SC 2.2.2 Pause, Stop, Hide|https://www.w3.org/WAI/WCAG22/Understanding/pause-stop-hide.html]</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>2.2.2 Pause, Stop, Hide - Understanding (Markdown link)</string>
+				<string>2.2.2 Pause, Stop, Hide - Understanding (Jira link)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -1243,11 +1243,11 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[Understanding SC 2.2.3 No Timing|https://www.w3.org/WAI/WCAG21/Understanding/no-timing.html]</string>
+						<string>[Understanding SC 2.2.3 No Timing|https://www.w3.org/WAI/WCAG22/Understanding/no-timing.html]</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>2.2.3 No Timing - Understanding (Markdown link)</string>
+				<string>2.2.3 No Timing - Understanding (Jira link)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -1278,11 +1278,11 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[Understanding SC 2.2.4 Interruptions|https://www.w3.org/WAI/WCAG21/Understanding/interruptions.html]</string>
+						<string>[Understanding SC 2.2.4 Interruptions|https://www.w3.org/WAI/WCAG22/Understanding/interruptions.html]</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>2.2.4 Interruptions - Understanding (Markdown link)</string>
+				<string>2.2.4 Interruptions - Understanding (Jira link)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -1313,11 +1313,11 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[Understanding SC 2.2.5 Re-authenticating|https://www.w3.org/WAI/WCAG21/Understanding/re-authenticating.html]</string>
+						<string>[Understanding SC 2.2.5 Re-authenticating|https://www.w3.org/WAI/WCAG22/Understanding/re-authenticating.html]</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>2.2.5 Re-authenticating - Understanding (Markdown link)</string>
+				<string>2.2.5 Re-authenticating - Understanding (Jira link)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -1352,7 +1352,7 @@
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>2.2.6 Timeouts - Understanding (Markdown link)</string>
+				<string>2.2.6 Timeouts - Understanding (Jira link)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -1383,11 +1383,11 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[Understanding SC 2.3.1 Three Flashes or Below Threshold|https://www.w3.org/WAI/WCAG21/Understanding/three-flashes-or-below-threshold.html]</string>
+						<string>[Understanding SC 2.3.1 Three Flashes or Below Threshold|https://www.w3.org/WAI/WCAG22/Understanding/three-flashes-or-below-threshold.html]</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>2.3.1 Three Flashes or Below Threshold - Understanding (Markdown link)</string>
+				<string>2.3.1 Three Flashes or Below Threshold - Understanding (Jira link)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -1418,11 +1418,11 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[Understanding SC 2.3.2 Three Flashes|https://www.w3.org/WAI/WCAG21/Understanding/three-flashes.html]</string>
+						<string>[Understanding SC 2.3.2 Three Flashes|https://www.w3.org/WAI/WCAG22/Understanding/three-flashes.html]</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>2.3.2 Three Flashes - Understanding (Markdown link)</string>
+				<string>2.3.2 Three Flashes - Understanding (Jira link)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -1457,7 +1457,7 @@
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>2.3.3 Animation from Interactions - Understanding (Markdown link)</string>
+				<string>2.3.3 Animation from Interactions - Understanding (Jira link)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -1488,11 +1488,11 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[Understanding SC 2.4.1 Bypass Blocks|https://www.w3.org/WAI/WCAG21/Understanding/bypass-blocks.html]</string>
+						<string>[Understanding SC 2.4.1 Bypass Blocks|https://www.w3.org/WAI/WCAG22/Understanding/bypass-blocks.html]</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>2.4.1 Bypass Blocks - Understanding (Markdown link)</string>
+				<string>2.4.1 Bypass Blocks - Understanding (Jira link)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -1523,11 +1523,11 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[Understanding SC 2.4.2 Page Titled|https://www.w3.org/WAI/WCAG21/Understanding/page-titled.html]</string>
+						<string>[Understanding SC 2.4.2 Page Titled|https://www.w3.org/WAI/WCAG22/Understanding/page-titled.html]</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>2.4.2 Page Titled - Understanding (Markdown link)</string>
+				<string>2.4.2 Page Titled - Understanding (Jira link)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -1558,11 +1558,11 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[Understanding SC 2.4.3 Focus Order|https://www.w3.org/WAI/WCAG21/Understanding/focus-order.html]</string>
+						<string>[Understanding SC 2.4.3 Focus Order|https://www.w3.org/WAI/WCAG22/Understanding/focus-order.html]</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>2.4.3 Focus Order - Understanding (Markdown link)</string>
+				<string>2.4.3 Focus Order - Understanding (Jira link)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -1593,11 +1593,11 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[Understanding SC 2.4.4 Link Purpose (In Context)|https://www.w3.org/WAI/WCAG21/Understanding/link-purpose-in-context.html]</string>
+						<string>[Understanding SC 2.4.4 Link Purpose (In Context)|https://www.w3.org/WAI/WCAG22/Understanding/link-purpose-in-context.html]</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>2.4.4 Link Purpose (In Context) - Understanding (Markdown link)</string>
+				<string>2.4.4 Link Purpose (In Context) - Understanding (Jira link)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -1628,11 +1628,11 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[Understanding SC 2.4.5 Multiple Ways|https://www.w3.org/WAI/WCAG21/Understanding/multiple-ways.html]</string>
+						<string>[Understanding SC 2.4.5 Multiple Ways|https://www.w3.org/WAI/WCAG22/Understanding/multiple-ways.html]</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>2.4.5 Multiple Ways - Understanding (Markdown link)</string>
+				<string>2.4.5 Multiple Ways - Understanding (Jira link)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -1663,11 +1663,11 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[Understanding SC 2.4.6 Headings and Labels|https://www.w3.org/WAI/WCAG21/Understanding/headings-and-labels.html]</string>
+						<string>[Understanding SC 2.4.6 Headings and Labels|https://www.w3.org/WAI/WCAG22/Understanding/headings-and-labels.html]</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>2.4.6 Headings and Labels - Understanding (Markdown link)</string>
+				<string>2.4.6 Headings and Labels - Understanding (Jira link)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -1698,11 +1698,11 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[Understanding SC 2.4.7 Focus Visible|https://www.w3.org/WAI/WCAG21/Understanding/focus-visible.html]</string>
+						<string>[Understanding SC 2.4.7 Focus Visible|https://www.w3.org/WAI/WCAG22/Understanding/focus-visible.html]</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>2.4.7 Focus Visible - Understanding (Markdown link)</string>
+				<string>2.4.7 Focus Visible - Understanding (Jira link)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -1733,11 +1733,11 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[Understanding SC 2.4.8 Location|https://www.w3.org/WAI/WCAG21/Understanding/location.html]</string>
+						<string>[Understanding SC 2.4.8 Location|https://www.w3.org/WAI/WCAG22/Understanding/location.html]</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>2.4.8 Location - Understanding (Markdown link)</string>
+				<string>2.4.8 Location - Understanding (Jira link)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -1768,11 +1768,11 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[Understanding SC 2.4.9 Link Purpose (Link Only)|https://www.w3.org/WAI/WCAG21/Understanding/link-purpose-link-only.html]</string>
+						<string>[Understanding SC 2.4.9 Link Purpose (Link Only)|https://www.w3.org/WAI/WCAG22/Understanding/link-purpose-link-only.html]</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>2.4.9 Link Purpose (Link Only) - Understanding (Markdown link)</string>
+				<string>2.4.9 Link Purpose (Link Only) - Understanding (Jira link)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -1803,11 +1803,11 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[Understanding SC 2.4.10 Section Headings|https://www.w3.org/WAI/WCAG21/Understanding/section-headings.html]</string>
+						<string>[Understanding SC 2.4.10 Section Headings|https://www.w3.org/WAI/WCAG22/Understanding/section-headings.html]</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>2.4.10 Section Headings - Understanding (Markdown link)</string>
+				<string>2.4.10 Section Headings - Understanding (Jira link)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -1842,7 +1842,7 @@
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>2.5.1 Pointer Gestures - Understanding (Markdown link)</string>
+				<string>2.5.1 Pointer Gestures - Understanding (Jira link)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -1877,7 +1877,7 @@
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>2.5.2 Pointer Cancellation - Understanding (Markdown link)</string>
+				<string>2.5.2 Pointer Cancellation - Understanding (Jira link)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -1912,7 +1912,7 @@
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>2.5.3 Label in Name - Understanding (Markdown link)</string>
+				<string>2.5.3 Label in Name - Understanding (Jira link)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -1947,7 +1947,7 @@
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>2.5.4 Motion Actuation - Understanding (Markdown link)</string>
+				<string>2.5.4 Motion Actuation - Understanding (Jira link)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -1982,7 +1982,7 @@
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>2.5.5 Target Size - Understanding (Markdown link)</string>
+				<string>2.5.5 Target Size - Understanding (Jira link)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -2017,7 +2017,7 @@
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>2.5.6 Concurrent Input Mechanisms - Understanding (Markdown link)</string>
+				<string>2.5.6 Concurrent Input Mechanisms - Understanding (Jira link)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -2048,11 +2048,11 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[Understanding SC 3.1.1 Language of Page|https://www.w3.org/WAI/WCAG21/Understanding/language-of-page.html]</string>
+						<string>[Understanding SC 3.1.1 Language of Page|https://www.w3.org/WAI/WCAG22/Understanding/language-of-page.html]</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>3.1.1 Language of Page - Understanding (Markdown link)</string>
+				<string>3.1.1 Language of Page - Understanding (Jira link)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -2083,11 +2083,11 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[Understanding SC 3.1.2 Language of Parts|https://www.w3.org/WAI/WCAG21/Understanding/language-of-parts.html]</string>
+						<string>[Understanding SC 3.1.2 Language of Parts|https://www.w3.org/WAI/WCAG22/Understanding/language-of-parts.html]</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>3.1.2 Language of Parts - Understanding (Markdown link)</string>
+				<string>3.1.2 Language of Parts - Understanding (Jira link)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -2118,11 +2118,11 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[Understanding SC 3.1.3 Unusual Words|https://www.w3.org/WAI/WCAG21/Understanding/unusual-words.html]</string>
+						<string>[Understanding SC 3.1.3 Unusual Words|https://www.w3.org/WAI/WCAG22/Understanding/unusual-words.html]</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>3.1.3 Unusual Words - Understanding (Markdown link)</string>
+				<string>3.1.3 Unusual Words - Understanding (Jira link)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -2153,11 +2153,11 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[Understanding SC 3.1.4 Abbreviations|https://www.w3.org/WAI/WCAG21/Understanding/abbreviations.html]</string>
+						<string>[Understanding SC 3.1.4 Abbreviations|https://www.w3.org/WAI/WCAG22/Understanding/abbreviations.html]</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>3.1.4 Abbreviations - Understanding (Markdown link)</string>
+				<string>3.1.4 Abbreviations - Understanding (Jira link)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -2188,11 +2188,11 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[Understanding SC 3.1.5 Reading Level|https://www.w3.org/WAI/WCAG21/Understanding/reading-level.html]</string>
+						<string>[Understanding SC 3.1.5 Reading Level|https://www.w3.org/WAI/WCAG22/Understanding/reading-level.html]</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>3.1.5 Reading Level - Understanding (Markdown link)</string>
+				<string>3.1.5 Reading Level - Understanding (Jira link)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -2223,11 +2223,11 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[Understanding SC 3.1.6 Pronunciation|https://www.w3.org/WAI/WCAG21/Understanding/pronunciation.html]</string>
+						<string>[Understanding SC 3.1.6 Pronunciation|https://www.w3.org/WAI/WCAG22/Understanding/pronunciation.html]</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>3.1.6 Pronunciation - Understanding (Markdown link)</string>
+				<string>3.1.6 Pronunciation - Understanding (Jira link)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -2258,11 +2258,11 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[Understanding SC 3.2.1 On Focus|https://www.w3.org/WAI/WCAG21/Understanding/on-focus.html]</string>
+						<string>[Understanding SC 3.2.1 On Focus|https://www.w3.org/WAI/WCAG22/Understanding/on-focus.html]</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>3.2.1 On Focus - Understanding (Markdown link)</string>
+				<string>3.2.1 On Focus - Understanding (Jira link)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -2293,11 +2293,11 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[Understanding SC 3.2.2 On Input|https://www.w3.org/WAI/WCAG21/Understanding/on-input.html]</string>
+						<string>[Understanding SC 3.2.2 On Input|https://www.w3.org/WAI/WCAG22/Understanding/on-input.html]</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>3.2.2 On Input - Understanding (Markdown link)</string>
+				<string>3.2.2 On Input - Understanding (Jira link)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -2328,11 +2328,11 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[Understanding SC 3.2.3 Consistent Navigation|https://www.w3.org/WAI/WCAG21/Understanding/consistent-navigation.html]</string>
+						<string>[Understanding SC 3.2.3 Consistent Navigation|https://www.w3.org/WAI/WCAG22/Understanding/consistent-navigation.html]</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>3.2.3 Consistent Navigation - Understanding (Markdown link)</string>
+				<string>3.2.3 Consistent Navigation - Understanding (Jira link)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -2363,11 +2363,11 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[Understanding SC 3.2.4 Consistent Identification|https://www.w3.org/WAI/WCAG21/Understanding/consistent-identification.html]</string>
+						<string>[Understanding SC 3.2.4 Consistent Identification|https://www.w3.org/WAI/WCAG22/Understanding/consistent-identification.html]</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>3.2.4 Consistent Identification - Understanding (Markdown link)</string>
+				<string>3.2.4 Consistent Identification - Understanding (Jira link)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -2398,11 +2398,11 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[Understanding SC 3.2.5 Change on Request|https://www.w3.org/WAI/WCAG21/Understanding/change-on-request.html]</string>
+						<string>[Understanding SC 3.2.5 Change on Request|https://www.w3.org/WAI/WCAG22/Understanding/change-on-request.html]</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>3.2.5 Change on Request - Understanding (Markdown link)</string>
+				<string>3.2.5 Change on Request - Understanding (Jira link)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -2433,11 +2433,11 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[Understanding SC 3.3.1 Error Identification|https://www.w3.org/WAI/WCAG21/Understanding/error-identification.html]</string>
+						<string>[Understanding SC 3.3.1 Error Identification|https://www.w3.org/WAI/WCAG22/Understanding/error-identification.html]</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>3.3.1 Error Identification - Understanding (Markdown link)</string>
+				<string>3.3.1 Error Identification - Understanding (Jira link)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -2468,11 +2468,11 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[Understanding SC 3.3.2 Labels or Instructions|https://www.w3.org/WAI/WCAG21/Understanding/labels-or-instructions.html]</string>
+						<string>[Understanding SC 3.3.2 Labels or Instructions|https://www.w3.org/WAI/WCAG22/Understanding/labels-or-instructions.html]</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>3.3.2 Labels or Instructions - Understanding (Markdown link)</string>
+				<string>3.3.2 Labels or Instructions - Understanding (Jira link)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -2503,11 +2503,11 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[Understanding SC 3.3.3 Error Suggestion|https://www.w3.org/WAI/WCAG21/Understanding/error-suggestion.html]</string>
+						<string>[Understanding SC 3.3.3 Error Suggestion|https://www.w3.org/WAI/WCAG22/Understanding/error-suggestion.html]</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>3.3.3 Error Suggestion - Understanding (Markdown link)</string>
+				<string>3.3.3 Error Suggestion - Understanding (Jira link)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -2538,11 +2538,11 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[Understanding SC 3.3.4 Error Prevention (Legal, Financial, Data)|https://www.w3.org/WAI/WCAG21/Understanding/error-prevention-legal-financial-data.html]</string>
+						<string>[Understanding SC 3.3.4 Error Prevention (Legal, Financial, Data)|https://www.w3.org/WAI/WCAG22/Understanding/error-prevention-legal-financial-data.html]</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>3.3.4 Error Prevention (Legal, Financial, Data) - Understanding (Markdown link)</string>
+				<string>3.3.4 Error Prevention (Legal, Financial, Data) - Understanding (Jira link)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -2573,11 +2573,11 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[Understanding SC 3.3.5 Help|https://www.w3.org/WAI/WCAG21/Understanding/help.html]</string>
+						<string>[Understanding SC 3.3.5 Help|https://www.w3.org/WAI/WCAG22/Understanding/help.html]</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>3.3.5 Help - Understanding (Markdown link)</string>
+				<string>3.3.5 Help - Understanding (Jira link)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -2608,11 +2608,11 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[Understanding SC 3.3.6 Error Prevention (All)|https://www.w3.org/WAI/WCAG21/Understanding/error-prevention-all.html]</string>
+						<string>[Understanding SC 3.3.6 Error Prevention (All)|https://www.w3.org/WAI/WCAG22/Understanding/error-prevention-all.html]</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>3.3.6 Error Prevention (All) - Understanding (Markdown link)</string>
+				<string>3.3.6 Error Prevention (All) - Understanding (Jira link)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -2643,11 +2643,11 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[Understanding SC 4.1.1 Parsing|https://www.w3.org/WAI/WCAG21/Understanding/parsing.html]</string>
+						<string>[Understanding SC 4.1.1 Parsing|https://www.w3.org/WAI/WCAG22/Understanding/parsing.html]</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>4.1.1 Parsing - Understanding (Markdown link)</string>
+				<string>4.1.1 Parsing - Understanding (Jira link)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -2678,11 +2678,11 @@
 						<key>MacroActionType</key>
 						<string>InsertText</string>
 						<key>Text</key>
-						<string>[Understanding SC 4.1.2 Name, Role, Value|https://www.w3.org/WAI/WCAG21/Understanding/name-role-value.html]</string>
+						<string>[Understanding SC 4.1.2 Name, Role, Value|https://www.w3.org/WAI/WCAG22/Understanding/name-role-value.html]</string>
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>4.1.2 Name, Role, Value - Understanding (Markdown link)</string>
+				<string>4.1.2 Name, Role, Value - Understanding (Jira link)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -2717,7 +2717,7 @@
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>4.1.3 Status Messages - Understanding (Markdown link)</string>
+				<string>4.1.3 Status Messages - Understanding (Jira link)</string>
 				<key>Triggers</key>
 				<array>
 					<dict>

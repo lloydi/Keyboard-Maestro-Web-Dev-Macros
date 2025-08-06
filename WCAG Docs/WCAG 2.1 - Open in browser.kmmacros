@@ -20,7 +20,7 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG21/#non-text-content</string>
+						<string>https://www.w3.org/TR/WCAG22/#non-text-content</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -57,7 +57,7 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG21/#audio-only-and-video-only-prerecorded</string>
+						<string>https://www.w3.org/TR/WCAG22/#audio-only-and-video-only-prerecorded</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -94,7 +94,7 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG21/#captions-prerecorded</string>
+						<string>https://www.w3.org/TR/WCAG22/#captions-prerecorded</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -131,7 +131,7 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG21/#audio-description-or-media-alternative-prerecorded</string>
+						<string>https://www.w3.org/TR/WCAG22/#audio-description-or-media-alternative-prerecorded</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -168,7 +168,7 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG21/#captions-live</string>
+						<string>https://www.w3.org/TR/WCAG22/#captions-live</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -205,7 +205,7 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG21/#audio-description-prerecorded</string>
+						<string>https://www.w3.org/TR/WCAG22/#audio-description-prerecorded</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -242,7 +242,7 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG21/#sign-language-prerecorded</string>
+						<string>https://www.w3.org/TR/WCAG22/#sign-language-prerecorded</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -279,7 +279,7 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG21/#extended-audio-description-prerecorded</string>
+						<string>https://www.w3.org/TR/WCAG22/#extended-audio-description-prerecorded</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -316,7 +316,7 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG21/#media-alternative-prerecorded</string>
+						<string>https://www.w3.org/TR/WCAG22/#media-alternative-prerecorded</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -353,7 +353,7 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG21/#audio-only-live</string>
+						<string>https://www.w3.org/TR/WCAG22/#audio-only-live</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -390,7 +390,7 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG21/#info-and-relationships</string>
+						<string>https://www.w3.org/TR/WCAG22/#info-and-relationships</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -427,7 +427,7 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG21/#meaningful-sequence</string>
+						<string>https://www.w3.org/TR/WCAG22/#meaningful-sequence</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -464,7 +464,7 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG21/#sensory-characteristics</string>
+						<string>https://www.w3.org/TR/WCAG22/#sensory-characteristics</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -501,7 +501,7 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG21/#orientation</string>
+						<string>https://www.w3.org/TR/WCAG22/#orientation</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -538,7 +538,7 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG21/#identify-input-purpose</string>
+						<string>https://www.w3.org/TR/WCAG22/#identify-input-purpose</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -575,7 +575,7 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG21/#identify-purpose</string>
+						<string>https://www.w3.org/TR/WCAG22/#identify-purpose</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -612,7 +612,7 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG21/#use-of-color</string>
+						<string>https://www.w3.org/TR/WCAG22/#use-of-color</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -649,7 +649,7 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG21/#audio-control</string>
+						<string>https://www.w3.org/TR/WCAG22/#audio-control</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -686,7 +686,7 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG21/#contrast-minimum</string>
+						<string>https://www.w3.org/TR/WCAG22/#contrast-minimum</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -723,7 +723,7 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG21/#resize-text</string>
+						<string>https://www.w3.org/TR/WCAG22/#resize-text</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -760,7 +760,7 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG21/#images-of-text</string>
+						<string>https://www.w3.org/TR/WCAG22/#images-of-text</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -797,7 +797,7 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG21/#contrast-enhanced</string>
+						<string>https://www.w3.org/TR/WCAG22/#contrast-enhanced</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -834,7 +834,7 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG21/#low-or-no-background-audio</string>
+						<string>https://www.w3.org/TR/WCAG22/#low-or-no-background-audio</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -871,7 +871,7 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG21/#visual-presentation</string>
+						<string>https://www.w3.org/TR/WCAG22/#visual-presentation</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -908,7 +908,7 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG21/#images-of-text-no-exception</string>
+						<string>https://www.w3.org/TR/WCAG22/#images-of-text-no-exception</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -945,7 +945,7 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG21/#reflow</string>
+						<string>https://www.w3.org/TR/WCAG22/#reflow</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -982,7 +982,7 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG21/#non-text-contrast</string>
+						<string>https://www.w3.org/TR/WCAG22/#non-text-contrast</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1019,7 +1019,7 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG21/#text-spacing</string>
+						<string>https://www.w3.org/TR/WCAG22/#text-spacing</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1056,7 +1056,7 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG21/#content-on-hover-or-focus</string>
+						<string>https://www.w3.org/TR/WCAG22/#content-on-hover-or-focus</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1093,7 +1093,7 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG21/#keyboard</string>
+						<string>https://www.w3.org/TR/WCAG22/#keyboard</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1130,7 +1130,7 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG21/#no-keyboard-trap</string>
+						<string>https://www.w3.org/TR/WCAG22/#no-keyboard-trap</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1167,7 +1167,7 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG21/#keyboard-no-exception</string>
+						<string>https://www.w3.org/TR/WCAG22/#keyboard-no-exception</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1204,7 +1204,7 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG21/#character-key-shortcuts</string>
+						<string>https://www.w3.org/TR/WCAG22/#character-key-shortcuts</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1241,7 +1241,7 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG21/#timing-adjustable</string>
+						<string>https://www.w3.org/TR/WCAG22/#timing-adjustable</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1278,7 +1278,7 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG21/#pause-stop-hide</string>
+						<string>https://www.w3.org/TR/WCAG22/#pause-stop-hide</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1315,7 +1315,7 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG21/#no-timing</string>
+						<string>https://www.w3.org/TR/WCAG22/#no-timing</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1352,7 +1352,7 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG21/#interruptions</string>
+						<string>https://www.w3.org/TR/WCAG22/#interruptions</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1389,7 +1389,7 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG21/#re-authenticating</string>
+						<string>https://www.w3.org/TR/WCAG22/#re-authenticating</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1426,7 +1426,7 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG21/#timeouts</string>
+						<string>https://www.w3.org/TR/WCAG22/#timeouts</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1463,7 +1463,7 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG21/#three-flashes-or-below-threshold</string>
+						<string>https://www.w3.org/TR/WCAG22/#three-flashes-or-below-threshold</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1500,7 +1500,7 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG21/#three-flashes</string>
+						<string>https://www.w3.org/TR/WCAG22/#three-flashes</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1537,7 +1537,7 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG21/#animation-from-interactions</string>
+						<string>https://www.w3.org/TR/WCAG22/#animation-from-interactions</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1574,7 +1574,7 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG21/#bypass-blocks</string>
+						<string>https://www.w3.org/TR/WCAG22/#bypass-blocks</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1611,7 +1611,7 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG21/#page-titled</string>
+						<string>https://www.w3.org/TR/WCAG22/#page-titled</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1648,7 +1648,7 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG21/#focus-order</string>
+						<string>https://www.w3.org/TR/WCAG22/#focus-order</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1685,7 +1685,7 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG21/#link-purpose-in-context</string>
+						<string>https://www.w3.org/TR/WCAG22/#link-purpose-in-context</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1722,7 +1722,7 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG21/#multiple-ways</string>
+						<string>https://www.w3.org/TR/WCAG22/#multiple-ways</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1759,7 +1759,7 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG21/#headings-and-labels</string>
+						<string>https://www.w3.org/TR/WCAG22/#headings-and-labels</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1796,7 +1796,7 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG21/#focus-visible</string>
+						<string>https://www.w3.org/TR/WCAG22/#focus-visible</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1833,7 +1833,7 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG21/#location</string>
+						<string>https://www.w3.org/TR/WCAG22/#location</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1870,7 +1870,7 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG21/#link-purpose-link-only</string>
+						<string>https://www.w3.org/TR/WCAG22/#link-purpose-link-only</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1907,7 +1907,7 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG21/#section-headings</string>
+						<string>https://www.w3.org/TR/WCAG22/#section-headings</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1944,7 +1944,7 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG21/#pointer-gestures</string>
+						<string>https://www.w3.org/TR/WCAG22/#pointer-gestures</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -1981,7 +1981,7 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG21/#pointer-cancellation</string>
+						<string>https://www.w3.org/TR/WCAG22/#pointer-cancellation</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -2018,7 +2018,7 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG21/#label-in-name</string>
+						<string>https://www.w3.org/TR/WCAG22/#label-in-name</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -2055,7 +2055,7 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG21/#motion-actuation</string>
+						<string>https://www.w3.org/TR/WCAG22/#motion-actuation</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -2092,7 +2092,7 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG21/#target-size</string>
+						<string>https://www.w3.org/TR/WCAG22/#target-size</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -2129,7 +2129,7 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG21/#concurrent-input-mechanisms</string>
+						<string>https://www.w3.org/TR/WCAG22/#concurrent-input-mechanisms</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -2166,7 +2166,7 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG21/#language-of-page</string>
+						<string>https://www.w3.org/TR/WCAG22/#language-of-page</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -2203,7 +2203,7 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG21/#language-of-parts</string>
+						<string>https://www.w3.org/TR/WCAG22/#language-of-parts</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -2240,7 +2240,7 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG21/#unusual-words</string>
+						<string>https://www.w3.org/TR/WCAG22/#unusual-words</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -2277,7 +2277,7 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG21/#abbreviations</string>
+						<string>https://www.w3.org/TR/WCAG22/#abbreviations</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -2314,7 +2314,7 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG21/#reading-level</string>
+						<string>https://www.w3.org/TR/WCAG22/#reading-level</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -2351,7 +2351,7 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG21/#pronunciation</string>
+						<string>https://www.w3.org/TR/WCAG22/#pronunciation</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -2388,7 +2388,7 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG21/#on-focus</string>
+						<string>https://www.w3.org/TR/WCAG22/#on-focus</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -2425,7 +2425,7 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG21/#on-input</string>
+						<string>https://www.w3.org/TR/WCAG22/#on-input</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -2462,7 +2462,7 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG21/#consistent-navigation</string>
+						<string>https://www.w3.org/TR/WCAG22/#consistent-navigation</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -2499,7 +2499,7 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG21/#consistent-identification</string>
+						<string>https://www.w3.org/TR/WCAG22/#consistent-identification</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -2536,7 +2536,7 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG21/#change-on-request</string>
+						<string>https://www.w3.org/TR/WCAG22/#change-on-request</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -2573,7 +2573,7 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG21/#error-identification</string>
+						<string>https://www.w3.org/TR/WCAG22/#error-identification</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -2610,7 +2610,7 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG21/#labels-or-instructions</string>
+						<string>https://www.w3.org/TR/WCAG22/#labels-or-instructions</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -2647,7 +2647,7 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG21/#error-suggestion</string>
+						<string>https://www.w3.org/TR/WCAG22/#error-suggestion</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -2684,7 +2684,7 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG21/#error-prevention-legal-financial-data</string>
+						<string>https://www.w3.org/TR/WCAG22/#error-prevention-legal-financial-data</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -2721,7 +2721,7 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG21/#help</string>
+						<string>https://www.w3.org/TR/WCAG22/#help</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -2758,7 +2758,7 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG21/#error-prevention-all</string>
+						<string>https://www.w3.org/TR/WCAG22/#error-prevention-all</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -2795,7 +2795,7 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG21/#parsing</string>
+						<string>https://www.w3.org/TR/WCAG22/#parsing</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -2832,7 +2832,7 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG21/#name-role-value</string>
+						<string>https://www.w3.org/TR/WCAG22/#name-role-value</string>
 					</dict>
 				</array>
 				<key>Name</key>
@@ -2869,7 +2869,7 @@
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>URL</key>
-						<string>https://www.w3.org/TR/WCAG21/#status-messages</string>
+						<string>https://www.w3.org/TR/WCAG22/#status-messages</string>
 					</dict>
 				</array>
 				<key>Name</key>

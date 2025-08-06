@@ -2413,7 +2413,7 @@
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>🆄 SC 3.3.8 Accessible Authentication (Minimum) [AA] - Understanding (Markdown link) !WCAG 2.2!</string>
+				<string>🆄 SC 3.3.8 Accessible Authentication (Minimum) [AA] - Understanding (HTML link) !WCAG 2.2!</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -2806,7 +2806,7 @@
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>🆄 SC 3.3.9 Accessible Authentication (Enhanced) [AAA] - Understanding (Markdown link) !WCAG 2.2!</string>
+				<string>🆄 SC 3.3.9 Accessible Authentication (Enhanced) [AAA] - Understanding (HTML link) !WCAG 2.2!</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -2946,7 +2946,7 @@
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>🆄 SC 2.5.8 Target Size (Minimum) [AA] - Understanding (Markdown link) !WCAG 2.2!</string>
+				<string>🆄 SC 2.5.8 Target Size (Minimum) [AA] - Understanding (HTML link) !WCAG 2.2!</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -2981,7 +2981,7 @@
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>🆄 SC 3.3.7 Redundant Entry [A] - Understanding (Markdown link) !WCAG 2.2!</string>
+				<string>🆄 SC 3.3.7 Redundant Entry [A] - Understanding (HTML link) !WCAG 2.2!</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -3016,7 +3016,7 @@
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>🆄 SC 2.4.13 Focus Appearance [AAA] - Understanding (Markdown link) !WCAG 2.2!</string>
+				<string>🆄 SC 2.4.13 Focus Appearance [AAA] - Understanding (HTML link) !WCAG 2.2!</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -3051,7 +3051,7 @@
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>🆄 SC 3.2.6 Consistent Help [A] - Understanding (Markdown link) !WCAG 2.2!</string>
+				<string>🆄 SC 3.2.6 Consistent Help [A] - Understanding (HTML link) !WCAG 2.2!</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -3293,7 +3293,7 @@
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>🆄 SC 2.4.12 Focus Not Obscured (Enhanced) [AA] - Understanding (Markdown link) !WCAG 2.2!</string>
+				<string>🆄 SC 2.4.12 Focus Not Obscured (Enhanced) [AA] - Understanding (HTML link) !WCAG 2.2!</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -3714,7 +3714,7 @@
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>🆄 SC 2.4.11 Focus Not Obscured (Minimum) [AA] - Understanding (Markdown link) !WCAG 2.2!</string>
+				<string>🆄 SC 2.4.11 Focus Not Obscured (Minimum) [AA] - Understanding (HTML link) !WCAG 2.2!</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -3749,7 +3749,7 @@
 					</dict>
 				</array>
 				<key>Name</key>
-				<string>🆄 SC 2.5.7 Dragging Movements [AA] - Understanding (Markdown link) !WCAG 2.2!</string>
+				<string>🆄 SC 2.5.7 Dragging Movements [AA] - Understanding (HTML link) !WCAG 2.2!</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
